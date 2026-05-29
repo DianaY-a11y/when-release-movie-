@@ -403,10 +403,6 @@ refreshed in batches. Here's how I'd evolve the data + server layers as it grows
 
 ### Data
 
-- **Decouple the snapshot hand-off from deploys.** Replace the `publish.sh` file copy with an
-  object store (S3/R2): the pipeline writes versioned snapshot keys plus a `meta.json` pointer,
-  and the app reads the current version at request time. The scrape cadence then no longer needs
-  an app redeploy, and rollback is just repointing the version.
 - **Schedule the refresh.** Move `marquee refresh && analyze all && publish` onto a nightly cron
   / GitHub Action so the snapshots stay current without a human running it.
 - **Promote per-user state off `localStorage`.** Saved films, shortlists, and weight/filter
@@ -420,9 +416,7 @@ refreshed in batches. Here's how I'd evolve the data + server layers as it grows
   moves server-side. Keep candidate **scoring client-side** — the film profile is private and the
   math is cheap — unless we want server-rendered shareable links, in which case scenarios get
   persisted and scored on read.
-- **Cache the heavy similarity work.** Comparable-titles lookup scans the full library and depends
-  only on the film (not filters/weekends), so memoize it per film, or precompute nearest neighbors
-  from the embeddings offline and serve them from a lookup table.
+
 
 ### On scale (and why CAP barely matters here)
 
