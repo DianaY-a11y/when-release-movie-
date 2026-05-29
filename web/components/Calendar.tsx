@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useRef, useState } from "react";
-import type { DecayCurves, ForwardSchedule, LegsPayload, WeeklyPayload } from "@/lib/types";
+import type { DecayCurves, FilmIndexItem, ForwardSchedule, LegsPayload, WeeklyPayload } from "@/lib/types";
 import { nextWeekendFridays } from "@/lib/holdovers";
 import { WeekendGrid, PresetSelector, ColorModeToggle, type ColorMode } from "./WeekendGrid";
 import { CongestionGraph } from "./CongestionGraph";
@@ -19,6 +19,7 @@ type Props = {
   film?: CandidateFilm | null;
   weeklyIndustry?: WeeklyPayload | null;
   weeklyIndie?: WeeklyPayload | null;
+  filmIndex?: FilmIndexItem[] | null;
 };
 
 type ViewMode = "graph" | "grid";
@@ -100,14 +101,17 @@ function RatingPicker({
   );
 }
 
+// Generic searchable multi-select over a string list (used for both Studio and Genre).
 function DistributorPicker({
   options,
   value,
   onChange,
+  noun = "studios",
 }: {
   options: string[];
   value: Set<string>;
   onChange: (v: Set<string>) => void;
+  noun?: string;
 }) {
   const [open, setOpen] = useState(false);
   const [search, setSearch] = useState("");
@@ -131,7 +135,7 @@ function DistributorPicker({
       ? "All"
       : value.size === 1
         ? [...value][0]
-        : `${value.size} studios`;
+        : `${value.size} ${noun}`;
 
   function toggle(o: string) {
     const next = new Set(value);
@@ -161,7 +165,7 @@ function DistributorPicker({
               autoFocus
               value={search}
               onChange={(e) => setSearch(e.target.value)}
-              placeholder="Search studios…"
+              placeholder={`Search ${noun}…`}
               className="w-full px-3 py-2 text-xs bg-transparent outline-none placeholder:text-[var(--color-muted)]"
             />
           </div>
@@ -248,10 +252,11 @@ export function Calendar({
   film: filmFromUrl = null,
   weeklyIndustry = null,
   weeklyIndie = null,
+  filmIndex = null,
 }: Props) {
   const {
     active, userSelected, weights, setWeights,
-    filters, setCategoryFilter, setMpaaFilter, setDistributorFilter, clearFilters,
+    filters, setCategoryFilter, setMpaaFilter, setDistributorFilter, setGenreFilter, clearFilters,
   } = useFilms();
   // A `?s=` URL scenario takes precedence for share-link loads, but once the user has
   // explicitly picked a film (or "None") from the header, that selection wins — otherwise
@@ -259,12 +264,10 @@ export function Calendar({
   const film = userSelected ? active?.film ?? null : filmFromUrl ?? active?.film ?? null;
 
   // Filters live in FilmContext so the compare cards below score against the same frame.
-  const { category, mpaa, distributors } = filters;
-  const [weeks, setWeeks] = useState(16);
-  // Default: grid (works with or without a film — it colors cells by peer median even
-  // before a film is loaded). When a film loads we auto-swap to the graph, the richer
-  // "landscape" lens. The user can switch anytime.
-  const [view, setView] = useState<ViewMode>("grid");
+  const { category, mpaa, distributors, genres } = filters;
+  const [weeks, setWeeks] = useState(52);
+  // Default to the graph (congestion landscape). User can switch to the grid anytime.
+  const [view, setView] = useState<ViewMode>("graph");
   const [colorMode, setColorMode] = useState<ColorMode>(film ? "combined" : "median");
 
   // Without a film, only "median" is meaningful — competition and combined need a film
@@ -326,9 +329,18 @@ export function Calendar({
     return Array.from(s).sort();
   }, [forward]);
 
+  const genreOptions = useMemo(() => {
+    const s = new Set<string>();
+    for (const f of forward.items) for (const g of f.genres ?? []) s.add(g);
+    return Array.from(s).sort();
+  }, [forward]);
+
   // "all" is the default category — it doesn't count as a "filter applied" for the badge.
   const activeFilterCount =
-    (category !== "all" ? 1 : 0) + (mpaa ? 1 : 0) + (distributors.size > 0 ? 1 : 0);
+    (category !== "all" ? 1 : 0) +
+    (mpaa ? 1 : 0) +
+    (distributors.size > 0 ? 1 : 0) +
+    (genres.size > 0 ? 1 : 0);
   const clearAll = clearFilters;
 
   return (
@@ -417,6 +429,16 @@ export function Calendar({
             <div className="text-xs uppercase tracking-widest text-[var(--color-muted)]">Rating</div>
             <RatingPicker options={mpaaOptions} value={mpaa} onChange={setMpaaFilter} />
           </div>
+
+          <div className="space-y-2">
+            <div className="text-xs uppercase tracking-widest text-[var(--color-muted)]">Genre</div>
+            <DistributorPicker
+              options={genreOptions}
+              value={genres}
+              onChange={setGenreFilter}
+              noun="genres"
+            />
+          </div>
         </div>
 
         {/* Grid-only scoring controls — color mode, weights, genre preset. Hidden in graph
@@ -451,7 +473,7 @@ export function Calendar({
 
       {view === "graph" ? (
         graphDeps ? (
-          <CongestionGraph deps={graphDeps} weeks={weeks} />
+          <CongestionGraph deps={graphDeps} weeks={weeks} filmIndex={filmIndex} />
         ) : (
           <div className="border border-dashed border-[var(--color-line)] p-8 text-sm text-[var(--color-muted)]">
             Snapshot data missing for the graph view.
@@ -467,7 +489,7 @@ export function Calendar({
           weights={film ? weights : null}
           colorMode={colorMode}
           onColorModeChange={setColorMode}
-          filters={{ category, mpaa, distributors }}
+          filters={{ category, mpaa, distributors, genres }}
           legs={legs}
           weeklyIndustry={weeklyIndustry}
           weeklyIndie={weeklyIndie}

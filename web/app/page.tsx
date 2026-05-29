@@ -67,6 +67,7 @@ export default async function Home({
         film={film}
         weeklyIndustry={weeklyIndustry}
         weeklyIndie={weeklyIndie}
+        filmIndex={filmIndex?.items ?? null}
         budgetMap={Object.fromEntries(
           (filmIndex?.items ?? [])
             .filter((f) => f.budget_usd != null)

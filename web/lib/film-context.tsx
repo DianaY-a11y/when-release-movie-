@@ -37,6 +37,7 @@ type FilmContextValue = {
   setCategoryFilter: (c: CategoryFilter) => void;
   setMpaaFilter: (m: string | null) => void;
   setDistributorFilter: (d: Set<string>) => void;
+  setGenreFilter: (g: Set<string>) => void;
   clearFilters: () => void;
 };
 
@@ -46,6 +47,8 @@ export type CompetitionFilters = {
   category: CategoryFilter;
   mpaa: string | null;
   distributors: Set<string>;
+  // Multi-select genres — a competitor counts only if it shares one (OR). Empty = all.
+  genres: Set<string>;
 };
 
 const Ctx = createContext<FilmContextValue | null>(null);
@@ -82,14 +85,16 @@ export function FilmProvider({ children }: { children: React.ReactNode }) {
   const [categoryFilter, setCategoryFilter] = useState<CategoryFilter>("all");
   const [mpaaFilter, setMpaaFilter] = useState<string | null>(null);
   const [distributorFilter, setDistributorFilter] = useState<Set<string>>(new Set());
+  const [genreFilter, setGenreFilter] = useState<Set<string>>(new Set());
   const clearFilters = useCallback(() => {
     setCategoryFilter("all");
     setMpaaFilter(null);
     setDistributorFilter(new Set());
+    setGenreFilter(new Set());
   }, []);
   const filters: CompetitionFilters = useMemo(
-    () => ({ category: categoryFilter, mpaa: mpaaFilter, distributors: distributorFilter }),
-    [categoryFilter, mpaaFilter, distributorFilter]
+    () => ({ category: categoryFilter, mpaa: mpaaFilter, distributors: distributorFilter, genres: genreFilter }),
+    [categoryFilter, mpaaFilter, distributorFilter, genreFilter]
   );
 
   const active = films.find((f) => f.id === activeId) ?? null;
@@ -110,6 +115,20 @@ export function FilmProvider({ children }: { children: React.ReactNode }) {
   if (autoWeights !== prevAutoWeights) {
     setPrevAutoWeights(autoWeights);
     setWeightsState(autoWeights);
+  }
+
+  // Pre-select the active film's genres in the genre filter when the film changes, so the
+  // competition set defaults to same-genre titles. The user can still adjust or clear it.
+  // (Empty set when no film is active — i.e. all genres.)
+  const autoGenres = useMemo<Set<string>>(
+    () => new Set(active?.film.genres ?? []),
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [activeId]
+  );
+  const [prevAutoGenres, setPrevAutoGenres] = useState(autoGenres);
+  if (autoGenres !== prevAutoGenres) {
+    setPrevAutoGenres(autoGenres);
+    setGenreFilter(autoGenres);
   }
 
   // film list + active id are now derived from the store via useSyncExternalStore, so
@@ -142,7 +161,7 @@ export function FilmProvider({ children }: { children: React.ReactNode }) {
       setActive, save, remove,
       modalOpen, openModal, closeModal,
       weights, setWeights,
-      filters, setCategoryFilter, setMpaaFilter, setDistributorFilter, clearFilters,
+      filters, setCategoryFilter, setMpaaFilter, setDistributorFilter, setGenreFilter, clearFilters,
     }}>
       {children}
     </Ctx.Provider>

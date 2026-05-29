@@ -56,8 +56,9 @@ export function useWireframeModel(deps: ClientScoreDeps): WireframeModel | null 
   // universe).
   const competitorFilter = useMemo(() => {
     const dists = [...filters.distributors].sort();
-    return { category: filters.category, mpaa: filters.mpaa, distributors: dists };
-  }, [filters.category, filters.mpaa, filters.distributors]);
+    const genres = [...filters.genres].sort();
+    return { category: filters.category, mpaa: filters.mpaa, distributors: dists, genres };
+  }, [filters.category, filters.mpaa, filters.distributors, filters.genres]);
   const competitorFilterKey = JSON.stringify(competitorFilter);
 
   const allFridays = useMemo(() => nextWeekendFridays(52).map((f) => f.date), []);

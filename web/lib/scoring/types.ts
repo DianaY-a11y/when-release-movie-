@@ -70,5 +70,8 @@ export type CompetitorFilter = {
   mpaa?: string | null;
   // Specific picked distributor names. Empty / undefined = no constraint.
   distributors?: string[];
+  // Picked genres (Box-office Mojo categories). A competitor matches if any of its
+  // genres is in this list (OR). Empty / undefined = no constraint.
+  genres?: string[];
 };
 

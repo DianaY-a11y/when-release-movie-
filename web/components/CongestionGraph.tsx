@@ -5,15 +5,16 @@ import { useCompareSelection } from "@/lib/compare-selection";
 import { useFilms } from "@/lib/film-context";
 import { nextWeekendFridays, isoWeekOf } from "@/lib/holdovers";
 import { formatMoney } from "@/lib/format";
-import type { ClientScoreDeps } from "@/lib/scoring/score-client";
-import type { ForwardItem } from "@/lib/types";
+import type { ClientScoreDeps, CompetitorFilter } from "@/lib/scoring/score-client";
+import type { FilmIndexItem, ForwardItem } from "@/lib/types";
 import { Hint } from "./Hint";
 import { MovieModal } from "./wireframe/MovieModal";
 import { CandidateBar } from "./CandidateBar";
 import {
   MONTHS,
   buildDemand,
-  congestionSeries,
+  buildDemandForGenres,
+  congestionBands,
   type CongestionPoint,
   type DemandPoint,
   type DirectComp,
@@ -33,7 +34,15 @@ const MIN_ZOOM_SPAN = 3;
 // direct (same-audience) threats named as cells. Troughs in the dark band are the white
 // space. Click a week to add/remove it from your compare shortlist; click a named
 // competitor for its breakdown. Built off the same live scorer as the grid.
-export function CongestionGraph({ deps, weeks = 52 }: { deps: ClientScoreDeps; weeks?: number }) {
+export function CongestionGraph({
+  deps,
+  weeks = 52,
+  filmIndex = null,
+}: {
+  deps: ClientScoreDeps;
+  weeks?: number;
+  filmIndex?: FilmIndexItem[] | null;
+}) {
   const { active, filters } = useFilms();
   const film = active?.film ?? null;
   const model = useWireframeModel(deps); // null until a film is loaded (competition layer)
@@ -58,6 +67,27 @@ export function CongestionGraph({ deps, weeks = 52 }: { deps: ClientScoreDeps; w
   }, [upcoming]);
   const startISO = upcoming.length ? isoWeekOf(upcoming[0].date) : 1;
 
+  // The x-axis is seasonal (ISO weeks 1–52), but the live planning window rolls across a
+  // calendar-year boundary — so resolve each ISO week to its real upcoming date to show
+  // the actual month + year on the axis and in hovers.
+  const fmtWeekDate = (w: number): string | null => {
+    const d = dateByWeek.get(w);
+    if (!d) return null;
+    return new Date(d + "T00:00:00Z").toLocaleString("en-US", {
+      month: "short",
+      year: "numeric",
+      timeZone: "UTC",
+    });
+  };
+  const weekHoverLabel = (w: number): string => {
+    const my = fmtWeekDate(w);
+    return my ? `Week ${w} · ${my}` : `Week ${w}`;
+  };
+  const yearOfWeek = (w: number): number | null => {
+    const d = dateByWeek.get(w);
+    return d ? new Date(d + "T00:00:00Z").getUTCFullYear() : null;
+  };
+
   // The visible ISO-week window implied by the "Weeks shown" selector.
   const baseLo = weeks >= 52 ? 1 : Math.max(1, Math.min(52, startISO));
   const baseHi = weeks >= 52 ? 52 : Math.max(baseLo, Math.min(52, startISO + weeks - 1));
@@ -70,12 +100,19 @@ export function CongestionGraph({ deps, weeks = 52 }: { deps: ClientScoreDeps; w
     setDomain([baseLo, baseHi]);
   }
 
-  // Demand = seasonal peer-median opener strength per ISO week (10 years, ex-COVID),
-  // straight from the weekly snapshot — no film needed.
-  const demand = useMemo(
-    () => buildDemand(baselineTier === "indie" ? deps.weeklyIndie : deps.weeklyIndustry),
-    [deps.weeklyIndie, deps.weeklyIndustry, baselineTier]
-  );
+  // Demand = seasonal peer-median opener strength per ISO week (10 years, ex-COVID). With
+  // genres selected, recompute it from the film index for just those genres; otherwise use
+  // the precomputed all-genres weekly snapshot. No film needed either way.
+  const genreList = useMemo(() => [...filters.genres].sort(), [filters.genres]);
+  const genreKey = genreList.join("|");
+  const demand = useMemo(() => {
+    const base = baselineTier === "indie" ? deps.weeklyIndie : deps.weeklyIndustry;
+    if (genreList.length > 0 && filmIndex && filmIndex.length > 0) {
+      return buildDemandForGenres(filmIndex, baselineTier, genreList, base);
+    }
+    return buildDemand(base);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [deps.weeklyIndie, deps.weeklyIndustry, baselineTier, genreKey, filmIndex]);
 
   const [lo, hi] = domain;
   const xw = (w: number) => xIn(w, lo, hi);
@@ -85,9 +122,27 @@ export function CongestionGraph({ deps, weeks = 52 }: { deps: ClientScoreDeps; w
   const selectedItem: ForwardItem | null =
     selectedId != null ? deps.forward.items.find((f) => f.id === selectedId) ?? null : null;
 
-  // Competition layer — only present once a film defines an audience.
+  // Competition bands — only meaningful once a film defines an audience. Light = the whole
+  // upcoming field (all releases in the curated universe); dark = same-audience competition
+  // within the active filter. Built straight from the forward schedule so the light band
+  // counts every release, not just the similar ones.
+  const competitorFilter = useMemo<CompetitorFilter>(
+    () => ({
+      category: filters.category,
+      mpaa: filters.mpaa,
+      distributors: [...filters.distributors].sort(),
+      genres: [...filters.genres].sort(),
+    }),
+    [filters.category, filters.mpaa, filters.distributors, filters.genres]
+  );
   const direct = model?.direct ?? [];
-  const congestion = model ? congestionSeries(model.scored, model.midpoint) : [];
+  const congestion = useMemo(
+    () =>
+      film
+        ? congestionBands(film, upcoming.map((f) => f.date), deps.forward, deps.decay, competitorFilter)
+        : [],
+    [film, upcoming, deps.forward, deps.decay, competitorFilter]
+  );
   const shortlistDates = selection.weekends;
 
   function toggleWeek(week: number) {
@@ -142,10 +197,17 @@ export function CongestionGraph({ deps, weeks = 52 }: { deps: ClientScoreDeps; w
               <p>
                 Seasonal opener strength for the selected tier: the peer-median opening-weekend
                 gross per ISO week (last 10 yrs, excl. 2020–21), min-max normalized across all 52
-                weeks. Independent of your film&apos;s genre.
+                weeks.
               </p>
               <p className="mt-1.5 font-mono text-[10px]">
                 demand(w) = (med[w] − min) ÷ (max − min)
+              </p>
+              <p className="mt-1.5">
+                {genreList.length > 0
+                  ? `Recomputed from the film index for the selected genre${
+                      genreList.length > 1 ? "s" : ""
+                    } (${genreList.join(", ")}) — sparser, so noisier than the all-genres curve.`
+                  : "Across all genres. Select genres to recompute it for just those."}
               </p>
             </>
           }
@@ -155,7 +217,7 @@ export function CongestionGraph({ deps, weeks = 52 }: { deps: ClientScoreDeps; w
               <button
                 key={d.week}
                 onClick={() => toggleWeek(d.week)}
-                title={`Wk ${d.week} — peer median open ${formatMoney(d.grossUsd)}${
+                title={`${weekHoverLabel(d.week)} — peer median open ${formatMoney(d.grossUsd)}${
                   d.holiday ? ` · ${d.holiday}` : ""
                 }`}
                 className="flex-1 rounded-sm hover:outline hover:outline-1 hover:outline-[var(--color-ink)]"
@@ -175,15 +237,18 @@ export function CongestionGraph({ deps, weeks = 52 }: { deps: ClientScoreDeps; w
           info={
             <>
               <p>
-                How crowded the week is for your film&apos;s audience. Each upcoming release{" "}
-                <em>c</em> (openers + decaying holdovers) is weighted by similarity to your film.
+                How crowded each week is. Both bands count releases by <em>presence</em> — an
+                opener counts as 1, a holdover as its retention — and are scaled to the busiest
+                week of the year.
               </p>
-              <p className="mt-1.5 font-mono text-[10px]">raw = Σ&#8202;ₖ sim(film, c) · share(c)</p>
-              <p className="font-mono text-[10px]">competition = raw ÷ (raw + 1)</p>
               <p className="mt-1.5">
-                share = 1 if <em>c</em> opens that week, else its holdover retention. sim ∈ [0,1]
-                blends genre, rating, and tier. The dark &ldquo;same-audience&rdquo; band sums
-                only releases with sim ≥ 0.45.
+                <strong>Light</strong> = every release in the curated theatrical universe
+                (regardless of genre or similarity) — the whole field, for context.
+              </p>
+              <p className="mt-1">
+                <strong>Dark</strong> = the same-audience subset: releases that pass your active
+                filters <em>and</em> are similar to your film (similarity ≥ 0.45). These are the
+                ones named as cells above the curve.
               </p>
             </>
           }
@@ -196,6 +261,7 @@ export function CongestionGraph({ deps, weeks = 52 }: { deps: ClientScoreDeps; w
               shortlistWeeks={shortlistDates.map((d) => isoWeekOf(d))}
               onPick={toggleWeek}
               onSelectFilm={(id) => setSelectedId(id)}
+              weekLabel={weekHoverLabel}
             />
           ) : (
             <div className="h-12 flex items-center text-[11px] text-[var(--color-muted)] italic">
@@ -206,17 +272,29 @@ export function CongestionGraph({ deps, weeks = 52 }: { deps: ClientScoreDeps; w
 
         <div className="flex" style={{ paddingLeft: LABEL_W }}>
           <div className="relative flex-1 h-6 mt-1">
-            {MONTHS.map((m, i) =>
-              inWin(MONTH_WEEK[i]) ? (
-                <span
-                  key={m}
-                  className="absolute text-[10px] uppercase tracking-wider text-[var(--color-muted)] -translate-x-1/2"
-                  style={{ left: `${xw(MONTH_WEEK[i])}%` }}
-                >
-                  {m}
-                </span>
-              ) : null
-            )}
+            {(() => {
+              const visIdx = MONTHS.map((_, i) => i).filter((i) => inWin(MONTH_WEEK[i]));
+              return visIdx.map((i, pos) => {
+                const y = yearOfWeek(MONTH_WEEK[i]);
+                const prevY = pos > 0 ? yearOfWeek(MONTH_WEEK[visIdx[pos - 1]]) : null;
+                // Show the year on the first visible month and wherever it changes.
+                const showYear = y != null && (pos === 0 || y !== prevY);
+                return (
+                  <span
+                    key={MONTHS[i]}
+                    className="absolute text-[10px] uppercase tracking-wider text-[var(--color-muted)] -translate-x-1/2"
+                    style={{ left: `${xw(MONTH_WEEK[i])}%` }}
+                  >
+                    {MONTHS[i]}
+                    {showYear && (
+                      <span className="ml-0.5 text-[var(--color-ink)]/70">
+                        &rsquo;{String(y).slice(2)}
+                      </span>
+                    )}
+                  </span>
+                );
+              });
+            })()}
           </div>
         </div>
 
@@ -235,8 +313,7 @@ export function CongestionGraph({ deps, weeks = 52 }: { deps: ClientScoreDeps; w
 
         <div className="flex" style={{ paddingLeft: LABEL_W }}>
           <p className="text-[11px] text-[var(--color-muted)] mt-2">
-            Click a week (bar or curve) to add it to the comparison set on the Compare
-            page; accent lines mark selected weeks. Each cell names a direct competitor&apos;s
+            Each cell names a direct competitor&apos;s
             <em> opening</em>; the shaded tail to its right is that film&apos;s projected
             holdover. Drag the bar above to zoom into a span of weeks.
           </p>
@@ -278,6 +355,7 @@ function CongestionCurve({
   shortlistWeeks,
   onPick,
   onSelectFilm,
+  weekLabel,
 }: {
   series: CongestionPoint[];
   direct: DirectComp[];
@@ -285,6 +363,7 @@ function CongestionCurve({
   shortlistWeeks: number[];
   onPick: (week: number) => void;
   onSelectFilm: (id: number, week: number) => void;
+  weekLabel?: (w: number) => string;
 }) {
   const [lo, hi] = domain;
   const count = hi - lo + 1;
@@ -323,7 +402,7 @@ function CongestionCurve({
             <button
               key={c.id}
               onClick={() => onSelectFilm(c.id, c.week)}
-              title={`${c.name} — ${c.distributor ?? "—"}, wk ${c.week}, similarity ${c.sim.toFixed(2)} · click for details`}
+              title={`${c.name} — ${c.distributor ?? "—"}, ${weekLabel ? weekLabel(c.week) : `wk ${c.week}`}, similarity ${c.sim.toFixed(2)} · click for details`}
               className="absolute -translate-x-1/2 h-[16px] rounded-sm border flex items-center px-1 overflow-hidden whitespace-nowrap hover:ring-1 hover:ring-[var(--color-ink)]"
               style={{
                 left: `${left}%`,
@@ -361,7 +440,7 @@ function CongestionCurve({
             <button
               key={w}
               onClick={() => onPick(w)}
-              title={`Week ${w}`}
+              title={weekLabel ? weekLabel(w) : `Week ${w}`}
               className={`flex-1 hover:bg-[var(--color-ink)]/5 ${
                 shortlistSet.has(w) ? "bg-[var(--color-accent)]/5" : ""
               }`}
@@ -506,7 +585,7 @@ function Legend({ showCompetition }: { showCompetition: boolean }) {
         <>
           <span className="flex items-center gap-1.5">
             <span className="inline-block w-3.5 h-3.5 rounded-sm" style={{ background: "rgba(183,58,43,0.14)" }} />
-            All competition
+            All releases
           </span>
           <span className="flex items-center gap-1.5">
             <span className="inline-block w-3.5 h-3.5 rounded-sm" style={{ background: "rgba(183,58,43,0.55)" }} />

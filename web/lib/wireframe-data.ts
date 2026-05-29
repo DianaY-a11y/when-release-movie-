@@ -3,12 +3,12 @@
 // shapes the wireframe visuals expect. All numbers here trace back to the same
 // pipeline the calendar/compare surfaces use — nothing is mocked.
 
-import { absCompNorm, scoreClient, type ClientScoreDeps, type CompetitorFilter } from "./scoring/score-client";
+import { absCompNorm, passesCompetitorFilter, scoreClient, type ClientScoreDeps, type CompetitorFilter } from "./scoring/score-client";
 import { similarity } from "./scoring/similarity";
 import { matchesCategoryFilter } from "./distributors";
-import { isoWeekOf } from "./holdovers";
+import { activeFilmsOn, isoWeekOf } from "./holdovers";
 import type { CandidateFilm, CompetitorSlot, WeekendScore, Weights } from "./scoring/types";
-import type { ForwardItem, WeeklyPayload } from "./types";
+import type { DecayCurves, FilmIndexItem, ForwardSchedule, ForwardItem, WeeklyPayload } from "./types";
 
 export type Overlap = "high" | "some" | "none";
 
@@ -53,6 +53,56 @@ export function buildDemand(weekly: WeeklyPayload): DemandPoint[] {
       grossUsd: w.median_opener_gross_usd,
       holiday: w.holiday,
     }));
+}
+
+function medianOf(xs: number[]): number {
+  if (xs.length === 0) return 0;
+  const s = [...xs].sort((a, b) => a - b);
+  const m = Math.floor(s.length / 2);
+  return s.length % 2 === 1 ? s[m] : (s[m - 1] + s[m]) / 2;
+}
+
+// Genre-specific seasonal demand, recomputed from the per-film index: per-ISO-week median
+// opening gross for films in `tier` whose genres include ANY of `genres` (OR), then min-max
+// normalized across the 52 weeks. Uses the base payload's min-gross floor + excluded years
+// so it stays comparable to the precomputed all-genres curve. Returns the plain `buildDemand`
+// output when no genre is selected. Sparser than the precomputed payload → noisier.
+export function buildDemandForGenres(
+  items: FilmIndexItem[],
+  tier: "industry" | "indie",
+  genres: string[],
+  base: WeeklyPayload
+): DemandPoint[] {
+  if (genres.length === 0) return buildDemand(base);
+
+  const minGross = base.min_opener_gross_usd;
+  const excluded = new Set(base.excluded_years);
+  const sel = new Set(genres.map((g) => g.toLowerCase()));
+  const holidayByIso = new Map(base.weeks.map((w) => [w.iso_week, w.holiday]));
+
+  const grossByIso = new Map<number, number[]>();
+  for (const f of items) {
+    if (f.tier !== tier) continue;
+    if (f.opening_usd == null || f.opening_usd < minGross) continue;
+    if (excluded.has(f.year)) continue;
+    if (!(f.genres ?? []).some((x) => sel.has(x.toLowerCase()))) continue;
+    const arr = grossByIso.get(f.iso_week);
+    if (arr) arr.push(f.opening_usd);
+    else grossByIso.set(f.iso_week, [f.opening_usd]);
+  }
+
+  const medians: number[] = [];
+  for (let i = 1; i <= 52; i++) medians.push(medianOf(grossByIso.get(i) ?? []));
+  const max = Math.max(...medians, 0);
+  const min = Math.min(...medians);
+  const span = max - min || 1;
+
+  return medians.map((med, idx) => ({
+    week: idx + 1,
+    value: Math.round(((med - min) / span) * 100),
+    grossUsd: med,
+    holiday: holidayByIso.get(idx + 1) ?? null,
+  }));
 }
 
 // ── Competitive field ───────────────────────────────────────────────────────
@@ -223,6 +273,54 @@ export function congestionSeries(scored: WeekendScore[], midpoint: number): Cong
     });
   }
   return [...byWeek.values()].sort((a, b) => a.week - b.week);
+}
+
+// Count-based congestion bands for the landscape graph:
+//   total = the whole upcoming field that week (every release in the curated universe),
+//           NOT weighted by similarity — pure "how busy is this weekend".
+//   clash = the same-audience subset: releases passing the active filter AND similar to
+//           the candidate (similarity ≥ CLASH_SIM).
+// Both are share-weighted counts (an opener = 1, a holdover = its retention) on the SAME
+// scale — normalized by the busiest week's total — so the dark band always nests inside
+// the light one. Computed straight from the forward schedule so the light band sees the
+// full field, not just the top-N stored on each scored row.
+export function congestionBands(
+  candidate: CandidateFilm,
+  weekends: string[],
+  forward: ForwardSchedule,
+  decay: DecayCurves,
+  filter: CompetitorFilter | null
+): CongestionPoint[] {
+  const byWeek = new Map<number, { date: string; total: number; clash: number }>();
+  for (const date of weekends) {
+    const isoW = isoWeekOf(date);
+    if (byWeek.has(isoW)) continue;
+    let total = 0;
+    let clash = 0;
+    for (const c of activeFilmsOn(date, forward.items, decay)) {
+      const share = c.week_n === 1 ? 1 : c.retention;
+      // Light band: the entire curated theatrical field (similarity- and genre-agnostic).
+      if (matchesCategoryFilter(c.film.distributor, "all")) total += share;
+      // Dark band: same-audience competition within the user's active filter.
+      if (passesCompetitorFilter(c.film, filter)) {
+        const sim = similarity(candidate, {
+          tier: c.film.tier,
+          mpaa: c.film.mpaa,
+          genres: c.film.genres,
+        });
+        if (sim >= CLASH_SIM) clash += share;
+      }
+    }
+    byWeek.set(isoW, { date, total, clash });
+  }
+  const entries = [...byWeek.entries()].sort((a, b) => a[0] - b[0]);
+  const maxTotal = Math.max(1, ...entries.map(([, v]) => v.total));
+  return entries.map(([week, v]) => ({
+    week,
+    date: v.date,
+    total: Math.round((v.total / maxTotal) * 100),
+    clash: Math.round((v.clash / maxTotal) * 100),
+  }));
 }
 
 // The films that make up the dark "same-audience" band — the direct competitors worth

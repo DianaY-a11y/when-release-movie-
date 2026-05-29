@@ -14,6 +14,7 @@ import { similarity } from "./similarity";
 import type { CandidateFilm, CompetitorSlot, WeekendScore, Weights } from "./types";
 import type {
   DecayCurves,
+  ForwardItem,
   ForwardSchedule,
   LegsPayload,
   WeeklyPayload,
@@ -111,6 +112,30 @@ export type ClientScoreDeps = {
 export type { CompetitorFilter } from "./types";
 import type { CompetitorFilter } from "./types";
 
+// Does a forward-schedule film pass the UI competitor filter (category / rating / picked
+// distributors / genres)? Shared by the scorer and the graph's congestion bands so they
+// always restrict to the same set. Null filter = everything passes.
+export function passesCompetitorFilter(
+  f: ForwardItem,
+  filt: CompetitorFilter | null
+): boolean {
+  if (!filt) return true;
+  if (filt.category && !matchesCategoryFilter(f.distributor, filt.category)) return false;
+  if (filt.mpaa && f.mpaa !== filt.mpaa) return false;
+  if (
+    filt.distributors &&
+    filt.distributors.length > 0 &&
+    !filt.distributors.includes(f.distributor ?? "")
+  ) {
+    return false;
+  }
+  if (filt.genres && filt.genres.length > 0) {
+    const g = f.genres ?? [];
+    if (!g.some((x) => filt.genres!.includes(x))) return false;
+  }
+  return true;
+}
+
 export type ScoreClientOptions = {
   // Which weekly payload drives peer median + legs baseline. Always the candidate
   // film's tier — narrowing the visible competitor set via UI filters never changes
@@ -152,22 +177,9 @@ export function scoreClient(
       .map((f) => f.multiplier);
     const peerMedianMult = median(mults);
 
-    const competitors = activeFilmsOn(weekendIso, deps.forward.items, deps.decay).filter((c) => {
-      if (!filt) return true;
-      // Distributor category gate (universe / studio / prestige).
-      if (filt.category && !matchesCategoryFilter(c.film.distributor, filt.category)) {
-        return false;
-      }
-      if (filt.mpaa && c.film.mpaa !== filt.mpaa) return false;
-      if (
-        filt.distributors &&
-        filt.distributors.length > 0 &&
-        !filt.distributors.includes(c.film.distributor ?? "")
-      ) {
-        return false;
-      }
-      return true;
-    });
+    const competitors = activeFilmsOn(weekendIso, deps.forward.items, deps.decay).filter((c) =>
+      passesCompetitorFilter(c.film, filt)
+    );
 
     const slots: CompetitorSlot[] = competitors.map((c) => {
       // Forward-schedule films carry genres/mpaa/tier but (almost) never LLM tags, so we

@@ -34,6 +34,7 @@ type Props = {
     category: CategoryFilter;
     mpaa: string | null;
     distributors: Set<string>;
+    genres: Set<string>;
   };
   // Legs snapshot for the client-side multiplier baseline.
   legs?: LegsPayload | null;
@@ -201,8 +202,9 @@ export function WeekendGrid({
       category: filters.category,
       mpaa: filters.mpaa,
       distributors: Array.from(filters.distributors).sort(),
+      genres: Array.from(filters.genres).sort(),
     };
-  }, [filters.category, filters.mpaa, filters.distributors]);
+  }, [filters.category, filters.mpaa, filters.distributors, filters.genres]);
   const competitorFilterKey = JSON.stringify(competitorFilter);
 
   // Scoring is done client-side (same scoreClient the compare cards use), so the grid
@@ -324,6 +326,11 @@ export function WeekendGrid({
         if (
           filters.distributors.size > 0 &&
           !filters.distributors.has(h.film.distributor ?? "")
+        )
+          return false;
+        if (
+          filters.genres.size > 0 &&
+          !(h.film.genres ?? []).some((g) => filters.genres.has(g))
         )
           return false;
         return true;
@@ -651,6 +658,7 @@ function WeekendDetail({
     category: CategoryFilter;
     mpaa: string | null;
     distributors: Set<string>;
+    genres: Set<string>;
   };
   historicalOpeners: WeekSummary["top_films"];
   pinned: boolean;
@@ -665,6 +673,11 @@ function WeekendDetail({
     if (
       filters.distributors.size > 0 &&
       !filters.distributors.has(h.film.distributor ?? "")
+    )
+      return false;
+    if (
+      filters.genres.size > 0 &&
+      !(h.film.genres ?? []).some((g) => filters.genres.has(g))
     )
       return false;
     return true;
