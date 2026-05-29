@@ -1,0 +1,6801 @@
+{
+  "min_opening_usd": 1000000,
+  "high_multiplier_threshold": 3.0,
+  "clearance_by_week": {
+    "1": {
+      "avg_drop": 0.25105714285714287,
+      "n_observations": 70,
+      "clearance_score": 0.0
+    },
+    "2": {
+      "avg_drop": 0.03882481751824818,
+      "n_observations": 137,
+      "clearance_score": 0.0
+    },
+    "3": {
+      "avg_drop": -0.0007659574468085104,
+      "n_observations": 94,
+      "clearance_score": 0.0007659574468085104
+    },
+    "4": {
+      "avg_drop": -0.18302970297029703,
+      "n_observations": 101,
+      "clearance_score": 0.18302970297029703
+    },
+    "5": {
+      "avg_drop": -0.1218135593220339,
+      "n_observations": 118,
+      "clearance_score": 0.1218135593220339
+    },
+    "6": {
+      "avg_drop": -0.16964347826086956,
+      "n_observations": 115,
+      "clearance_score": 0.16964347826086956
+    },
+    "7": {
+      "avg_drop": -0.15110576923076924,
+      "n_observations": 104,
+      "clearance_score": 0.15110576923076924
+    },
+    "8": {
+      "avg_drop": -0.14753333333333335,
+      "n_observations": 105,
+      "clearance_score": 0.14753333333333335
+    },
+    "9": {
+      "avg_drop": -0.08709090909090911,
+      "n_observations": 99,
+      "clearance_score": 0.08709090909090911
+    },
+    "10": {
+      "avg_drop": -0.08808108108108109,
+      "n_observations": 111,
+      "clearance_score": 0.08808108108108109
+    },
+    "11": {
+      "avg_drop": -0.0076554621848739434,
+      "n_observations": 119,
+      "clearance_score": 0.0076554621848739434
+    },
+    "12": {
+      "avg_drop": -0.07190833333333332,
+      "n_observations": 120,
+      "clearance_score": 0.07190833333333332
+    },
+    "13": {
+      "avg_drop": -0.14834710743801652,
+      "n_observations": 121,
+      "clearance_score": 0.14834710743801652
+    },
+    "14": {
+      "avg_drop": -0.18344144144144142,
+      "n_observations": 111,
+      "clearance_score": 0.18344144144144142
+    },
+    "15": {
+      "avg_drop": 0.12396946564885497,
+      "n_observations": 131,
+      "clearance_score": 0.0
+    },
+    "16": {
+      "avg_drop": 0.035343999999999993,
+      "n_observations": 125,
+      "clearance_score": 0.0
+    },
+    "17": {
+      "avg_drop": 0.1905390625,
+      "n_observations": 128,
+      "clearance_score": 0.0
+    },
+    "18": {
+      "avg_drop": -0.052083969465648854,
+      "n_observations": 131,
+      "clearance_score": 0.052083969465648854
+    },
+    "19": {
+      "avg_drop": -0.003485148514851487,
+      "n_observations": 101,
+      "clearance_score": 0.003485148514851487
+    },
+    "20": {
+      "avg_drop": -0.1914807692307692,
+      "n_observations": 104,
+      "clearance_score": 0.1914807692307692
+    },
+    "21": {
+      "avg_drop": 0.05780357142857142,
+      "n_observations": 112,
+      "clearance_score": 0.0
+    },
+    "22": {
+      "avg_drop": -0.046235294117647055,
+      "n_observations": 85,
+      "clearance_score": 0.046235294117647055
+    },
+    "23": {
+      "avg_drop": -0.2474,
+      "n_observations": 90,
+      "clearance_score": 0.2474
+    },
+    "24": {
+      "avg_drop": 0.12823595505617977,
+      "n_observations": 89,
+      "clearance_score": 0.0
+    },
+    "25": {
+      "avg_drop": 0.12156310679611651,
+      "n_observations": 103,
+      "clearance_score": 0.0
+    },
+    "26": {
+      "avg_drop": 0.015237623762376232,
+      "n_observations": 101,
+      "clearance_score": 0.0
+    },
+    "27": {
+      "avg_drop": -0.038594059405940594,
+      "n_observations": 101,
+      "clearance_score": 0.038594059405940594
+    },
+    "28": {
+      "avg_drop": 0.2115945945945946,
+      "n_observations": 74,
+      "clearance_score": 0.0
+    },
+    "29": {
+      "avg_drop": -0.15889795918367347,
+      "n_observations": 98,
+      "clearance_score": 0.15889795918367347
+    },
+    "30": {
+      "avg_drop": -0.08860215053763439,
+      "n_observations": 93,
+      "clearance_score": 0.08860215053763439
+    },
+    "31": {
+      "avg_drop": -0.001536842105263159,
+      "n_observations": 95,
+      "clearance_score": 0.001536842105263159
+    },
+    "32": {
+      "avg_drop": -0.01378125,
+      "n_observations": 96,
+      "clearance_score": 0.01378125
+    },
+    "33": {
+      "avg_drop": -0.08645045045045045,
+      "n_observations": 111,
+      "clearance_score": 0.08645045045045045
+    },
+    "34": {
+      "avg_drop": -0.18901886792452832,
+      "n_observations": 106,
+      "clearance_score": 0.18901886792452832
+    },
+    "35": {
+      "avg_drop": -0.00801999999999999,
+      "n_observations": 100,
+      "clearance_score": 0.00801999999999999
+    },
+    "36": {
+      "avg_drop": -0.11573387096774194,
+      "n_observations": 124,
+      "clearance_score": 0.11573387096774194
+    },
+    "37": {
+      "avg_drop": 0.020971428571428568,
+      "n_observations": 105,
+      "clearance_score": 0.0
+    },
+    "38": {
+      "avg_drop": -0.08259722222222222,
+      "n_observations": 144,
+      "clearance_score": 0.08259722222222222
+    },
+    "39": {
+      "avg_drop": 0.0028642857142857168,
+      "n_observations": 140,
+      "clearance_score": 0.0
+    },
+    "40": {
+      "avg_drop": -0.04128099173553719,
+      "n_observations": 121,
+      "clearance_score": 0.04128099173553719
+    },
+    "41": {
+      "avg_drop": 0.0517563025210084,
+      "n_observations": 119,
+      "clearance_score": 0.0
+    },
+    "42": {
+      "avg_drop": 0.1054070796460177,
+      "n_observations": 113,
+      "clearance_score": 0.0
+    },
+    "43": {
+      "avg_drop": 0.23128260869565218,
+      "n_observations": 138,
+      "clearance_score": 0.0
+    },
+    "44": {
+      "avg_drop": -0.069,
+      "n_observations": 112,
+      "clearance_score": 0.069
+    },
+    "45": {
+      "avg_drop": -0.09721212121212122,
+      "n_observations": 99,
+      "clearance_score": 0.09721212121212122
+    },
+    "46": {
+      "avg_drop": 0.004100000000000002,
+      "n_observations": 120,
+      "clearance_score": 0.0
+    },
+    "47": {
+      "avg_drop": 0.14181308411214955,
+      "n_observations": 107,
+      "clearance_score": 0.0
+    },
+    "48": {
+      "avg_drop": -0.08502173913043479,
+      "n_observations": 92,
+      "clearance_score": 0.08502173913043479
+    },
+    "49": {
+      "avg_drop": 0.040021505376344094,
+      "n_observations": 93,
+      "clearance_score": 0.0
+    },
+    "50": {
+      "avg_drop": -0.2926153846153846,
+      "n_observations": 117,
+      "clearance_score": 0.2926153846153846
+    },
+    "51": {
+      "avg_drop": -0.10535211267605633,
+      "n_observations": 71,
+      "clearance_score": 0.10535211267605633
+    },
+    "52": {
+      "avg_drop": 0.14696666666666666,
+      "n_observations": 90,
+      "clearance_score": 0.0
+    }
+  },
+  "high_multiplier_films": [
+    {
+      "film_id": 2173,
+      "title": "The Greatest Showman",
+      "year": 2017,
+      "iso_week": 51,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Musical"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 8805843,
+      "total_usd": 174340174,
+      "multiplier": 19.798237829132315
+    },
+    {
+      "film_id": 4813,
+      "title": "Puss in Boots: The Last Wish",
+      "year": 2022,
+      "iso_week": 51,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 12429515,
+      "total_usd": 186090535,
+      "multiplier": 14.971665024741512
+    },
+    {
+      "film_id": 5291,
+      "title": "Anyone But You",
+      "year": 2023,
+      "iso_week": 51,
+      "distributor": "Columbia Pictures",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "mpaa": "R",
+      "opening_usd": 6000344,
+      "total_usd": 88319668,
+      "multiplier": 14.719100771555764
+    },
+    {
+      "film_id": 2161,
+      "title": "Jumanji: Welcome to the Jungle",
+      "year": 2017,
+      "iso_week": 51,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 36169328,
+      "total_usd": 404515480,
+      "multiplier": 11.183936842840984
+    },
+    {
+      "film_id": 5290,
+      "title": "Migration",
+      "year": 2023,
+      "iso_week": 51,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 12453275,
+      "total_usd": 127630880,
+      "multiplier": 10.248780340914339
+    },
+    {
+      "film_id": 5059,
+      "title": "Sound of Freedom",
+      "year": 2023,
+      "iso_week": 27,
+      "distributor": "Angel",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 19680879,
+      "total_usd": 184178046,
+      "multiplier": 9.358222567193264
+    },
+    {
+      "film_id": 1476,
+      "title": "Sing",
+      "year": 2016,
+      "iso_week": 51,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Music"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 35258145,
+      "total_usd": 270395425,
+      "multiplier": 7.669020165411425
+    },
+    {
+      "film_id": 2942,
+      "title": "Mary Poppins Returns",
+      "year": 2018,
+      "iso_week": 51,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Music",
+        "Musical"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 23523121,
+      "total_usd": 171958438,
+      "multiplier": 7.310188048601204
+    },
+    {
+      "film_id": 5293,
+      "title": "The Iron Claw",
+      "year": 2023,
+      "iso_week": 51,
+      "distributor": "A24",
+      "tier": "indie",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "mpaa": "R",
+      "opening_usd": 4868370,
+      "total_usd": 35070296,
+      "multiplier": 7.203703909111263
+    },
+    {
+      "film_id": 5847,
+      "title": "Mufasa: The Lion King",
+      "year": 2024,
+      "iso_week": 51,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Drama",
+        "Family",
+        "Musical"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 35409365,
+      "total_usd": 254567693,
+      "multiplier": 7.189275859648994
+    },
+    {
+      "film_id": 1477,
+      "title": "Passengers",
+      "year": 2016,
+      "iso_week": 51,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 14869736,
+      "total_usd": 100014699,
+      "multiplier": 6.7260574767433665
+    },
+    {
+      "film_id": 5,
+      "title": "Night at the Museum: Secret of the Tomb",
+      "year": 2014,
+      "iso_week": 51,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 17100520,
+      "total_usd": 113746621,
+      "multiplier": 6.651646908982885
+    },
+    {
+      "film_id": 6436,
+      "title": "The Housemaid",
+      "year": 2025,
+      "iso_week": 51,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 19010430,
+      "total_usd": 126432462,
+      "multiplier": 6.650689226913857
+    },
+    {
+      "film_id": 2636,
+      "title": "Crazy Rich Asians",
+      "year": 2018,
+      "iso_week": 33,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 26510140,
+      "total_usd": 174532921,
+      "multiplier": 6.583628792605396
+    },
+    {
+      "film_id": 3659,
+      "title": "Little Women",
+      "year": 2019,
+      "iso_week": 52,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 16755310,
+      "total_usd": 108101214,
+      "multiplier": 6.451758517150682
+    },
+    {
+      "film_id": 5854,
+      "title": "A Complete Unknown",
+      "year": 2024,
+      "iso_week": 52,
+      "distributor": "Searchlight Pictures",
+      "tier": "indie",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "mpaa": "R",
+      "opening_usd": 11655553,
+      "total_usd": 75001720,
+      "multiplier": 6.43484869400877
+    },
+    {
+      "film_id": 2165,
+      "title": "Ferdinand",
+      "year": 2017,
+      "iso_week": 50,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 13401586,
+      "total_usd": 84410380,
+      "multiplier": 6.298536606040509
+    },
+    {
+      "film_id": 5855,
+      "title": "Babygirl",
+      "year": 2024,
+      "iso_week": 52,
+      "distributor": "A24",
+      "tier": "indie",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 4490145,
+      "total_usd": 28196732,
+      "multiplier": 6.279692972053241
+    },
+    {
+      "film_id": 5300,
+      "title": "The Boys in the Boat",
+      "year": 2023,
+      "iso_week": 52,
+      "distributor": "Amazon MGM Studios",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History",
+        "Sport"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 8400548,
+      "total_usd": 52641306,
+      "multiplier": 6.266413333987259
+    },
+    {
+      "film_id": 752,
+      "title": "Sisters",
+      "year": 2015,
+      "iso_week": 51,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Comedy"
+      ],
+      "mpaa": "R",
+      "opening_usd": 13922855,
+      "total_usd": 87044645,
+      "multiplier": 6.251924982340189
+    },
+    {
+      "film_id": 3622,
+      "title": "Knives Out",
+      "year": 2019,
+      "iso_week": 48,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 26769548,
+      "total_usd": 165363234,
+      "multiplier": 6.177288985230532
+    },
+    {
+      "film_id": 2952,
+      "title": "Vice",
+      "year": 2018,
+      "iso_week": 52,
+      "distributor": "Annapurna Pictures",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama",
+        "History"
+      ],
+      "mpaa": "R",
+      "opening_usd": 7768371,
+      "total_usd": 47836282,
+      "multiplier": 6.157826653747613
+    },
+    {
+      "film_id": 2944,
+      "title": "Second Act",
+      "year": 2018,
+      "iso_week": 51,
+      "distributor": "STX Entertainment",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 6489983,
+      "total_usd": 39282227,
+      "multiplier": 6.052747287627718
+    },
+    {
+      "film_id": 751,
+      "title": "Alvin and the Chipmunks: The Road Chip",
+      "year": 2015,
+      "iso_week": 51,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Music",
+        "Musical"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 14287159,
+      "total_usd": 85886987,
+      "multiplier": 6.01148114891141
+    },
+    {
+      "film_id": 2925,
+      "title": "The Mule",
+      "year": 2018,
+      "iso_week": 50,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 17509431,
+      "total_usd": 103804407,
+      "multiplier": 5.928485454495923
+    },
+    {
+      "film_id": 2943,
+      "title": "Bumblebee",
+      "year": 2018,
+      "iso_week": 51,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 21654047,
+      "total_usd": 127195589,
+      "multiplier": 5.873986927247364
+    },
+    {
+      "film_id": 6034,
+      "title": "Sinners",
+      "year": 2025,
+      "iso_week": 16,
+      "distributor": "Warner Bros.See full company information/IMAX",
+      "tier": "industry",
+      "genres": [
+        "Horror"
+      ],
+      "mpaa": "R",
+      "opening_usd": 48007468,
+      "total_usd": 279989632,
+      "multiplier": 5.832209938670375
+    },
+    {
+      "film_id": 4540,
+      "title": "Top Gun: Maverick",
+      "year": 2022,
+      "iso_week": 21,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 126707459,
+      "total_usd": 718732821,
+      "multiplier": 5.672379721544254
+    },
+    {
+      "film_id": 5282,
+      "title": "Wonka",
+      "year": 2023,
+      "iso_week": 50,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Musical"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 39005800,
+      "total_usd": 218402312,
+      "multiplier": 5.599226576560409
+    },
+    {
+      "film_id": 6442,
+      "title": "Song Sung Blue",
+      "year": 2025,
+      "iso_week": 52,
+      "distributor": "Focus Features",
+      "tier": "indie",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History",
+        "Music",
+        "Musical"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 7073630,
+      "total_usd": 39185290,
+      "multiplier": 5.53962958198266
+    },
+    {
+      "film_id": 1478,
+      "title": "Why Him?",
+      "year": 2016,
+      "iso_week": 51,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Comedy"
+      ],
+      "mpaa": "R",
+      "opening_usd": 11002986,
+      "total_usd": 60323786,
+      "multiplier": 5.482492297999834
+    },
+    {
+      "film_id": 6,
+      "title": "Annie",
+      "year": 2014,
+      "iso_week": 51,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family",
+        "Musical"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 15861939,
+      "total_usd": 85911262,
+      "multiplier": 5.416189155688974
+    },
+    {
+      "film_id": 3643,
+      "title": "Jumanji: The Next Level",
+      "year": 2019,
+      "iso_week": 50,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 59251543,
+      "total_usd": 320314960,
+      "multiplier": 5.406018877854371
+    },
+    {
+      "film_id": 2924,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "iso_week": 50,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Family",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 35363376,
+      "total_usd": 190241310,
+      "multiplier": 5.37961392600073
+    },
+    {
+      "film_id": 2175,
+      "title": "Father Figures",
+      "year": 2017,
+      "iso_week": 51,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "mpaa": "R",
+      "opening_usd": 3287451,
+      "total_usd": 17501244,
+      "multiplier": 5.323651668116118
+    },
+    {
+      "film_id": 2964,
+      "title": "The Upside",
+      "year": 2019,
+      "iso_week": 2,
+      "distributor": "STX Entertainment",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 20355000,
+      "total_usd": 108252517,
+      "multiplier": 5.318227315155982
+    },
+    {
+      "film_id": 1479,
+      "title": "Assassin's Creed",
+      "year": 2016,
+      "iso_week": 51,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 10278225,
+      "total_usd": 54647948,
+      "multiplier": 5.316866287710184
+    },
+    {
+      "film_id": 1575,
+      "title": "Get Out",
+      "year": 2017,
+      "iso_week": 8,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 33377060,
+      "total_usd": 176040665,
+      "multiplier": 5.274301121788438
+    },
+    {
+      "film_id": 2172,
+      "title": "Pitch Perfect 3",
+      "year": 2017,
+      "iso_week": 51,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 19928525,
+      "total_usd": 104897530,
+      "multiplier": 5.26368760357327
+    },
+    {
+      "film_id": 1807,
+      "title": "Baby Driver",
+      "year": 2017,
+      "iso_week": 26,
+      "distributor": "TriStar Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Music"
+      ],
+      "mpaa": "R",
+      "opening_usd": 20553320,
+      "total_usd": 107825862,
+      "multiplier": 5.246153030264697
+    },
+    {
+      "film_id": 4601,
+      "title": "Where the Crawdads Sing",
+      "year": 2022,
+      "iso_week": 28,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Romance",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 17253227,
+      "total_usd": 90230760,
+      "multiplier": 5.229790345887178
+    },
+    {
+      "film_id": 5037,
+      "title": "Elemental",
+      "year": 2023,
+      "iso_week": 24,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Romance"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 29602429,
+      "total_usd": 154426697,
+      "multiplier": 5.216690056076142
+    },
+    {
+      "film_id": 5299,
+      "title": "The Color Purple",
+      "year": 2023,
+      "iso_week": 52,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "Musical"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 11737072,
+      "total_usd": 60619191,
+      "multiplier": 5.164762642676129
+    },
+    {
+      "film_id": 419,
+      "title": "Magic Mike XXL",
+      "year": 2015,
+      "iso_week": 27,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ],
+      "mpaa": "R",
+      "opening_usd": 12857184,
+      "total_usd": 66013057,
+      "multiplier": 5.134332447913945
+    },
+    {
+      "film_id": 6400,
+      "title": "Eternity",
+      "year": 2025,
+      "iso_week": 48,
+      "distributor": "A24",
+      "tier": "indie",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 3175809,
+      "total_usd": 16210244,
+      "multiplier": 5.104288072739891
+    },
+    {
+      "film_id": 4808,
+      "title": "Avatar: The Way of Water",
+      "year": 2022,
+      "iso_week": 50,
+      "distributor": "20th Century Studios",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 134100226,
+      "total_usd": 684075767,
+      "multiplier": 5.101227547521061
+    },
+    {
+      "film_id": 2470,
+      "title": "Book Club",
+      "year": 2018,
+      "iso_week": 20,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 13582231,
+      "total_usd": 68566296,
+      "multiplier": 5.0482351537092836
+    },
+    {
+      "film_id": 4814,
+      "title": "Whitney Houston: I Wanna Dance with Somebody",
+      "year": 2022,
+      "iso_week": 51,
+      "distributor": "TriStar Pictures",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 4700450,
+      "total_usd": 23708080,
+      "multiplier": 5.043789424416811
+    },
+    {
+      "film_id": 2761,
+      "title": "A Star Is Born",
+      "year": 2018,
+      "iso_week": 40,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "mpaa": "R",
+      "opening_usd": 42908051,
+      "total_usd": 215288866,
+      "multiplier": 5.017446865624356
+    },
+    {
+      "film_id": 5257,
+      "title": "Godzilla Minus One",
+      "year": 2023,
+      "iso_week": 48,
+      "distributor": "Toho International",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 11419975,
+      "total_usd": 57144669,
+      "multiplier": 5.003922425399355
+    },
+    {
+      "film_id": 3660,
+      "title": "Spies in Disguise",
+      "year": 2019,
+      "iso_week": 52,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 13354798,
+      "total_usd": 66757013,
+      "multiplier": 4.9987287714872215
+    },
+    {
+      "film_id": 2927,
+      "title": "Aquaman",
+      "year": 2018,
+      "iso_week": 51,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 67873522,
+      "total_usd": 335061807,
+      "multiplier": 4.9365613736679235
+    },
+    {
+      "film_id": 2174,
+      "title": "Downsizing",
+      "year": 2017,
+      "iso_week": 51,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "mpaa": "R",
+      "opening_usd": 4954287,
+      "total_usd": 24449754,
+      "multiplier": 4.9350701725596435
+    },
+    {
+      "film_id": 5755,
+      "title": "Conclave",
+      "year": 2024,
+      "iso_week": 43,
+      "distributor": "Focus Features",
+      "tier": "indie",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 6601995,
+      "total_usd": 32580655,
+      "multiplier": 4.934971171592829
+    },
+    {
+      "film_id": 2324,
+      "title": "I Can Only Imagine",
+      "year": 2018,
+      "iso_week": 11,
+      "distributor": "Roadside Attractions",
+      "tier": "indie",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Family",
+        "Music"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 17108914,
+      "total_usd": 83482352,
+      "multiplier": 4.87946528926383
+    },
+    {
+      "film_id": 4575,
+      "title": "Elvis",
+      "year": 2022,
+      "iso_week": 25,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 31211579,
+      "total_usd": 151040048,
+      "multiplier": 4.839231235305333
+    },
+    {
+      "film_id": 5572,
+      "title": "Despicable Me 4",
+      "year": 2024,
+      "iso_week": 27,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Crime",
+        "Family",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 75009210,
+      "total_usd": 361004205,
+      "multiplier": 4.812798388357909
+    },
+    {
+      "film_id": 2119,
+      "title": "Wonder",
+      "year": 2017,
+      "iso_week": 46,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 27547866,
+      "total_usd": 132422809,
+      "multiplier": 4.807007882207645
+    },
+    {
+      "film_id": 482,
+      "title": "Shaun the Sheep Movie",
+      "year": 2015,
+      "iso_week": 32,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 4038962,
+      "total_usd": 19375982,
+      "multiplier": 4.7972677138334054
+    },
+    {
+      "film_id": 1162,
+      "title": "Bad Moms",
+      "year": 2016,
+      "iso_week": 30,
+      "distributor": "STX Entertainment",
+      "tier": "industry",
+      "genres": [
+        "Comedy"
+      ],
+      "mpaa": "R",
+      "opening_usd": 23817340,
+      "total_usd": 113257297,
+      "multiplier": 4.755245422032855
+    },
+    {
+      "film_id": 3644,
+      "title": "Richard Jewell",
+      "year": 2019,
+      "iso_week": 50,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "mpaa": "R",
+      "opening_usd": 4705265,
+      "total_usd": 22345542,
+      "multiplier": 4.749050691087537
+    },
+    {
+      "film_id": 5301,
+      "title": "Ferrari",
+      "year": 2023,
+      "iso_week": 52,
+      "distributor": "Neon",
+      "tier": "indie",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History",
+        "Sport"
+      ],
+      "mpaa": "R",
+      "opening_usd": 3921773,
+      "total_usd": 18550028,
+      "multiplier": 4.730010635495731
+    },
+    {
+      "film_id": 631,
+      "title": "Bridge of Spies",
+      "year": 2015,
+      "iso_week": 42,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "History",
+        "Thriller",
+        "War"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 15371203,
+      "total_usd": 72313754,
+      "multiplier": 4.704495412623202
+    },
+    {
+      "film_id": 4705,
+      "title": "Smile",
+      "year": 2022,
+      "iso_week": 39,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 22609925,
+      "total_usd": 105935048,
+      "multiplier": 4.685333896507839
+    },
+    {
+      "film_id": 1,
+      "title": "The Hobbit: The Battle of the Five Armies",
+      "year": 2014,
+      "iso_week": 51,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 54724334,
+      "total_usd": 255119788,
+      "multiplier": 4.661907589409859
+    },
+    {
+      "film_id": 3610,
+      "title": "A Beautiful Day in the Neighborhood",
+      "year": 2019,
+      "iso_week": 47,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Family"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 13251238,
+      "total_usd": 61704055,
+      "multiplier": 4.65647473843576
+    },
+    {
+      "film_id": 2867,
+      "title": "Instant Family",
+      "year": 2018,
+      "iso_week": 46,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 14504315,
+      "total_usd": 67363237,
+      "multiplier": 4.644358385763133
+    },
+    {
+      "film_id": 5084,
+      "title": "Talk to Me",
+      "year": 2023,
+      "iso_week": 30,
+      "distributor": "A24",
+      "tier": "indie",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 10431720,
+      "total_usd": 48299436,
+      "multiplier": 4.63005487110467
+    },
+    {
+      "film_id": 1918,
+      "title": "Leap!2017 Re-release",
+      "year": 2017,
+      "iso_week": 34,
+      "distributor": "The Weinstein Company",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Music"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 4730038,
+      "total_usd": 21858070,
+      "multiplier": 4.621119322931444
+    },
+    {
+      "film_id": 2244,
+      "title": "Peter Rabbit",
+      "year": 2018,
+      "iso_week": 6,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 25010928,
+      "total_usd": 115253424,
+      "multiplier": 4.608122657423987
+    },
+    {
+      "film_id": 6437,
+      "title": "The SpongeBob Movie: Search for SquarePants",
+      "year": 2025,
+      "iso_week": 51,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 15611344,
+      "total_usd": 71068170,
+      "multiplier": 4.552341553680452
+    },
+    {
+      "film_id": 870,
+      "title": "Zootopia",
+      "year": 2016,
+      "iso_week": 9,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Crime",
+        "Family",
+        "Mystery"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 75063401,
+      "total_usd": 341268248,
+      "multiplier": 4.546400022562261
+    },
+    {
+      "film_id": 6434,
+      "title": "Avatar: Fire and Ash",
+      "year": 2025,
+      "iso_week": 51,
+      "distributor": "20th Century Studios",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 89160860,
+      "total_usd": 404340010,
+      "multiplier": 4.534949640458829
+    },
+    {
+      "film_id": 2182,
+      "title": "All the Money in the World",
+      "year": 2017,
+      "iso_week": 52,
+      "distributor": "TriStar Pictures",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama",
+        "History",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 5584684,
+      "total_usd": 25113707,
+      "multiplier": 4.496889528574938
+    },
+    {
+      "film_id": 5289,
+      "title": "Aquaman and the Lost Kingdom",
+      "year": 2023,
+      "iso_week": 51,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 27686211,
+      "total_usd": 124481226,
+      "multiplier": 4.496145247177377
+    },
+    {
+      "film_id": 6441,
+      "title": "Anaconda",
+      "year": 2025,
+      "iso_week": 52,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 14502218,
+      "total_usd": 65098148,
+      "multiplier": 4.488840810419482
+    },
+    {
+      "film_id": 1389,
+      "title": "Hacksaw Ridge",
+      "year": 2016,
+      "iso_week": 44,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History",
+        "War"
+      ],
+      "mpaa": "R",
+      "opening_usd": 15190758,
+      "total_usd": 67209615,
+      "multiplier": 4.424375334002424
+    },
+    {
+      "film_id": 5853,
+      "title": "Nosferatu",
+      "year": 2024,
+      "iso_week": 52,
+      "distributor": "Focus Features",
+      "tier": "indie",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Mystery"
+      ],
+      "mpaa": "R",
+      "opening_usd": 21652560,
+      "total_usd": 95608235,
+      "multiplier": 4.415562640168184
+    },
+    {
+      "film_id": 1432,
+      "title": "Moana",
+      "year": 2016,
+      "iso_week": 47,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Musical"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 56631401,
+      "total_usd": 248757044,
+      "multiplier": 4.392563835741941
+    },
+    {
+      "film_id": 1467,
+      "title": "Collateral Beauty",
+      "year": 2016,
+      "iso_week": 50,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 7102085,
+      "total_usd": 31016021,
+      "multiplier": 4.36717118986889
+    },
+    {
+      "film_id": 710,
+      "title": "The Night Before",
+      "year": 2015,
+      "iso_week": 47,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "mpaa": "R",
+      "opening_usd": 9880536,
+      "total_usd": 43047372,
+      "multiplier": 4.356785097488638
+    },
+    {
+      "film_id": 4815,
+      "title": "Babylon",
+      "year": 2022,
+      "iso_week": 51,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "mpaa": "R",
+      "opening_usd": 3603368,
+      "total_usd": 15658225,
+      "multiplier": 4.345441542468047
+    },
+    {
+      "film_id": 3308,
+      "title": "Yesterday",
+      "year": 2019,
+      "iso_week": 26,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Music",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 17010050,
+      "total_usd": 73286650,
+      "multiplier": 4.308432367923668
+    },
+    {
+      "film_id": 2091,
+      "title": "A Bad Moms Christmas",
+      "year": 2017,
+      "iso_week": 44,
+      "distributor": "STX Entertainment",
+      "tier": "industry",
+      "genres": [
+        "Comedy"
+      ],
+      "mpaa": "R",
+      "opening_usd": 16759161,
+      "total_usd": 72110659,
+      "multiplier": 4.302760681158204
+    },
+    {
+      "film_id": 4765,
+      "title": "The Menu",
+      "year": 2022,
+      "iso_week": 46,
+      "distributor": "Searchlight Pictures",
+      "tier": "indie",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 9004957,
+      "total_usd": 38501125,
+      "multiplier": 4.275547901006079
+    },
+    {
+      "film_id": 584,
+      "title": "The Intern",
+      "year": 2015,
+      "iso_week": 39,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 17728313,
+      "total_usd": 75764672,
+      "multiplier": 4.273653787588249
+    },
+    {
+      "film_id": 6399,
+      "title": "Zootopia 2",
+      "year": 2025,
+      "iso_week": 48,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Crime",
+        "Family",
+        "Mystery"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 100262540,
+      "total_usd": 428130160,
+      "multiplier": 4.270090903342365
+    },
+    {
+      "film_id": 3414,
+      "title": "Overcomer",
+      "year": 2019,
+      "iso_week": 34,
+      "distributor": "Affirm Films",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "Family",
+        "Sport"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 8146533,
+      "total_usd": 34746945,
+      "multiplier": 4.265243263606739
+    },
+    {
+      "film_id": 5894,
+      "title": "One of Them Days",
+      "year": 2025,
+      "iso_week": 3,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Comedy"
+      ],
+      "mpaa": "R",
+      "opening_usd": 11807731,
+      "total_usd": 50054690,
+      "multiplier": 4.2391455225394274
+    },
+    {
+      "film_id": 2836,
+      "title": "Bohemian Rhapsody",
+      "year": 2018,
+      "iso_week": 44,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 51061119,
+      "total_usd": 216428042,
+      "multiplier": 4.238607500944114
+    },
+    {
+      "film_id": 5094,
+      "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+      "year": 2023,
+      "iso_week": 31,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Crime",
+        "Family",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 28007544,
+      "total_usd": 118700272,
+      "multiplier": 4.23815354891525
+    },
+    {
+      "film_id": 5535,
+      "title": "Inside Out 2",
+      "year": 2024,
+      "iso_week": 24,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "Sport"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 154201673,
+      "total_usd": 652980194,
+      "multiplier": 4.234585664968758
+    },
+    {
+      "film_id": 6554,
+      "title": "Project Hail Mary",
+      "year": 2026,
+      "iso_week": 12,
+      "distributor": "Amazon MGM Studios",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 80506007,
+      "total_usd": 340471443,
+      "multiplier": 4.2291433358507025
+    },
+    {
+      "film_id": 5799,
+      "title": "Wicked",
+      "year": 2024,
+      "iso_week": 47,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Fantasy",
+        "Musical",
+        "Romance"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 112508890,
+      "total_usd": 474983975,
+      "multiplier": 4.221746166014081
+    },
+    {
+      "film_id": 3319,
+      "title": "Spider-Man: Far from Home",
+      "year": 2019,
+      "iso_week": 27,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 92579212,
+      "total_usd": 390532085,
+      "multiplier": 4.218356114329424
+    },
+    {
+      "film_id": 603,
+      "title": "The Martian",
+      "year": 2015,
+      "iso_week": 40,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 54308575,
+      "total_usd": 228433663,
+      "multiplier": 4.206217213395859
+    },
+    {
+      "film_id": 3320,
+      "title": "Midsommar",
+      "year": 2019,
+      "iso_week": 27,
+      "distributor": "A24",
+      "tier": "indie",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 6560030,
+      "total_usd": 27426361,
+      "multiplier": 4.1808285937716745
+    },
+    {
+      "film_id": 1400,
+      "title": "Arrival",
+      "year": 2016,
+      "iso_week": 45,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 24074047,
+      "total_usd": 100546139,
+      "multiplier": 4.17653662468965
+    },
+    {
+      "film_id": 908,
+      "title": "Miracles from Heaven",
+      "year": 2016,
+      "iso_week": 11,
+      "distributor": "TriStar Pictures",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Family"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 14812393,
+      "total_usd": 61705123,
+      "multiplier": 4.165776792446703
+    },
+    {
+      "film_id": 2120,
+      "title": "The Star",
+      "year": 2017,
+      "iso_week": 46,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 9812674,
+      "total_usd": 40852824,
+      "multiplier": 4.1632712958771485
+    },
+    {
+      "film_id": 4418,
+      "title": "Dog",
+      "year": 2022,
+      "iso_week": 7,
+      "distributor": "United Artists Releasing",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 14883928,
+      "total_usd": 61778069,
+      "multiplier": 4.1506562649322145
+    },
+    {
+      "film_id": 2132,
+      "title": "Coco",
+      "year": 2017,
+      "iso_week": 47,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "Music",
+        "Mystery"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 50802605,
+      "total_usd": 210460015,
+      "multiplier": 4.1427012453396825
+    },
+    {
+      "film_id": 4734,
+      "title": "Ticket to Paradise",
+      "year": 2022,
+      "iso_week": 42,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 16509095,
+      "total_usd": 68275985,
+      "multiplier": 4.1356588595559
+    },
+    {
+      "film_id": 5856,
+      "title": "The Fire Inside",
+      "year": 2024,
+      "iso_week": 52,
+      "distributor": "Amazon MGM Studios",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 1958551,
+      "total_usd": 8093190,
+      "multiplier": 4.13223347260296
+    },
+    {
+      "film_id": 2953,
+      "title": "Holmes & Watson",
+      "year": 2018,
+      "iso_week": 52,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Mystery"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 7411522,
+      "total_usd": 30573626,
+      "multiplier": 4.125148113977129
+    },
+    {
+      "film_id": 2,
+      "title": "Into the Woods",
+      "year": 2014,
+      "iso_week": 52,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "Musical"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 31051923,
+      "total_usd": 128002372,
+      "multiplier": 4.122204347859551
+    },
+    {
+      "film_id": 4716,
+      "title": "Lyle, Lyle, Crocodile",
+      "year": 2022,
+      "iso_week": 40,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Musical"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 11401182,
+      "total_usd": 46888441,
+      "multiplier": 4.112594729213164
+    },
+    {
+      "film_id": 3656,
+      "title": "Cats",
+      "year": 2019,
+      "iso_week": 51,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "Musical"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 6619870,
+      "total_usd": 27166770,
+      "multiplier": 4.103822280497956
+    },
+    {
+      "film_id": 1163,
+      "title": "Nerve",
+      "year": 2016,
+      "iso_week": 30,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 9445456,
+      "total_usd": 38583626,
+      "multiplier": 4.084887590392672
+    },
+    {
+      "film_id": 2338,
+      "title": "Sherlock Gnomes",
+      "year": 2018,
+      "iso_week": 12,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "Musical",
+        "Mystery",
+        "Romance"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 10604774,
+      "total_usd": 43242871,
+      "multiplier": 4.077679637491568
+    },
+    {
+      "film_id": 4615,
+      "title": "DC League of Super-Pets",
+      "year": 2022,
+      "iso_week": 30,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Crime",
+        "Family",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 23003441,
+      "total_usd": 93657117,
+      "multiplier": 4.071439442472976
+    },
+    {
+      "film_id": 4489,
+      "title": "The Bad Guys",
+      "year": 2022,
+      "iso_week": 16,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Crime",
+        "Family"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 23950245,
+      "total_usd": 97459240,
+      "multiplier": 4.069237705084019
+    },
+    {
+      "film_id": 2276,
+      "title": "Game Night",
+      "year": 2018,
+      "iso_week": 8,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 17005332,
+      "total_usd": 69179066,
+      "multiplier": 4.06808088192574
+    },
+    {
+      "film_id": 481,
+      "title": "Ricki and the Flash",
+      "year": 2015,
+      "iso_week": 32,
+      "distributor": "TriStar Pictures",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 6610961,
+      "total_usd": 26822144,
+      "multiplier": 4.0572231480415635
+    },
+    {
+      "film_id": 168,
+      "title": "McFarland, USA",
+      "year": 2015,
+      "iso_week": 8,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 11020798,
+      "total_usd": 44482410,
+      "multiplier": 4.03622405564461
+    },
+    {
+      "film_id": 2606,
+      "title": "Christopher Robin",
+      "year": 2018,
+      "iso_week": 31,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "Musical"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 24585139,
+      "total_usd": 99215042,
+      "multiplier": 4.035569699239854
+    },
+    {
+      "film_id": 3399,
+      "title": "The Angry Birds Movie 2",
+      "year": 2019,
+      "iso_week": 33,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 10354073,
+      "total_usd": 41667116,
+      "multiplier": 4.024224669847315
+    },
+    {
+      "film_id": 2847,
+      "title": "The Grinch",
+      "year": 2018,
+      "iso_week": 45,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 67572855,
+      "total_usd": 271740675,
+      "multiplier": 4.021447295663325
+    },
+    {
+      "film_id": 101,
+      "title": "Paddington",
+      "year": 2015,
+      "iso_week": 3,
+      "distributor": "Dimension Films",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 18966676,
+      "total_usd": 76271832,
+      "multiplier": 4.021359989488933
+    },
+    {
+      "film_id": 5702,
+      "title": "The Wild Robot",
+      "year": 2024,
+      "iso_week": 39,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Family",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 35790150,
+      "total_usd": 143901945,
+      "multiplier": 4.020713660043336
+    },
+    {
+      "film_id": 468,
+      "title": "Vacation",
+      "year": 2015,
+      "iso_week": 31,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "mpaa": "R",
+      "opening_usd": 14681108,
+      "total_usd": 58884188,
+      "multiplier": 4.010881739988562
+    },
+    {
+      "film_id": 5079,
+      "title": "Oppenheimer",
+      "year": 2023,
+      "iso_week": 29,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "mpaa": "R",
+      "opening_usd": 82455420,
+      "total_usd": 330078895,
+      "multiplier": 4.0031194432094335
+    },
+    {
+      "film_id": 2560,
+      "title": "The First Purge",
+      "year": 2018,
+      "iso_week": 27,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 17374280,
+      "total_usd": 69488745,
+      "multiplier": 3.999517965636562
+    },
+    {
+      "film_id": 1752,
+      "title": "Wonder Woman",
+      "year": 2017,
+      "iso_week": 22,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi",
+        "War"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 103251471,
+      "total_usd": 412563408,
+      "multiplier": 3.995714579214082
+    },
+    {
+      "film_id": 5309,
+      "title": "The Beekeeper",
+      "year": 2024,
+      "iso_week": 2,
+      "distributor": "Metro-Goldwyn-Mayer (MGM)",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 16576007,
+      "total_usd": 66220535,
+      "multiplier": 3.9949630209494966
+    },
+    {
+      "film_id": 1781,
+      "title": "47 Meters Down",
+      "year": 2017,
+      "iso_week": 24,
+      "distributor": "Entertainment Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 11205561,
+      "total_usd": 44307191,
+      "multiplier": 3.9540359469731143
+    },
+    {
+      "film_id": 387,
+      "title": "Inside Out",
+      "year": 2015,
+      "iso_week": 25,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 90440272,
+      "total_usd": 356461711,
+      "multiplier": 3.9414046764476782
+    },
+    {
+      "film_id": 5846,
+      "title": "Sonic the Hedgehog 3",
+      "year": 2024,
+      "iso_week": 51,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 60102146,
+      "total_usd": 236115100,
+      "multiplier": 3.928563549128512
+    },
+    {
+      "film_id": 4944,
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023,
+      "iso_week": 14,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 146361865,
+      "total_usd": 574934330,
+      "multiplier": 3.9281702921727595
+    },
+    {
+      "film_id": 5655,
+      "title": "Reagan",
+      "year": 2024,
+      "iso_week": 35,
+      "distributor": "Showbiz Direct",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 7650720,
+      "total_usd": 30047417,
+      "multiplier": 3.9273972907125083
+    },
+    {
+      "film_id": 5078,
+      "title": "Barbie",
+      "year": 2023,
+      "iso_week": 29,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 162022044,
+      "total_usd": 636238421,
+      "multiplier": 3.9268633162040594
+    },
+    {
+      "film_id": 3244,
+      "title": "Aladdin",
+      "year": 2019,
+      "iso_week": 21,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Musical",
+        "Romance"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 91500929,
+      "total_usd": 355559216,
+      "multiplier": 3.885853617945234
+    },
+    {
+      "film_id": 3398,
+      "title": "Good Boys",
+      "year": 2019,
+      "iso_week": 33,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "mpaa": "R",
+      "opening_usd": 21402605,
+      "total_usd": 83140306,
+      "multiplier": 3.8845881611140327
+    },
+    {
+      "film_id": 996,
+      "title": "Mother's Day",
+      "year": 2016,
+      "iso_week": 17,
+      "distributor": "Open Road Films (II)",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 8369184,
+      "total_usd": 32492859,
+      "multiplier": 3.8824405103293222
+    },
+    {
+      "film_id": 766,
+      "title": "Daddy's Home",
+      "year": 2015,
+      "iso_week": 52,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 38740203,
+      "total_usd": 150357137,
+      "multiplier": 3.8811654394273565
+    },
+    {
+      "film_id": 4667,
+      "title": "Barbarian",
+      "year": 2022,
+      "iso_week": 36,
+      "distributor": "20th Century Studios",
+      "tier": "industry",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 10543948,
+      "total_usd": 40842944,
+      "multiplier": 3.873591182354086
+    },
+    {
+      "film_id": 195,
+      "title": "The Second Best Exotic Marigold Hotel",
+      "year": 2015,
+      "iso_week": 10,
+      "distributor": "Fox Searchlight Pictures",
+      "tier": "indie",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 8540370,
+      "total_usd": 33078266,
+      "multiplier": 3.8731654483353766
+    },
+    {
+      "film_id": 4483,
+      "title": "Father Stu",
+      "year": 2022,
+      "iso_week": 15,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "mpaa": "R",
+      "opening_usd": 5402642,
+      "total_usd": 20884796,
+      "multiplier": 3.865663503152717
+    },
+    {
+      "film_id": 5508,
+      "title": "The Garfield Movie",
+      "year": 2024,
+      "iso_week": 21,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 24006629,
+      "total_usd": 91956547,
+      "multiplier": 3.8304647853724068
+    },
+    {
+      "film_id": 4576,
+      "title": "The Black Phone",
+      "year": 2022,
+      "iso_week": 25,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 23633220,
+      "total_usd": 90123230,
+      "multiplier": 3.813413068553502
+    },
+    {
+      "film_id": 366,
+      "title": "Spy",
+      "year": 2015,
+      "iso_week": 23,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "mpaa": "R",
+      "opening_usd": 29085719,
+      "total_usd": 110825712,
+      "multiplier": 3.810313645676079
+    },
+    {
+      "film_id": 1202,
+      "title": "Kubo and the Two Strings",
+      "year": 2016,
+      "iso_week": 33,
+      "distributor": "Focus Features",
+      "tier": "indie",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 12608372,
+      "total_usd": 48023088,
+      "multiplier": 3.8088254375743356
+    },
+    {
+      "film_id": 2547,
+      "title": "Hotel Transylvania 3: Summer Vacation",
+      "year": 2018,
+      "iso_week": 28,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Horror",
+        "Romance",
+        "Thriller"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 44076225,
+      "total_usd": 167510016,
+      "multiplier": 3.8004619497245966
+    },
+    {
+      "film_id": 6507,
+      "title": "GOAT",
+      "year": 2026,
+      "iso_week": 7,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Sport"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 27202138,
+      "total_usd": 103316898,
+      "multiplier": 3.7981168244937216
+    },
+    {
+      "film_id": 5574,
+      "title": "Sound of Hope: The Story of Possum Trot",
+      "year": 2024,
+      "iso_week": 27,
+      "distributor": "Angel",
+      "tier": "industry",
+      "genres": [
+        "Drama"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 3078758,
+      "total_usd": 11647099,
+      "multiplier": 3.7830511524452395
+    },
+    {
+      "film_id": 750,
+      "title": "Star Wars: Episode VII - The Force Awakens",
+      "year": 2015,
+      "iso_week": 51,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 247966675,
+      "total_usd": 936662225,
+      "multiplier": 3.7773713947650425
+    },
+    {
+      "film_id": 3,
+      "title": "Unbroken",
+      "year": 2014,
+      "iso_week": 52,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport",
+        "War"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 30621445,
+      "total_usd": 115637895,
+      "multiplier": 3.7763696324585596
+    },
+    {
+      "film_id": 1646,
+      "title": "Going in Style",
+      "year": 2017,
+      "iso_week": 14,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 11932330,
+      "total_usd": 45018541,
+      "multiplier": 3.772820647769547
+    },
+    {
+      "film_id": 6187,
+      "title": "The Bad Guys 2",
+      "year": 2025,
+      "iso_week": 31,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Crime",
+        "Family",
+        "Mystery"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 21995715,
+      "total_usd": 82593605,
+      "multiplier": 3.754986141618947
+    },
+    {
+      "film_id": 3259,
+      "title": "Rocketman",
+      "year": 2019,
+      "iso_week": 22,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music",
+        "Musical"
+      ],
+      "mpaa": "R",
+      "opening_usd": 25725722,
+      "total_usd": 96368160,
+      "multiplier": 3.745984660799802
+    },
+    {
+      "film_id": 2375,
+      "title": "A Quiet Place",
+      "year": 2018,
+      "iso_week": 14,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 50203562,
+      "total_usd": 188024361,
+      "multiplier": 3.7452394513361424
+    },
+    {
+      "film_id": 3591,
+      "title": "Ford v Ferrari",
+      "year": 2019,
+      "iso_week": 46,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 31474958,
+      "total_usd": 117624357,
+      "multiplier": 3.737077488713408
+    },
+    {
+      "film_id": 2965,
+      "title": "A Dog's Way Home",
+      "year": 2019,
+      "iso_week": 2,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Family"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 11251263,
+      "total_usd": 42004346,
+      "multiplier": 3.7333005192394846
+    },
+    {
+      "film_id": 5239,
+      "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "year": 2023,
+      "iso_week": 46,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi",
+        "Thriller",
+        "War"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 44607143,
+      "total_usd": 166350594,
+      "multiplier": 3.7292366830128527
+    },
+    {
+      "film_id": 1842,
+      "title": "Dunkirk",
+      "year": 2017,
+      "iso_week": 29,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Drama",
+        "History",
+        "Thriller",
+        "War"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 50513488,
+      "total_usd": 188045546,
+      "multiplier": 3.722679890962984
+    },
+    {
+      "film_id": 4781,
+      "title": "Violent Night",
+      "year": 2022,
+      "iso_week": 48,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 13450240,
+      "total_usd": 50057405,
+      "multiplier": 3.7216737396507424
+    },
+    {
+      "film_id": 5780,
+      "title": "The Best Christmas Pageant Ever",
+      "year": 2024,
+      "iso_week": 45,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Romance"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 10773559,
+      "total_usd": 40048808,
+      "multiplier": 3.7173238666999455
+    },
+    {
+      "film_id": 2196,
+      "title": "Paddington 2",
+      "year": 2018,
+      "iso_week": 2,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 11001961,
+      "total_usd": 40891591,
+      "multiplier": 3.716754767627335
+    },
+    {
+      "film_id": 721,
+      "title": "Creed",
+      "year": 2015,
+      "iso_week": 48,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sport"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 29632823,
+      "total_usd": 109767581,
+      "multiplier": 3.7042566278616116
+    },
+    {
+      "film_id": 480,
+      "title": "The Gift",
+      "year": 2015,
+      "iso_week": 32,
+      "distributor": "STX Entertainment",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 11854273,
+      "total_usd": 43787265,
+      "multiplier": 3.693795899588275
+    },
+    {
+      "film_id": 1843,
+      "title": "Girls Trip",
+      "year": 2017,
+      "iso_week": 29,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "mpaa": "R",
+      "opening_usd": 31201920,
+      "total_usd": 115171585,
+      "multiplier": 3.6911698062170535
+    },
+    {
+      "film_id": 6152,
+      "title": "Jurassic World: Rebirth",
+      "year": 2025,
+      "iso_week": 27,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 92016065,
+      "total_usd": 339640400,
+      "multiplier": 3.691098940168763
+    },
+    {
+      "film_id": 3566,
+      "title": "Harriet",
+      "year": 2019,
+      "iso_week": 44,
+      "distributor": "Focus Features",
+      "tier": "indie",
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 11676720,
+      "total_usd": 43082155,
+      "multiplier": 3.6895767818359952
+    },
+    {
+      "film_id": 9,
+      "title": "The Gambler",
+      "year": 2014,
+      "iso_week": 52,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 9129999,
+      "total_usd": 33680992,
+      "multiplier": 3.6890466253063114
+    },
+    {
+      "film_id": 4648,
+      "title": "The Invitation",
+      "year": 2022,
+      "iso_week": 34,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 6805468,
+      "total_usd": 25100080,
+      "multiplier": 3.6882224705192943
+    },
+    {
+      "film_id": 6491,
+      "title": "Solo Mio",
+      "year": 2026,
+      "iso_week": 6,
+      "distributor": "Angel",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 7001169,
+      "total_usd": 25736278,
+      "multiplier": 3.675997251316173
+    },
+    {
+      "film_id": 3609,
+      "title": "Frozen II",
+      "year": 2019,
+      "iso_week": 47,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "Musical"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 130263358,
+      "total_usd": 477373578,
+      "multiplier": 3.6646804237919306
+    },
+    {
+      "film_id": 5923,
+      "title": "Heart Eyes",
+      "year": 2025,
+      "iso_week": 6,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Mystery",
+        "Romance"
+      ],
+      "mpaa": "R",
+      "opening_usd": 8305156,
+      "total_usd": 30415738,
+      "multiplier": 3.66227172614217
+    },
+    {
+      "film_id": 443,
+      "title": "Trainwreck",
+      "year": 2015,
+      "iso_week": 29,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "mpaa": "R",
+      "opening_usd": 30097040,
+      "total_usd": 110212700,
+      "multiplier": 3.6619116032672983
+    },
+    {
+      "film_id": 2522,
+      "title": "Tag",
+      "year": 2018,
+      "iso_week": 24,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "mpaa": "R",
+      "opening_usd": 14947396,
+      "total_usd": 54730625,
+      "multiplier": 3.6615491420713013
+    },
+    {
+      "film_id": 6538,
+      "title": "Hoppers",
+      "year": 2026,
+      "iso_week": 10,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 45349801,
+      "total_usd": 165942151,
+      "multiplier": 3.6591594084393004
+    },
+    {
+      "film_id": 3307,
+      "title": "Annabelle Comes Home",
+      "year": 2019,
+      "iso_week": 26,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 20269723,
+      "total_usd": 74152591,
+      "multiplier": 3.658293258373585
+    },
+    {
+      "film_id": 1905,
+      "title": "Logan Lucky",
+      "year": 2017,
+      "iso_week": 33,
+      "distributor": "Bleecker Street Media",
+      "tier": "indie",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 7600036,
+      "total_usd": 27780977,
+      "multiplier": 3.655374395594968
+    },
+    {
+      "film_id": 6435,
+      "title": "David",
+      "year": 2025,
+      "iso_week": 51,
+      "distributor": "Angel",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Drama",
+        "Family",
+        "Musical"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 22000555,
+      "total_usd": 80382774,
+      "multiplier": 3.6536702824087848
+    },
+    {
+      "film_id": 1806,
+      "title": "Despicable Me 3",
+      "year": 2017,
+      "iso_week": 26,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Crime",
+        "Family",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 72434025,
+      "total_usd": 264624300,
+      "multiplier": 3.653314861351416
+    },
+    {
+      "film_id": 6672,
+      "title": "Obsession",
+      "year": 2026,
+      "iso_week": 20,
+      "distributor": "Focus Features",
+      "tier": "indie",
+      "genres": [
+        "Horror",
+        "Romance",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 17196855,
+      "total_usd": 62364240,
+      "multiplier": 3.6264910066404585
+    },
+    {
+      "film_id": 2740,
+      "title": "Smallfoot",
+      "year": 2018,
+      "iso_week": 39,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "Musical"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 23045635,
+      "total_usd": 83240103,
+      "multiplier": 3.611968296816295
+    },
+    {
+      "film_id": 3163,
+      "title": "Breakthrough",
+      "year": 2019,
+      "iso_week": 16,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 11282333,
+      "total_usd": 40713082,
+      "multiplier": 3.6085694332900826
+    },
+    {
+      "film_id": 1087,
+      "title": "Finding Dory",
+      "year": 2016,
+      "iso_week": 24,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Mystery"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 135060273,
+      "total_usd": 486295561,
+      "multiplier": 3.600581800985994
+    },
+    {
+      "film_id": 2593,
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018,
+      "iso_week": 30,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 61236534,
+      "total_usd": 220159104,
+      "multiplier": 3.5952247721923647
+    },
+    {
+      "film_id": 3297,
+      "title": "Toy Story 4",
+      "year": 2019,
+      "iso_week": 25,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "G",
+      "opening_usd": 120908065,
+      "total_usd": 434038008,
+      "multiplier": 3.589818495565205
+    },
+    {
+      "film_id": 276,
+      "title": "Monkey Kingdom",
+      "year": 2015,
+      "iso_week": 16,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Documentary"
+      ],
+      "mpaa": null,
+      "opening_usd": 4577861,
+      "total_usd": 16432322,
+      "multiplier": 3.58951964683943
+    },
+    {
+      "film_id": 5936,
+      "title": "Paddington in Peru",
+      "year": 2025,
+      "iso_week": 7,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Mystery"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 12761398,
+      "total_usd": 45800000,
+      "multiplier": 3.5889484835438874
+    },
+    {
+      "film_id": 1088,
+      "title": "Central Intelligence",
+      "year": 2016,
+      "iso_week": 24,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 35535250,
+      "total_usd": 127440871,
+      "multiplier": 3.5863226233106564
+    },
+    {
+      "film_id": 2108,
+      "title": "Murder on the Orient Express",
+      "year": 2017,
+      "iso_week": 45,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 28681472,
+      "total_usd": 102826543,
+      "multiplier": 3.5851208403808563
+    },
+    {
+      "film_id": 3415,
+      "title": "Ready or Not",
+      "year": 2019,
+      "iso_week": 34,
+      "distributor": "Fox Searchlight Pictures",
+      "tier": "indie",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Mystery"
+      ],
+      "mpaa": "R",
+      "opening_usd": 8015590,
+      "total_usd": 28714231,
+      "multiplier": 3.5822978720218974
+    },
+    {
+      "film_id": 535,
+      "title": "A Walk in the Woods",
+      "year": 2015,
+      "iso_week": 36,
+      "distributor": "Broad Green Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "mpaa": "R",
+      "opening_usd": 8246267,
+      "total_usd": 29504281,
+      "multiplier": 3.5778954283192625
+    },
+    {
+      "film_id": 2878,
+      "title": "Ralph Breaks the Internet",
+      "year": 2018,
+      "iso_week": 47,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Sci-Fi",
+        "Sport"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 56237634,
+      "total_usd": 201091711,
+      "multiplier": 3.5757498439568067
+    },
+    {
+      "film_id": 1248,
+      "title": "Sully",
+      "year": 2016,
+      "iso_week": 36,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 35028301,
+      "total_usd": 125070033,
+      "multiplier": 3.5705423737223225
+    },
+    {
+      "film_id": 6342,
+      "title": "Regretting You",
+      "year": 2025,
+      "iso_week": 43,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 13687530,
+      "total_usd": 48852948,
+      "multiplier": 3.56915732787435
+    },
+    {
+      "film_id": 4832,
+      "title": "Missing",
+      "year": 2023,
+      "iso_week": 3,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 9154695,
+      "total_usd": 32502025,
+      "multiplier": 3.550312162229326
+    },
+    {
+      "film_id": 1584,
+      "title": "The Shack",
+      "year": 2017,
+      "iso_week": 9,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 16172119,
+      "total_usd": 57386418,
+      "multiplier": 3.548478588365569
+    },
+    {
+      "film_id": 1185,
+      "title": "Pete's Dragon",
+      "year": 2016,
+      "iso_week": 32,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 21514095,
+      "total_usd": 76233151,
+      "multiplier": 3.543404963118365
+    },
+    {
+      "film_id": 163,
+      "title": "Kingsman: The Secret Service",
+      "year": 2015,
+      "iso_week": 7,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 36206331,
+      "total_usd": 128261724,
+      "multiplier": 3.542521997050737
+    },
+    {
+      "film_id": 1528,
+      "title": "A Dog's Purpose",
+      "year": 2017,
+      "iso_week": 4,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 18222810,
+      "total_usd": 64508620,
+      "multiplier": 3.5399930087620954
+    },
+    {
+      "film_id": 4410,
+      "title": "Death on the Nile",
+      "year": 2022,
+      "iso_week": 6,
+      "distributor": "20th Century Studios",
+      "tier": "industry",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 12891123,
+      "total_usd": 45630104,
+      "multiplier": 3.5396531396062234
+    },
+    {
+      "film_id": 4677,
+      "title": "The Woman King",
+      "year": 2022,
+      "iso_week": 37,
+      "distributor": "TriStar Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Drama",
+        "History"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 19051442,
+      "total_usd": 67328130,
+      "multiplier": 3.534017530011639
+    },
+    {
+      "film_id": 1126,
+      "title": "The Secret Life of Pets",
+      "year": 2016,
+      "iso_week": 27,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 104352905,
+      "total_usd": 368623860,
+      "multiplier": 3.5324733892170994
+    },
+    {
+      "film_id": 1904,
+      "title": "The Hitman's Bodyguard",
+      "year": 2017,
+      "iso_week": 33,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 21384504,
+      "total_usd": 75468583,
+      "multiplier": 3.529124781196702
+    },
+    {
+      "film_id": 964,
+      "title": "The Jungle Book",
+      "year": 2016,
+      "iso_week": 15,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "Musical"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 103261464,
+      "total_usd": 364001123,
+      "multiplier": 3.5250432145722823
+    },
+    {
+      "film_id": 467,
+      "title": "Mission: Impossible - Rogue Nation",
+      "year": 2015,
+      "iso_week": 31,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 55520089,
+      "total_usd": 195042377,
+      "multiplier": 3.5130054816734892
+    },
+    {
+      "film_id": 401,
+      "title": "Max",
+      "year": 2015,
+      "iso_week": 26,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Family",
+        "War"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 12155254,
+      "total_usd": 42656255,
+      "multiplier": 3.509285367463321
+    },
+    {
+      "film_id": 1856,
+      "title": "The Emoji Movie",
+      "year": 2017,
+      "iso_week": 30,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 24531923,
+      "total_usd": 86089513,
+      "multiplier": 3.5092851465415085
+    },
+    {
+      "film_id": 2107,
+      "title": "Daddy's Home 2",
+      "year": 2017,
+      "iso_week": 45,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Comedy"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 29651193,
+      "total_usd": 104029443,
+      "multiplier": 3.5084403855183837
+    },
+    {
+      "film_id": 6132,
+      "title": "Elio",
+      "year": 2025,
+      "iso_week": 25,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 20840667,
+      "total_usd": 72987454,
+      "multiplier": 3.5021649738945495
+    },
+    {
+      "film_id": 583,
+      "title": "Hotel Transylvania 2",
+      "year": 2015,
+      "iso_week": 39,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Horror",
+        "Thriller"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 48464322,
+      "total_usd": 169700110,
+      "multiplier": 3.5015471793869315
+    },
+    {
+      "film_id": 5025,
+      "title": "The Boogeyman",
+      "year": 2023,
+      "iso_week": 22,
+      "distributor": "20th Century Studios",
+      "tier": "industry",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 12356486,
+      "total_usd": 43244282,
+      "multiplier": 3.4997233032109616
+    },
+    {
+      "film_id": 3578,
+      "title": "Playing with Fire",
+      "year": 2019,
+      "iso_week": 45,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 12723781,
+      "total_usd": 44451847,
+      "multiplier": 3.49360359157392
+    },
+    {
+      "film_id": 1340,
+      "title": "The Accountant",
+      "year": 2016,
+      "iso_week": 41,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 24710273,
+      "total_usd": 86260045,
+      "multiplier": 3.490857628323248
+    },
+    {
+      "film_id": 3499,
+      "title": "Joker",
+      "year": 2019,
+      "iso_week": 40,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Drama"
+      ],
+      "mpaa": "R",
+      "opening_usd": 96202337,
+      "total_usd": 335451311,
+      "multiplier": 3.4869351562634074
+    },
+    {
+      "film_id": 1633,
+      "title": "The Boss Baby",
+      "year": 2017,
+      "iso_week": 13,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 50198902,
+      "total_usd": 175003033,
+      "multiplier": 3.4861924469981433
+    },
+    {
+      "film_id": 6198,
+      "title": "Weapons",
+      "year": 2025,
+      "iso_week": 32,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "mpaa": "R",
+      "opening_usd": 43501217,
+      "total_usd": 151572492,
+      "multiplier": 3.484327622374335
+    },
+    {
+      "film_id": 808,
+      "title": "Kung Fu Panda 3",
+      "year": 2016,
+      "iso_week": 4,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 41282042,
+      "total_usd": 143528619,
+      "multiplier": 3.476780993537093
+    },
+    {
+      "film_id": 4778,
+      "title": "Devotion",
+      "year": 2022,
+      "iso_week": 47,
+      "distributor": "Columbia Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama",
+        "War"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 5902803,
+      "total_usd": 20511938,
+      "multiplier": 3.4749487658659794
+    },
+    {
+      "film_id": 2325,
+      "title": "Love, Simon",
+      "year": 2018,
+      "iso_week": 11,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 11756244,
+      "total_usd": 40826341,
+      "multiplier": 3.4727367856604543
+    },
+    {
+      "film_id": 3382,
+      "title": "Dora and the Lost City of Gold",
+      "year": 2019,
+      "iso_week": 32,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Mystery"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 17431588,
+      "total_usd": 60477943,
+      "multiplier": 3.469445411399122
+    },
+    {
+      "film_id": 4768,
+      "title": "Bones and All",
+      "year": 2022,
+      "iso_week": 47,
+      "distributor": "United Artists Releasing",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Romance"
+      ],
+      "mpaa": "R",
+      "opening_usd": 2258562,
+      "total_usd": 7834907,
+      "multiplier": 3.468980262662703
+    },
+    {
+      "film_id": 3357,
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019,
+      "iso_week": 30,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "mpaa": "R",
+      "opening_usd": 41082018,
+      "total_usd": 142502728,
+      "multiplier": 3.4687372952321867
+    },
+    {
+      "film_id": 3077,
+      "title": "Five Feet Apart",
+      "year": 2019,
+      "iso_week": 11,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 13190286,
+      "total_usd": 45729221,
+      "multiplier": 3.4668862373416314
+    },
+    {
+      "film_id": 2259,
+      "title": "Black Panther",
+      "year": 2018,
+      "iso_week": 7,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 202003951,
+      "total_usd": 700059566,
+      "multiplier": 3.465573631280113
+    },
+    {
+      "film_id": 2638,
+      "title": "Alpha",
+      "year": 2018,
+      "iso_week": 33,
+      "distributor": "Studio 8",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 10352512,
+      "total_usd": 35857181,
+      "multiplier": 3.463621293073604
+    },
+    {
+      "film_id": 4587,
+      "title": "Minions: The Rise of Gru",
+      "year": 2022,
+      "iso_week": 26,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Crime",
+        "Family",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 107010140,
+      "total_usd": 370549695,
+      "multiplier": 3.4627531091913344
+    },
+    {
+      "film_id": 4458,
+      "title": "The Lost City",
+      "year": 2022,
+      "iso_week": 12,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 30453269,
+      "total_usd": 105344029,
+      "multiplier": 3.459202655714892
+    },
+    {
+      "film_id": 1514,
+      "title": "Split",
+      "year": 2017,
+      "iso_week": 3,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 40010975,
+      "total_usd": 138291365,
+      "multiplier": 3.4563357928668323
+    },
+    {
+      "film_id": 2580,
+      "title": "Mamma Mia! Here We Go Again",
+      "year": 2018,
+      "iso_week": 29,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Musical",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 34952180,
+      "total_usd": 120634935,
+      "multiplier": 3.451428065431112
+    },
+    {
+      "film_id": 4623,
+      "title": "Bullet Train",
+      "year": 2022,
+      "iso_week": 31,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 30030156,
+      "total_usd": 103368602,
+      "multiplier": 3.442160007427201
+    },
+    {
+      "film_id": 5240,
+      "title": "Trolls Band Together",
+      "year": 2023,
+      "iso_week": 46,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Musical"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 30002525,
+      "total_usd": 103270155,
+      "multiplier": 3.442048794226486
+    },
+    {
+      "film_id": 1466,
+      "title": "Rogue One: A Star Wars Story",
+      "year": 2016,
+      "iso_week": 50,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 155081681,
+      "total_usd": 532177324,
+      "multiplier": 3.431593728984663
+    },
+    {
+      "film_id": 2868,
+      "title": "Widows",
+      "year": 2018,
+      "iso_week": 46,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 12361307,
+      "total_usd": 42402632,
+      "multiplier": 3.430270925234686
+    },
+    {
+      "film_id": 3019,
+      "title": "Isn't It Romantic",
+      "year": 2019,
+      "iso_week": 7,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Musical",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 14247758,
+      "total_usd": 48791187,
+      "multiplier": 3.4244817324943333
+    },
+    {
+      "film_id": 5526,
+      "title": "Bad Boys: Ride or Die",
+      "year": 2024,
+      "iso_week": 23,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Crime",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 56527324,
+      "total_usd": 193573217,
+      "multiplier": 3.424418551990892
+    },
+    {
+      "film_id": 2439,
+      "title": "Overboard",
+      "year": 2018,
+      "iso_week": 18,
+      "distributor": "Pantelion Films",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 14711101,
+      "total_usd": 50316123,
+      "multiplier": 3.420282615148927
+    },
+    {
+      "film_id": 5380,
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "iso_week": 9,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 82505391,
+      "total_usd": 282144358,
+      "multiplier": 3.4197081497377546
+    },
+    {
+      "film_id": 1286,
+      "title": "Storks",
+      "year": 2016,
+      "iso_week": 38,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 21311407,
+      "total_usd": 72679278,
+      "multiplier": 3.410346299519314
+    },
+    {
+      "film_id": 1645,
+      "title": "Smurfs: The Lost Village",
+      "year": 2017,
+      "iso_week": 14,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 13210449,
+      "total_usd": 45020282,
+      "multiplier": 3.4079297380429687
+    },
+    {
+      "film_id": 3268,
+      "title": "The Secret Life of Pets 2",
+      "year": 2019,
+      "iso_week": 23,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 46652680,
+      "total_usd": 158980250,
+      "multiplier": 3.4077409915143138
+    },
+    {
+      "film_id": 234,
+      "title": "Home",
+      "year": 2015,
+      "iso_week": 13,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Musical",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 52107731,
+      "total_usd": 177397510,
+      "multiplier": 3.4044374336698713
+    },
+    {
+      "film_id": 1885,
+      "title": "The Nut Job 2: Nutty by Nature",
+      "year": 2017,
+      "iso_week": 32,
+      "distributor": "Open Road Films (II)",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Crime",
+        "Family"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 8342311,
+      "total_usd": 28370522,
+      "multiplier": 3.4007988913383835
+    },
+    {
+      "film_id": 630,
+      "title": "Goosebumps",
+      "year": 2015,
+      "iso_week": 42,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Horror",
+        "Thriller"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 23618556,
+      "total_usd": 80080379,
+      "multiplier": 3.3905704904228693
+    },
+    {
+      "film_id": 6480,
+      "title": "Send Help",
+      "year": 2026,
+      "iso_week": 5,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Horror",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 19102299,
+      "total_usd": 64734795,
+      "multiplier": 3.3888483789307244
+    },
+    {
+      "film_id": 493,
+      "title": "The Man from U.N.C.L.E.",
+      "year": 2015,
+      "iso_week": 33,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 13421036,
+      "total_usd": 45445109,
+      "multiplier": 3.3861103569053834
+    },
+    {
+      "film_id": 5355,
+      "title": "Bob Marley: One Love",
+      "year": 2024,
+      "iso_week": 7,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 28659004,
+      "total_usd": 96981216,
+      "multiplier": 3.3839702175274478
+    },
+    {
+      "film_id": 329,
+      "title": "Mad Max: Fury Road",
+      "year": 2015,
+      "iso_week": 20,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "mpaa": "R",
+      "opening_usd": 45428128,
+      "total_usd": 153636354,
+      "multiplier": 3.381965332139594
+    },
+    {
+      "film_id": 798,
+      "title": "The 5th Wave",
+      "year": 2016,
+      "iso_week": 3,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 10326356,
+      "total_usd": 34916787,
+      "multiplier": 3.3813270625184724
+    },
+    {
+      "film_id": 1219,
+      "title": "Don't Breathe",
+      "year": 2016,
+      "iso_week": 34,
+      "distributor": "Screen Gems",
+      "tier": "industry",
+      "genres": [
+        "Crime",
+        "Horror",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 26411706,
+      "total_usd": 89217875,
+      "multiplier": 3.377967140782197
+    },
+    {
+      "film_id": 4417,
+      "title": "Uncharted",
+      "year": 2022,
+      "iso_week": 7,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 44010155,
+      "total_usd": 148648820,
+      "multiplier": 3.377602737368228
+    },
+    {
+      "film_id": 2506,
+      "title": "Ocean's Eight",
+      "year": 2018,
+      "iso_week": 23,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 41607378,
+      "total_usd": 140218711,
+      "multiplier": 3.37004439453022
+    },
+    {
+      "film_id": 519,
+      "title": "No Escape",
+      "year": 2015,
+      "iso_week": 35,
+      "distributor": "The Weinstein Company",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 8111264,
+      "total_usd": 27288872,
+      "multiplier": 3.364318064360869
+    },
+    {
+      "film_id": 5041,
+      "title": "No Hard Feelings",
+      "year": 2023,
+      "iso_week": 25,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "mpaa": "R",
+      "opening_usd": 15002770,
+      "total_usd": 50452282,
+      "multiplier": 3.362864457696812
+    },
+    {
+      "film_id": 2880,
+      "title": "Robin Hood",
+      "year": 2018,
+      "iso_week": 47,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 9195670,
+      "total_usd": 30824628,
+      "multiplier": 3.3520807075504013
+    },
+    {
+      "film_id": 5480,
+      "title": "The Fall Guy",
+      "year": 2024,
+      "iso_week": 18,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 27747035,
+      "total_usd": 92900355,
+      "multiplier": 3.3481182764212463
+    },
+    {
+      "film_id": 2692,
+      "title": "A Simple Favor",
+      "year": 2018,
+      "iso_week": 37,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 16011689,
+      "total_usd": 53548586,
+      "multiplier": 3.344343373144457
+    },
+    {
+      "film_id": 6586,
+      "title": "The Drama",
+      "year": 2026,
+      "iso_week": 14,
+      "distributor": "A24",
+      "tier": "indie",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "mpaa": "R",
+      "opening_usd": 14380197,
+      "total_usd": 48062006,
+      "multiplier": 3.3422355757713196
+    },
+    {
+      "film_id": 928,
+      "title": "My Big Fat Greek Wedding 2",
+      "year": 2016,
+      "iso_week": 12,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 17861950,
+      "total_usd": 59689605,
+      "multiplier": 3.341718289436484
+    },
+    {
+      "film_id": 5471,
+      "title": "Challengers",
+      "year": 2024,
+      "iso_week": 17,
+      "distributor": "Amazon MGM Studios",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Sport"
+      ],
+      "mpaa": "R",
+      "opening_usd": 15011061,
+      "total_usd": 50119408,
+      "multiplier": 3.338831812088433
+    },
+    {
+      "film_id": 5385,
+      "title": "Kung Fu Panda 4",
+      "year": 2024,
+      "iso_week": 10,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 57989905,
+      "total_usd": 193590620,
+      "multiplier": 3.3383503559800625
+    },
+    {
+      "film_id": 6200,
+      "title": "Sketch",
+      "year": 2025,
+      "iso_week": 32,
+      "distributor": "Angel",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 2438336,
+      "total_usd": 8129808,
+      "multiplier": 3.334162313971495
+    },
+    {
+      "film_id": 2521,
+      "title": "Incredibles 2",
+      "year": 2018,
+      "iso_week": 24,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 182687905,
+      "total_usd": 608581744,
+      "multiplier": 3.3312645629167403
+    },
+    {
+      "film_id": 6144,
+      "title": "F1: The Movie",
+      "year": 2025,
+      "iso_week": 26,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 57001667,
+      "total_usd": 189642436,
+      "multiplier": 3.3269629816264845
+    },
+    {
+      "film_id": 797,
+      "title": "The Boy",
+      "year": 2016,
+      "iso_week": 3,
+      "distributor": "STX Entertainment",
+      "tier": "industry",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 10778392,
+      "total_usd": 35819556,
+      "multiplier": 3.3232745663731658
+    },
+    {
+      "film_id": 418,
+      "title": "Terminator Genisys",
+      "year": 2015,
+      "iso_week": 27,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 27018486,
+      "total_usd": 89760956,
+      "multiplier": 3.3222052486582703
+    },
+    {
+      "film_id": 5581,
+      "title": "Longlegs",
+      "year": 2024,
+      "iso_week": 28,
+      "distributor": "Neon",
+      "tier": "indie",
+      "genres": [
+        "Crime",
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 22400119,
+      "total_usd": 74346140,
+      "multiplier": 3.319006474920959
+    },
+    {
+      "film_id": 767,
+      "title": "Joy",
+      "year": 2015,
+      "iso_week": 52,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 17015168,
+      "total_usd": 56451232,
+      "multiplier": 3.3177005363684917
+    },
+    {
+      "film_id": 1555,
+      "title": "The Lego Batman Movie",
+      "year": 2017,
+      "iso_week": 6,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 53003468,
+      "total_usd": 175750384,
+      "multiplier": 3.3158280133669744
+    },
+    {
+      "film_id": 6291,
+      "title": "One Battle After Another",
+      "year": 2025,
+      "iso_week": 39,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 22000387,
+      "total_usd": 72918884,
+      "multiplier": 3.314436423322917
+    },
+    {
+      "film_id": 6631,
+      "title": "Michael",
+      "year": 2026,
+      "iso_week": 17,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History",
+        "Music"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 97206874,
+      "total_usd": 321310475,
+      "multiplier": 3.305429562522502
+    },
+    {
+      "film_id": 5501,
+      "title": "IF",
+      "year": 2024,
+      "iso_week": 20,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 33715801,
+      "total_usd": 111375918,
+      "multiplier": 3.3033745216374957
+    },
+    {
+      "film_id": 1388,
+      "title": "Trolls",
+      "year": 2016,
+      "iso_week": 44,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Music"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 46581142,
+      "total_usd": 153856089,
+      "multiplier": 3.3029694505986993
+    },
+    {
+      "film_id": 3517,
+      "title": "The Addams Family",
+      "year": 2019,
+      "iso_week": 41,
+      "distributor": "United Artists Releasing",
+      "tier": "industry",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Horror"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 30300007,
+      "total_usd": 100044905,
+      "multiplier": 3.3018112834099345
+    },
+    {
+      "film_id": 2359,
+      "title": "Ready Player One",
+      "year": 2018,
+      "iso_week": 13,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 41764050,
+      "total_usd": 137690172,
+      "multiplier": 3.296858709823401
+    },
+    {
+      "film_id": 3381,
+      "title": "Scary Stories to Tell in the Dark",
+      "year": 2019,
+      "iso_week": 32,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Horror",
+        "Mystery"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 20915346,
+      "total_usd": 68947075,
+      "multiplier": 3.29648264006725
+    },
+    {
+      "film_id": 5594,
+      "title": "Twisters",
+      "year": 2024,
+      "iso_week": 29,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 81251415,
+      "total_usd": 267762265,
+      "multiplier": 3.2954781772108217
+    },
+    {
+      "film_id": 6199,
+      "title": "Freakier Friday",
+      "year": 2025,
+      "iso_week": 32,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 28583167,
+      "total_usd": 94186236,
+      "multiplier": 3.295164458158188
+    },
+    {
+      "film_id": 5807,
+      "title": "Moana 2",
+      "year": 2024,
+      "iso_week": 48,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Musical"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 139787385,
+      "total_usd": 460405297,
+      "multiplier": 3.29361120103935
+    },
+    {
+      "film_id": 1116,
+      "title": "The Legend of Tarzan",
+      "year": 2016,
+      "iso_week": 26,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 38527856,
+      "total_usd": 126643061,
+      "multiplier": 3.287051867095849
+    },
+    {
+      "film_id": 768,
+      "title": "Concussion",
+      "year": 2015,
+      "iso_week": 52,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 10513749,
+      "total_usd": 34542474,
+      "multiplier": 3.2854573568381746
+    },
+    {
+      "film_id": 5394,
+      "title": "Arthur the King",
+      "year": 2024,
+      "iso_week": 11,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sport"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 7633898,
+      "total_usd": 25049006,
+      "multiplier": 3.2812864410816074
+    },
+    {
+      "film_id": 1103,
+      "title": "The Shallows",
+      "year": 2016,
+      "iso_week": 25,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 16800868,
+      "total_usd": 55124043,
+      "multiplier": 3.2810235161659507
+    },
+    {
+      "film_id": 4881,
+      "title": "Jesus Revolution",
+      "year": 2023,
+      "iso_week": 8,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 15882067,
+      "total_usd": 52102987,
+      "multiplier": 3.280617504006248
+    },
+    {
+      "film_id": 457,
+      "title": "Pixels",
+      "year": 2015,
+      "iso_week": 30,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 24011616,
+      "total_usd": 78747585,
+      "multiplier": 3.2795620669595915
+    },
+    {
+      "film_id": 3246,
+      "title": "Booksmart",
+      "year": 2019,
+      "iso_week": 21,
+      "distributor": "United Artists Releasing",
+      "tier": "industry",
+      "genres": [
+        "Comedy"
+      ],
+      "mpaa": "R",
+      "opening_usd": 6933620,
+      "total_usd": 22680962,
+      "multiplier": 3.271157346378948
+    },
+    {
+      "film_id": 789,
+      "title": "13 Hours",
+      "year": 2016,
+      "iso_week": 2,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Drama",
+        "History",
+        "Thriller",
+        "War"
+      ],
+      "mpaa": "R",
+      "opening_usd": 16194738,
+      "total_usd": 52853219,
+      "multiplier": 3.2636044497910373
+    },
+    {
+      "film_id": 3191,
+      "title": "The Intruder",
+      "year": 2019,
+      "iso_week": 18,
+      "distributor": "Screen Gems",
+      "tier": "industry",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 10855054,
+      "total_usd": 35419122,
+      "multiplier": 3.2629153203659786
+    },
+    {
+      "film_id": 2879,
+      "title": "Creed II",
+      "year": 2018,
+      "iso_week": 47,
+      "distributor": "Metro-Goldwyn-Mayer (MGM)",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sport"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 35574710,
+      "total_usd": 115715889,
+      "multiplier": 3.2527570569092483
+    },
+    {
+      "film_id": 3326,
+      "title": "Crawl",
+      "year": 2019,
+      "iso_week": 28,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Horror",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 12005210,
+      "total_usd": 39014193,
+      "multiplier": 3.2497718074069506
+    },
+    {
+      "film_id": 5249,
+      "title": "Wish",
+      "year": 2023,
+      "iso_week": 47,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Musical"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 19698228,
+      "total_usd": 63973821,
+      "multiplier": 3.2476942088394956
+    },
+    {
+      "film_id": 2507,
+      "title": "Hereditary",
+      "year": 2018,
+      "iso_week": 23,
+      "distributor": "A24",
+      "tier": "indie",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 13575172,
+      "total_usd": 44069456,
+      "multiplier": 3.246327634007142
+    },
+    {
+      "film_id": 3383,
+      "title": "The Art of Racing in the Rain",
+      "year": 2019,
+      "iso_week": 32,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Sport"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 8137584,
+      "total_usd": 26395642,
+      "multiplier": 3.24367060297012
+    },
+    {
+      "film_id": 1457,
+      "title": "Office Christmas Party",
+      "year": 2016,
+      "iso_week": 49,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Comedy"
+      ],
+      "mpaa": "R",
+      "opening_usd": 16890204,
+      "total_usd": 54767494,
+      "multiplier": 3.242559651736592
+    },
+    {
+      "film_id": 5678,
+      "title": "Speak No Evil",
+      "year": 2024,
+      "iso_week": 37,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 11397595,
+      "total_usd": 36931420,
+      "multiplier": 3.2402818313863584
+    },
+    {
+      "film_id": 1037,
+      "title": "The Nice Guys",
+      "year": 2016,
+      "iso_week": 20,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 11203270,
+      "total_usd": 36261763,
+      "multiplier": 3.2367124062885213
+    },
+    {
+      "film_id": 290,
+      "title": "The Age of Adaline",
+      "year": 2015,
+      "iso_week": 17,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 13203458,
+      "total_usd": 42629776,
+      "multiplier": 3.2286826678283824
+    },
+    {
+      "film_id": 3413,
+      "title": "Angel Has Fallen",
+      "year": 2019,
+      "iso_week": 34,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 21380987,
+      "total_usd": 69030436,
+      "multiplier": 3.228589774644173
+    },
+    {
+      "film_id": 6585,
+      "title": "The Super Mario Galaxy Movie",
+      "year": 2026,
+      "iso_week": 14,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 131703340,
+      "total_usd": 424727680,
+      "multiplier": 3.22488161651785
+    },
+    {
+      "film_id": 6126,
+      "title": "Materialists",
+      "year": 2025,
+      "iso_week": 24,
+      "distributor": "A24",
+      "tier": "indie",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "mpaa": "R",
+      "opening_usd": 11338642,
+      "total_usd": 36521973,
+      "multiplier": 3.2210182665613747
+    },
+    {
+      "film_id": 2622,
+      "title": "The Meg",
+      "year": 2018,
+      "iso_week": 32,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 45402195,
+      "total_usd": 145443742,
+      "multiplier": 3.203451771439685
+    },
+    {
+      "film_id": 796,
+      "title": "Dirty Grandpa",
+      "year": 2016,
+      "iso_week": 3,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Comedy"
+      ],
+      "mpaa": "R",
+      "opening_usd": 11111875,
+      "total_usd": 35593113,
+      "multiplier": 3.203159952753248
+    },
+    {
+      "film_id": 4679,
+      "title": "See How They Run",
+      "year": 2022,
+      "iso_week": 37,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Mystery"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 3007657,
+      "total_usd": 9586237,
+      "multiplier": 3.187277339138073
+    },
+    {
+      "film_id": 4906,
+      "title": "Champions",
+      "year": 2023,
+      "iso_week": 10,
+      "distributor": "Focus Features",
+      "tier": "indie",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sport"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 5148740,
+      "total_usd": 16397335,
+      "multiplier": 3.1847277197916384
+    },
+    {
+      "film_id": 3576,
+      "title": "Midway",
+      "year": 2019,
+      "iso_week": 45,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Drama",
+        "History",
+        "War"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 17897419,
+      "total_usd": 56846802,
+      "multiplier": 3.176256978729726
+    },
+    {
+      "film_id": 3449,
+      "title": "Hustlers",
+      "year": 2019,
+      "iso_week": 37,
+      "distributor": "STX Entertainment",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "mpaa": "R",
+      "opening_usd": 33181361,
+      "total_usd": 104963598,
+      "multiplier": 3.1633300996906066
+    },
+    {
+      "film_id": 5649,
+      "title": "Blink Twice",
+      "year": 2024,
+      "iso_week": 34,
+      "distributor": "Amazon MGM Studios",
+      "tier": "industry",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 7301894,
+      "total_usd": 23093906,
+      "multiplier": 3.162728190795429
+    },
+    {
+      "film_id": 695,
+      "title": "Love the Coopers",
+      "year": 2015,
+      "iso_week": 46,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 8317545,
+      "total_usd": 26302731,
+      "multiplier": 3.1623190496715075
+    },
+    {
+      "film_id": 5024,
+      "title": "Spider-Man: Across the Spider-Verse",
+      "year": 2023,
+      "iso_week": 22,
+      "distributor": "Columbia Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Family",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 120663589,
+      "total_usd": 381311319,
+      "multiplier": 3.160119155746312
+    },
+    {
+      "film_id": 1433,
+      "title": "Allied",
+      "year": 2016,
+      "iso_week": 47,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Drama",
+        "Romance",
+        "Thriller",
+        "War"
+      ],
+      "mpaa": "R",
+      "opening_usd": 12701743,
+      "total_usd": 40098064,
+      "multiplier": 3.1568946088737584
+    },
+    {
+      "film_id": 5067,
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "year": 2023,
+      "iso_week": 28,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 54688347,
+      "total_usd": 172640980,
+      "multiplier": 3.1568147415389975
+    },
+    {
+      "film_id": 1947,
+      "title": "Home Again",
+      "year": 2017,
+      "iso_week": 36,
+      "distributor": "Open Road Films (II)",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 8567881,
+      "total_usd": 27020284,
+      "multiplier": 3.153671718829895
+    },
+    {
+      "film_id": 4378,
+      "title": "The 355",
+      "year": 2022,
+      "iso_week": 1,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 4621765,
+      "total_usd": 14570455,
+      "multiplier": 3.1525737461770555
+    },
+    {
+      "film_id": 1174,
+      "title": "Nine Lives",
+      "year": 2016,
+      "iso_week": 31,
+      "distributor": "EuropaCorp",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 6249915,
+      "total_usd": 19700032,
+      "multiplier": 3.152047987852635
+    },
+    {
+      "film_id": 442,
+      "title": "Ant-Man",
+      "year": 2015,
+      "iso_week": 29,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 57225526,
+      "total_usd": 180202163,
+      "multiplier": 3.1489822042002724
+    },
+    {
+      "film_id": 169,
+      "title": "The DUFF",
+      "year": 2015,
+      "iso_week": 8,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 10809149,
+      "total_usd": 34030343,
+      "multiplier": 3.1482906748718147
+    },
+    {
+      "film_id": 368,
+      "title": "Entourage",
+      "year": 2015,
+      "iso_week": 23,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "mpaa": "R",
+      "opening_usd": 10283250,
+      "total_usd": 32363404,
+      "multiplier": 3.1471960712809666
+    },
+    {
+      "film_id": 1416,
+      "title": "Fantastic Beasts and Where to Find Them",
+      "year": 2016,
+      "iso_week": 46,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 74403387,
+      "total_usd": 234037575,
+      "multiplier": 3.1455231332412326
+    },
+    {
+      "film_id": 6189,
+      "title": "Together",
+      "year": 2025,
+      "iso_week": 31,
+      "distributor": "Neon",
+      "tier": "indie",
+      "genres": [
+        "Horror",
+        "Romance"
+      ],
+      "mpaa": "R",
+      "opening_usd": 6763357,
+      "total_usd": 21273159,
+      "multiplier": 3.1453550359680853
+    },
+    {
+      "film_id": 720,
+      "title": "The Good Dinosaur",
+      "year": 2015,
+      "iso_week": 48,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 39155217,
+      "total_usd": 123087120,
+      "multiplier": 3.143568837838391
+    },
+    {
+      "film_id": 458,
+      "title": "Southpaw",
+      "year": 2015,
+      "iso_week": 30,
+      "distributor": "The Weinstein Company",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sport"
+      ],
+      "mpaa": "R",
+      "opening_usd": 16701294,
+      "total_usd": 52421953,
+      "multiplier": 3.1387958921027317
+    },
+    {
+      "film_id": 1746,
+      "title": "Baywatch",
+      "year": 2017,
+      "iso_week": 21,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "mpaa": "R",
+      "opening_usd": 18503871,
+      "total_usd": 58060186,
+      "multiplier": 3.1377318832367562
+    },
+    {
+      "film_id": 5800,
+      "title": "Gladiator II",
+      "year": 2024,
+      "iso_week": 47,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "mpaa": "R",
+      "opening_usd": 55034715,
+      "total_usd": 172438016,
+      "multiplier": 3.1332589984339885
+    },
+    {
+      "film_id": 6188,
+      "title": "The Naked Gun",
+      "year": 2025,
+      "iso_week": 31,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 16805560,
+      "total_usd": 52647396,
+      "multiplier": 3.132736784730768
+    },
+    {
+      "film_id": 4863,
+      "title": "Magic Mike's Last Dance",
+      "year": 2023,
+      "iso_week": 6,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "mpaa": "R",
+      "opening_usd": 8305317,
+      "total_usd": 26005156,
+      "multiplier": 3.1311455059451676
+    },
+    {
+      "film_id": 4826,
+      "title": "Plane",
+      "year": 2023,
+      "iso_week": 2,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 10265326,
+      "total_usd": 32111181,
+      "multiplier": 3.128120918907008
+    },
+    {
+      "film_id": 4823,
+      "title": "M3GAN",
+      "year": 2023,
+      "iso_week": 1,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 30429860,
+      "total_usd": 95159005,
+      "multiplier": 3.1271588170303772
+    },
+    {
+      "film_id": 6026,
+      "title": "Warfare",
+      "year": 2025,
+      "iso_week": 15,
+      "distributor": "A24",
+      "tier": "indie",
+      "genres": [
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "mpaa": "R",
+      "opening_usd": 8317989,
+      "total_usd": 26000309,
+      "multiplier": 3.1257926645490874
+    },
+    {
+      "film_id": 2959,
+      "title": "Escape Room",
+      "year": 2019,
+      "iso_week": 1,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Horror",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 18238172,
+      "total_usd": 57005601,
+      "multiplier": 3.125620319843458
+    },
+    {
+      "film_id": 853,
+      "title": "Risen",
+      "year": 2016,
+      "iso_week": 7,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Drama",
+        "History",
+        "Mystery"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 11801271,
+      "total_usd": 36880033,
+      "multiplier": 3.12508991616242
+    },
+    {
+      "film_id": 4776,
+      "title": "Strange World",
+      "year": 2022,
+      "iso_week": 47,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 12151384,
+      "total_usd": 37968963,
+      "multiplier": 3.1246616023327056
+    },
+    {
+      "film_id": 380,
+      "title": "Jurassic World",
+      "year": 2015,
+      "iso_week": 24,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 208806270,
+      "total_usd": 652270625,
+      "multiplier": 3.1238076567336797
+    },
+    {
+      "film_id": 100,
+      "title": "The Wedding Ringer",
+      "year": 2015,
+      "iso_week": 3,
+      "distributor": "Screen Gems",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "mpaa": "R",
+      "opening_usd": 20649306,
+      "total_usd": 64460211,
+      "multiplier": 3.121664766844949
+    },
+    {
+      "film_id": 3468,
+      "title": "Downton Abbey",
+      "year": 2019,
+      "iso_week": 38,
+      "distributor": "Focus Features",
+      "tier": "indie",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 31033665,
+      "total_usd": 96853865,
+      "multiplier": 3.1209289975901977
+    },
+    {
+      "film_id": 5015,
+      "title": "The Little Mermaid",
+      "year": 2023,
+      "iso_week": 21,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy",
+        "Musical",
+        "Romance"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 95578040,
+      "total_usd": 298172056,
+      "multiplier": 3.1196711713276395
+    },
+    {
+      "film_id": 3192,
+      "title": "Long Shot",
+      "year": 2019,
+      "iso_week": 18,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "mpaa": "R",
+      "opening_usd": 9740064,
+      "total_usd": 30316271,
+      "multiplier": 3.112533038797281
+    },
+    {
+      "film_id": 6024,
+      "title": "The King of Kings",
+      "year": 2025,
+      "iso_week": 15,
+      "distributor": "Angel",
+      "tier": "industry",
+      "genres": [
+        "Animation",
+        "Biography",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 19371296,
+      "total_usd": 60270106,
+      "multiplier": 3.1113099505577737
+    },
+    {
+      "film_id": 5364,
+      "title": "Ordinary Angels",
+      "year": 2024,
+      "iso_week": 8,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 6163600,
+      "total_usd": 19174421,
+      "multiplier": 3.1109126160036342
+    },
+    {
+      "film_id": 6125,
+      "title": "How to Train Your Dragon",
+      "year": 2025,
+      "iso_week": 24,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 84633315,
+      "total_usd": 262958100,
+      "multiplier": 3.1070282429560985
+    },
+    {
+      "film_id": 4855,
+      "title": "80 for Brady",
+      "year": 2023,
+      "iso_week": 5,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sport"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 12701640,
+      "total_usd": 39448525,
+      "multiplier": 3.1057820092523487
+    },
+    {
+      "film_id": 6664,
+      "title": "The Sheep Detectives",
+      "year": 2026,
+      "iso_week": 19,
+      "distributor": "Amazon MGM Studios",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Mystery"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 15087796,
+      "total_usd": 46845814,
+      "multiplier": 3.1048811900691127
+    },
+    {
+      "film_id": 1150,
+      "title": "Lights Out",
+      "year": 2016,
+      "iso_week": 29,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 21688103,
+      "total_usd": 67268835,
+      "multiplier": 3.1016467876420544
+    },
+    {
+      "film_id": 3003,
+      "title": "The Lego Movie 2: The Second Part",
+      "year": 2019,
+      "iso_week": 6,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Musical",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 34115335,
+      "total_usd": 105806508,
+      "multiplier": 3.1014354102048243
+    },
+    {
+      "film_id": 1753,
+      "title": "Captain Underpants: The First Epic Movie",
+      "year": 2017,
+      "iso_week": 22,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 23851539,
+      "total_usd": 73921000,
+      "multiplier": 3.099213010950782
+    },
+    {
+      "film_id": 872,
+      "title": "Whiskey Tango Foxtrot",
+      "year": 2016,
+      "iso_week": 9,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama",
+        "War"
+      ],
+      "mpaa": "R",
+      "opening_usd": 7450275,
+      "total_usd": 23083334,
+      "multiplier": 3.09831972645305
+    },
+    {
+      "film_id": 5241,
+      "title": "Thanksgiving",
+      "year": 2023,
+      "iso_week": 46,
+      "distributor": "TriStar Pictures",
+      "tier": "industry",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 10306272,
+      "total_usd": 31908884,
+      "multiplier": 3.096064609977303
+    },
+    {
+      "film_id": 823,
+      "title": "The Choice",
+      "year": 2016,
+      "iso_week": 5,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 6050443,
+      "total_usd": 18730891,
+      "multiplier": 3.0957883579764323
+    },
+    {
+      "film_id": 1873,
+      "title": "Kidnap",
+      "year": 2017,
+      "iso_week": 31,
+      "distributor": "Aviron Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 10016323,
+      "total_usd": 30971040,
+      "multiplier": 3.0920568356272056
+    },
+    {
+      "film_id": 3533,
+      "title": "Maleficent: Mistress of Evil",
+      "year": 2019,
+      "iso_week": 42,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "Romance"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 36948713,
+      "total_usd": 113929605,
+      "multiplier": 3.0834525954936507
+    },
+    {
+      "film_id": 6100,
+      "title": "Mission: Impossible - The Final Reckoning",
+      "year": 2025,
+      "iso_week": 21,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 64036428,
+      "total_usd": 197413515,
+      "multiplier": 3.0828314627418005
+    },
+    {
+      "film_id": 3611,
+      "title": "21 Bridges",
+      "year": 2019,
+      "iso_week": 47,
+      "distributor": "STX Entertainment",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 9261268,
+      "total_usd": 28539757,
+      "multiplier": 3.081625215899162
+    },
+    {
+      "film_id": 1321,
+      "title": "The Girl on the Train",
+      "year": 2016,
+      "iso_week": 40,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 24536265,
+      "total_usd": 75395035,
+      "multiplier": 3.072799996250448
+    },
+    {
+      "film_id": 3579,
+      "title": "Last Christmas",
+      "year": 2019,
+      "iso_week": 45,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 11441055,
+      "total_usd": 35150750,
+      "multiplier": 3.0723346754298446
+    },
+    {
+      "film_id": 3593,
+      "title": "The Good Liar",
+      "year": 2019,
+      "iso_week": 46,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 5605051,
+      "total_usd": 17156058,
+      "multiplier": 3.060821034456243
+    },
+    {
+      "film_id": 1999,
+      "title": "American Made",
+      "year": 2017,
+      "iso_week": 39,
+      "distributor": "Universal Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 16776390,
+      "total_usd": 51342000,
+      "multiplier": 3.0603723447058635
+    },
+    {
+      "film_id": 2054,
+      "title": "Only the Brave",
+      "year": 2017,
+      "iso_week": 42,
+      "distributor": "Sony Pictures Releasing",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 6002665,
+      "total_usd": 18343983,
+      "multiplier": 3.055973138597606
+    },
+    {
+      "film_id": 1502,
+      "title": "Monster Trucks",
+      "year": 2017,
+      "iso_week": 2,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Sci-Fi",
+        "Sport"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 10950705,
+      "total_usd": 33370166,
+      "multiplier": 3.047307547778887
+    },
+    {
+      "film_id": 2410,
+      "title": "I Feel Pretty",
+      "year": 2018,
+      "iso_week": 16,
+      "distributor": "STX Entertainment",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 16030218,
+      "total_usd": 48795601,
+      "multiplier": 3.04397613307567
+    },
+    {
+      "film_id": 1303,
+      "title": "Deepwater Horizon",
+      "year": 2016,
+      "iso_week": 39,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 20223544,
+      "total_usd": 61433527,
+      "multiplier": 3.0377231112410366
+    },
+    {
+      "film_id": 2307,
+      "title": "A Wrinkle in Time",
+      "year": 2018,
+      "iso_week": 10,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG",
+      "opening_usd": 33123609,
+      "total_usd": 100478608,
+      "multiplier": 3.033443849672299
+    },
+    {
+      "film_id": 711,
+      "title": "Secret in Their Eyes",
+      "year": 2015,
+      "iso_week": 47,
+      "distributor": "STX Entertainment",
+      "tier": "industry",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 6652996,
+      "total_usd": 20180155,
+      "multiplier": 3.033243218543946
+    },
+    {
+      "film_id": 4994,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "year": 2023,
+      "iso_week": 18,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 118414021,
+      "total_usd": 358995815,
+      "multiplier": 3.0317002325256737
+    },
+    {
+      "film_id": 1557,
+      "title": "John Wick: Chapter 2",
+      "year": 2017,
+      "iso_week": 6,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 30436123,
+      "total_usd": 92029184,
+      "multiplier": 3.023682878400774
+    },
+    {
+      "film_id": 4980,
+      "title": "Are You There God? It's Me, Margaret.",
+      "year": 2023,
+      "iso_week": 17,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 6739037,
+      "total_usd": 20372406,
+      "multiplier": 3.023044093688757
+    },
+    {
+      "film_id": 1302,
+      "title": "Miss Peregrine's Home for Peculiar Children",
+      "year": 2016,
+      "iso_week": 39,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 28871140,
+      "total_usd": 87242834,
+      "multiplier": 3.021800801769518
+    },
+    {
+      "film_id": 5791,
+      "title": "Red One",
+      "year": 2024,
+      "iso_week": 46,
+      "distributor": "Amazon MGM Studios",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Fantasy",
+        "Mystery"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 32106112,
+      "total_usd": 97000759,
+      "multiplier": 3.0212552363861436
+    },
+    {
+      "film_id": 4678,
+      "title": "Pearl",
+      "year": 2022,
+      "iso_week": 37,
+      "distributor": "A24",
+      "tier": "indie",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 3128427,
+      "total_usd": 9423445,
+      "multiplier": 3.012199101976808
+    },
+    {
+      "film_id": 5606,
+      "title": "Deadpool & Wolverine",
+      "year": 2024,
+      "iso_week": 30,
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "mpaa": "R",
+      "opening_usd": 211435291,
+      "total_usd": 636745858,
+      "multiplier": 3.0115401028298536
+    },
+    {
+      "film_id": 3225,
+      "title": "John Wick: Chapter 3 - Parabellum",
+      "year": 2019,
+      "iso_week": 20,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 56818067,
+      "total_usd": 171015687,
+      "multiplier": 3.0098821735698964
+    },
+    {
+      "film_id": 3018,
+      "title": "Alita: Battle Angel",
+      "year": 2019,
+      "iso_week": 7,
+      "distributor": "20th Century Fox",
+      "tier": "industry",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 28525613,
+      "total_usd": 85838210,
+      "multiplier": 3.0091626777661187
+    },
+    {
+      "film_id": 6265,
+      "title": "The Long Walk",
+      "year": 2025,
+      "iso_week": 37,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "opening_usd": 11703621,
+      "total_usd": 35163573,
+      "multiplier": 3.004503734357085
+    },
+    {
+      "film_id": 1060,
+      "title": "Me Before You",
+      "year": 2016,
+      "iso_week": 22,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "mpaa": "PG-13",
+      "opening_usd": 18723269,
+      "total_usd": 56245075,
+      "multiplier": 3.0040200244946544
+    }
+  ]
+}

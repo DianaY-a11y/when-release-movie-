@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+:root {
+  --color-bg: #fafaf7;
+  --color-paper: #ffffff;
+  --color-ink: #111111;
+  --color-muted: #6b6b66;
+  --color-line: #d9d8d2;
+  --color-soft: #f1f0ea;
+  --color-accent: #b73a2b;
+}
+
+@theme inline {
+  --color-background: var(--color-bg);
+  --color-foreground: var(--color-ink);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+html,
+body {
+  background: var(--color-bg);
+  color: var(--color-ink);
+}
+
+body {
+  font-family: var(--font-geist-sans), Georgia, "Times New Roman", serif;
+  font-feature-settings: "ss01", "ss02";
+}
+
+/* Editorial type scale */
+h1, h2, h3 {
+  letter-spacing: -0.01em;
+}
+
+.font-mono, code {
+  font-family: var(--font-geist-mono), "SFMono-Regular", ui-monospace, monospace;
+}
+
+/* Subtle range slider so it reads with the editorial palette */
+input[type="range"] {
+  accent-color: var(--color-ink);
+}

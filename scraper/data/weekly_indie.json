@@ -1,0 +1,3178 @@
+{
+  "tier": "indie",
+  "excluded_years": [
+    2020,
+    2021
+  ],
+  "min_opener_gross_usd": 50000,
+  "weeks": [
+    {
+      "iso_week": 1,
+      "label": "Week 1",
+      "n_years": 2,
+      "median_opener_gross_usd": 480767,
+      "mean_opener_gross_usd": 480767,
+      "stdev_opener_gross_usd": 379814,
+      "cv": 0.7900179348738917,
+      "opening_norm": 0.1129030645263875,
+      "rank_pct": 0.38461538461538464,
+      "holiday": "New Year's",
+      "meaningful_openers_count": 7,
+      "top_films": [
+        {
+          "title": "Wild",
+          "year": 2015,
+          "gross_usd": 4564093,
+          "film_id": 11
+        },
+        {
+          "title": "The Theory of Everything",
+          "year": 2015,
+          "gross_usd": 1106331,
+          "film_id": 17
+        },
+        {
+          "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+          "year": 2015,
+          "gross_usd": 860582,
+          "film_id": 21
+        },
+        {
+          "title": "A Most Violent Year",
+          "year": 2015,
+          "gross_usd": 172788,
+          "film_id": 34
+        },
+        {
+          "title": "20th Century Women",
+          "year": 2017,
+          "gross_usd": 130467,
+          "film_id": 1490
+        },
+        {
+          "title": "The Boxtrolls",
+          "year": 2015,
+          "gross_usd": 83867,
+          "film_id": 39
+        },
+        {
+          "title": "Paterson",
+          "year": 2017,
+          "gross_usd": 71438,
+          "film_id": 1492
+        }
+      ]
+    },
+    {
+      "iso_week": 2,
+      "label": "Week 2",
+      "n_years": 3,
+      "median_opener_gross_usd": 171840,
+      "mean_opener_gross_usd": 4327416,
+      "stdev_opener_gross_usd": 5949574,
+      "cv": 1.3748560850776483,
+      "opening_norm": 0.011621883722805829,
+      "rank_pct": 0.1346153846153846,
+      "holiday": null,
+      "meaningful_openers_count": 3,
+      "top_films": [
+        {
+          "title": "The Forest",
+          "year": 2016,
+          "gross_usd": 12741176,
+          "film_id": 780
+        },
+        {
+          "title": "Hard Truths",
+          "year": 2025,
+          "gross_usd": 171840,
+          "film_id": 5888
+        },
+        {
+          "title": "Saint Omer",
+          "year": 2023,
+          "gross_usd": 69232,
+          "film_id": 4831
+        }
+      ]
+    },
+    {
+      "iso_week": 3,
+      "label": "Week 3",
+      "n_years": 3,
+      "median_opener_gross_usd": 1945409,
+      "mean_opener_gross_usd": 2108144,
+      "stdev_opener_gross_usd": 1682752,
+      "cv": 0.7982152850180322,
+      "opening_norm": 0.5930829317741757,
+      "rank_pct": 0.8846153846153846,
+      "holiday": null,
+      "meaningful_openers_count": 4,
+      "top_films": [
+        {
+          "title": "Forever My Girl",
+          "year": 2018,
+          "gross_usd": 4245630,
+          "film_id": 2212
+        },
+        {
+          "title": "I.S.S.",
+          "year": 2024,
+          "gross_usd": 3064583,
+          "film_id": 5317
+        },
+        {
+          "title": "Origin",
+          "year": 2024,
+          "gross_usd": 826235,
+          "film_id": 5275
+        },
+        {
+          "title": "When You Finish Saving the World",
+          "year": 2023,
+          "gross_usd": 133393,
+          "film_id": 4835
+        }
+      ]
+    },
+    {
+      "iso_week": 4,
+      "label": "Week 4",
+      "n_years": 4,
+      "median_opener_gross_usd": 567625,
+      "mean_opener_gross_usd": 1143033,
+      "stdev_opener_gross_usd": 1309466,
+      "cv": 1.1456065287189792,
+      "opening_norm": 0.14137936800085502,
+      "rank_pct": 0.4423076923076923,
+      "holiday": null,
+      "meaningful_openers_count": 6,
+      "top_films": [
+        {
+          "title": "Presence",
+          "year": 2025,
+          "gross_usd": 3328004,
+          "film_id": 5907
+        },
+        {
+          "title": "Infinity Pool",
+          "year": 2023,
+          "gross_usd": 2514364,
+          "film_id": 4843
+        },
+        {
+          "title": "Everything Everywhere All at Once",
+          "year": 2023,
+          "gross_usd": 987778,
+          "film_id": 4461
+        },
+        {
+          "title": "H Is for Hawk",
+          "year": 2026,
+          "gross_usd": 147473,
+          "film_id": 6474
+        },
+        {
+          "title": "BlacKkKlansman",
+          "year": 2019,
+          "gross_usd": 108880,
+          "film_id": 2624
+        },
+        {
+          "title": "Close",
+          "year": 2023,
+          "gross_usd": 61376,
+          "film_id": 4848
+        }
+      ]
+    },
+    {
+      "iso_week": 5,
+      "label": "Week 5",
+      "n_years": 4,
+      "median_opener_gross_usd": 175394,
+      "mean_opener_gross_usd": 207406,
+      "stdev_opener_gross_usd": 139578,
+      "cv": 0.6729687653396579,
+      "opening_norm": 0.012787055511878916,
+      "rank_pct": 0.15384615384615385,
+      "holiday": null,
+      "meaningful_openers_count": 4,
+      "top_films": [
+        {
+          "title": "The Moment",
+          "year": 2026,
+          "gross_usd": 427960,
+          "film_id": 6485
+        },
+        {
+          "title": "Love Me",
+          "year": 2025,
+          "gross_usd": 212364,
+          "film_id": 5919
+        },
+        {
+          "title": "The Worst Person in the World",
+          "year": 2022,
+          "gross_usd": 138424,
+          "film_id": 4405
+        },
+        {
+          "title": "Arctic2019 Re-release",
+          "year": 2019,
+          "gross_usd": 50878,
+          "film_id": 2998
+        }
+      ]
+    },
+    {
+      "iso_week": 6,
+      "label": "Week 6",
+      "n_years": 4,
+      "median_opener_gross_usd": 156488,
+      "mean_opener_gross_usd": 339827,
+      "stdev_opener_gross_usd": 376187,
+      "cv": 1.1069968136181463,
+      "opening_norm": 0.006588761239449032,
+      "rank_pct": 0.038461538461538464,
+      "holiday": null,
+      "meaningful_openers_count": 8,
+      "top_films": [
+        {
+          "title": "Stray Kids: The Dominate Experience",
+          "year": 2026,
+          "gross_usd": 5710133,
+          "film_id": 6492
+        },
+        {
+          "title": "Lisa Frankenstein",
+          "year": 2024,
+          "gross_usd": 3695785,
+          "film_id": 5342
+        },
+        {
+          "title": "Out of Darkness",
+          "year": 2024,
+          "gross_usd": 979822,
+          "film_id": 5343
+        },
+        {
+          "title": "Pillion",
+          "year": 2026,
+          "gross_usd": 241769,
+          "film_id": 6498
+        },
+        {
+          "title": "Sirat2026 Re-release",
+          "year": 2026,
+          "gross_usd": 137997,
+          "film_id": 6502
+        },
+        {
+          "title": "Perfect Days",
+          "year": 2024,
+          "gross_usd": 100924,
+          "film_id": 5347
+        },
+        {
+          "title": "Everybody Knows",
+          "year": 2019,
+          "gross_usd": 71207,
+          "film_id": 3011
+        },
+        {
+          "title": "A United Kingdom",
+          "year": 2017,
+          "gross_usd": 66510,
+          "film_id": 1561
+        }
+      ]
+    },
+    {
+      "iso_week": 7,
+      "label": "Week 7",
+      "n_years": 2,
+      "median_opener_gross_usd": 733847,
+      "mean_opener_gross_usd": 733847,
+      "stdev_opener_gross_usd": 522041,
+      "cv": 0.7113760011446519,
+      "opening_norm": 0.19587491811996222,
+      "rank_pct": 0.5576923076923077,
+      "holiday": "Valentine's Day",
+      "meaningful_openers_count": 3,
+      "top_films": [
+        {
+          "title": "Nirvanna: The Band - The Show - The Movie",
+          "year": 2026,
+          "gross_usd": 1255889,
+          "film_id": 6510
+        },
+        {
+          "title": "Of an Age",
+          "year": 2023,
+          "gross_usd": 367280,
+          "film_id": 4874
+        },
+        {
+          "title": "Fire of Love",
+          "year": 2023,
+          "gross_usd": 56332,
+          "film_id": 4597
+        }
+      ]
+    },
+    {
+      "iso_week": 8,
+      "label": "Week 8",
+      "n_years": 7,
+      "median_opener_gross_usd": 2161480,
+      "mean_opener_gross_usd": 3990136,
+      "stdev_opener_gross_usd": 4806179,
+      "cv": 1.2045150005821916,
+      "opening_norm": 0.6639213768042295,
+      "rank_pct": 0.9038461538461539,
+      "holiday": "Presidents Day",
+      "meaningful_openers_count": 12,
+      "top_films": [
+        {
+          "title": "The Monkey",
+          "year": 2025,
+          "gross_usd": 14014649,
+          "film_id": 5945
+        },
+        {
+          "title": "The Witch",
+          "year": 2016,
+          "gross_usd": 8800230,
+          "film_id": 854
+        },
+        {
+          "title": "Race",
+          "year": 2016,
+          "gross_usd": 7353922,
+          "film_id": 855
+        },
+        {
+          "title": "How to Make a Killing",
+          "year": 2026,
+          "gross_usd": 3488298,
+          "film_id": 6518
+        },
+        {
+          "title": "EPiC: Elvis Presley in Concert",
+          "year": 2026,
+          "gross_usd": 3215438,
+          "film_id": 6519
+        },
+        {
+          "title": "Drive-Away Dolls",
+          "year": 2024,
+          "gross_usd": 2404330,
+          "film_id": 5365
+        },
+        {
+          "title": "Run the Race",
+          "year": 2019,
+          "gross_usd": 2161480,
+          "film_id": 3036
+        },
+        {
+          "title": "2026 Oscar Nominated Short Films",
+          "year": 2026,
+          "gross_usd": 994913,
+          "film_id": 6521
+        },
+        {
+          "title": "2026 Oscar Nominated Short Films: Animation",
+          "year": 2026,
+          "gross_usd": 994913,
+          "film_id": 6522
+        },
+        {
+          "title": "Midwinter Break",
+          "year": 2026,
+          "gross_usd": 506765,
+          "film_id": 6523
+        }
+      ]
+    },
+    {
+      "iso_week": 9,
+      "label": "Week 9",
+      "n_years": 5,
+      "median_opener_gross_usd": 1597928,
+      "mean_opener_gross_usd": 1554674,
+      "stdev_opener_gross_usd": 1566239,
+      "cv": 1.0074386721339612,
+      "opening_norm": 0.4791619811723451,
+      "rank_pct": 0.8269230769230769,
+      "holiday": null,
+      "meaningful_openers_count": 8,
+      "top_films": [
+        {
+          "title": "Last Breath",
+          "year": 2025,
+          "gross_usd": 7851190,
+          "film_id": 5952
+        },
+        {
+          "title": "Greta",
+          "year": 2019,
+          "gross_usd": 4481910,
+          "film_id": 3043
+        },
+        {
+          "title": "Apollo 11",
+          "year": 2019,
+          "gross_usd": 1607040,
+          "film_id": 3044
+        },
+        {
+          "title": "Table 19",
+          "year": 2017,
+          "gross_usd": 1597928,
+          "film_id": 1586
+        },
+        {
+          "title": "Riff Raff",
+          "year": 2025,
+          "gross_usd": 911053,
+          "film_id": 5953
+        },
+        {
+          "title": "Problemista",
+          "year": 2024,
+          "gross_usd": 131521,
+          "film_id": 5382
+        },
+        {
+          "title": "Climax",
+          "year": 2019,
+          "gross_usd": 119423,
+          "film_id": 3048
+        },
+        {
+          "title": "'71",
+          "year": 2015,
+          "gross_usd": 55761,
+          "film_id": 183
+        }
+      ]
+    },
+    {
+      "iso_week": 10,
+      "label": "Week 10",
+      "n_years": 6,
+      "median_opener_gross_usd": 3186585,
+      "mean_opener_gross_usd": 6139765,
+      "stdev_opener_gross_usd": 7559844,
+      "cv": 1.2312921303981768,
+      "opening_norm": 1.0,
+      "rank_pct": 0.9807692307692307,
+      "holiday": null,
+      "meaningful_openers_count": 7,
+      "top_films": [
+        {
+          "title": "London Has Fallen",
+          "year": 2016,
+          "gross_usd": 21635601,
+          "film_id": 871
+        },
+        {
+          "title": "The Second Best Exotic Marigold Hotel",
+          "year": 2015,
+          "gross_usd": 8540370,
+          "film_id": 195
+        },
+        {
+          "title": "Champions",
+          "year": 2023,
+          "gross_usd": 5148740,
+          "film_id": 4906
+        },
+        {
+          "title": "Thoroughbreds",
+          "year": 2018,
+          "gross_usd": 1224430,
+          "film_id": 2311
+        },
+        {
+          "title": "Love Lies Bleeding",
+          "year": 2024,
+          "gross_usd": 150765,
+          "film_id": 5389
+        },
+        {
+          "title": "Gloria Bell",
+          "year": 2019,
+          "gross_usd": 145218,
+          "film_id": 3071
+        },
+        {
+          "title": "Accidental Texan",
+          "year": 2024,
+          "gross_usd": 137699,
+          "film_id": 5390
+        }
+      ]
+    },
+    {
+      "iso_week": 11,
+      "label": "Week 11",
+      "n_years": 8,
+      "median_opener_gross_usd": 1504308,
+      "mean_opener_gross_usd": 2797354,
+      "stdev_opener_gross_usd": 2999748,
+      "cv": 1.0723519237493673,
+      "opening_norm": 0.4484690973754456,
+      "rank_pct": 0.7884615384615384,
+      "holiday": "Spring Break (early)",
+      "meaningful_openers_count": 19,
+      "top_films": [
+        {
+          "title": "I Can Only Imagine",
+          "year": 2018,
+          "gross_usd": 17108914,
+          "film_id": 2324
+        },
+        {
+          "title": "Undertone",
+          "year": 2026,
+          "gross_usd": 9069849,
+          "film_id": 6549
+        },
+        {
+          "title": "Black Bag",
+          "year": 2025,
+          "gross_usd": 7607250,
+          "film_id": 5977
+        },
+        {
+          "title": "X",
+          "year": 2022,
+          "gross_usd": 4275126,
+          "film_id": 4447
+        },
+        {
+          "title": "The Young Messiah",
+          "year": 2016,
+          "gross_usd": 3294876,
+          "film_id": 889
+        },
+        {
+          "title": "Captive State",
+          "year": 2019,
+          "gross_usd": 3131525,
+          "film_id": 3079
+        },
+        {
+          "title": "One Life",
+          "year": 2024,
+          "gross_usd": 1713505,
+          "film_id": 5395
+        },
+        {
+          "title": "7 Days in Entebbe",
+          "year": 2018,
+          "gross_usd": 1592645,
+          "film_id": 2326
+        },
+        {
+          "title": "The Outfit",
+          "year": 2022,
+          "gross_usd": 1499730,
+          "film_id": 4448
+        },
+        {
+          "title": "The American Society of Magical Negroes",
+          "year": 2024,
+          "gross_usd": 1304270,
+          "film_id": 5396
+        }
+      ]
+    },
+    {
+      "iso_week": 12,
+      "label": "Week 12",
+      "n_years": 8,
+      "median_opener_gross_usd": 483169,
+      "mean_opener_gross_usd": 1726306,
+      "stdev_opener_gross_usd": 2049527,
+      "cv": 1.1872328148460471,
+      "opening_norm": 0.11369063738240912,
+      "rank_pct": 0.40384615384615385,
+      "holiday": "Spring Break (peak)",
+      "meaningful_openers_count": 11,
+      "top_films": [
+        {
+          "title": "Ready or Not 2: Here I Come",
+          "year": 2026,
+          "gross_usd": 9075271,
+          "film_id": 6556
+        },
+        {
+          "title": "Immaculate",
+          "year": 2024,
+          "gross_usd": 5338921,
+          "film_id": 5410
+        },
+        {
+          "title": "Unsane",
+          "year": 2018,
+          "gross_usd": 3762145,
+          "film_id": 2341
+        },
+        {
+          "title": "Isle of Dogs",
+          "year": 2018,
+          "gross_usd": 1620294,
+          "film_id": 2342
+        },
+        {
+          "title": "Infinite Storm",
+          "year": 2022,
+          "gross_usd": 758919,
+          "film_id": 4460
+        },
+        {
+          "title": "Everything Everywhere All at Once",
+          "year": 2022,
+          "gross_usd": 501305,
+          "film_id": 4461
+        },
+        {
+          "title": "Wilson",
+          "year": 2017,
+          "gross_usd": 336227,
+          "film_id": 1627
+        },
+        {
+          "title": "Tow",
+          "year": 2026,
+          "gross_usd": 127561,
+          "film_id": 6561
+        },
+        {
+          "title": "Hotel Mumbai",
+          "year": 2019,
+          "gross_usd": 88065,
+          "film_id": 3101
+        },
+        {
+          "title": "Danny Collins",
+          "year": 2015,
+          "gross_usd": 72459,
+          "film_id": 224
+        }
+      ]
+    },
+    {
+      "iso_week": 13,
+      "label": "Week 13",
+      "n_years": 8,
+      "median_opener_gross_usd": 305715,
+      "mean_opener_gross_usd": 859711,
+      "stdev_opener_gross_usd": 1067348,
+      "cv": 1.2415193956018367,
+      "opening_norm": 0.0555126985365521,
+      "rank_pct": 0.3269230769230769,
+      "holiday": "Spring Break (late)",
+      "meaningful_openers_count": 12,
+      "top_films": [
+        {
+          "title": "Death of a Unicorn",
+          "year": 2025,
+          "gross_usd": 5787425,
+          "film_id": 6002
+        },
+        {
+          "title": "The Zookeeper's Wife",
+          "year": 2017,
+          "gross_usd": 3288835,
+          "film_id": 1635
+        },
+        {
+          "title": "A Thousand and One",
+          "year": 2023,
+          "gross_usd": 1795695,
+          "film_id": 4935
+        },
+        {
+          "title": "The Beach Bum",
+          "year": 2019,
+          "gross_usd": 1763070,
+          "film_id": 3109
+        },
+        {
+          "title": "The AI Doc: Or How I Became an Apocaloptimist",
+          "year": 2026,
+          "gross_usd": 646020,
+          "film_id": 6570
+        },
+        {
+          "title": "While We're Young",
+          "year": 2015,
+          "gross_usd": 227688,
+          "film_id": 236
+        },
+        {
+          "title": "You Won't Be Alone",
+          "year": 2022,
+          "gross_usd": 124750,
+          "film_id": 4469
+        },
+        {
+          "title": "Alpha",
+          "year": 2026,
+          "gross_usd": 121466,
+          "film_id": 6575
+        },
+        {
+          "title": "The Ballad of Wallis Island",
+          "year": 2025,
+          "gross_usd": 94233,
+          "film_id": 6006
+        },
+        {
+          "title": "Enys Men",
+          "year": 2023,
+          "gross_usd": 74781,
+          "film_id": 4938
+        }
+      ]
+    },
+    {
+      "iso_week": 14,
+      "label": "Week 14",
+      "n_years": 5,
+      "median_opener_gross_usd": 283303,
+      "mean_opener_gross_usd": 2088606,
+      "stdev_opener_gross_usd": 3124751,
+      "cv": 1.4960937775006233,
+      "opening_norm": 0.04816480525501001,
+      "rank_pct": 0.3076923076923077,
+      "holiday": "Easter (variable)",
+      "meaningful_openers_count": 9,
+      "top_films": [
+        {
+          "title": "The Drama",
+          "year": 2026,
+          "gross_usd": 14380197,
+          "film_id": 6586
+        },
+        {
+          "title": "A Great Awakening",
+          "year": 2026,
+          "gross_usd": 2041328,
+          "film_id": 6587
+        },
+        {
+          "title": "Hell of a Summer",
+          "year": 2025,
+          "gross_usd": 1765814,
+          "film_id": 6016
+        },
+        {
+          "title": "Gifted",
+          "year": 2017,
+          "gross_usd": 446380,
+          "film_id": 1649
+        },
+        {
+          "title": "Colossal",
+          "year": 2017,
+          "gross_usd": 120226,
+          "film_id": 1650
+        },
+        {
+          "title": "How to Blow Up a Pipeline",
+          "year": 2023,
+          "gross_usd": 115453,
+          "film_id": 4949
+        },
+        {
+          "title": "High Life",
+          "year": 2019,
+          "gross_usd": 99341,
+          "film_id": 3131
+        },
+        {
+          "title": "Amazing Grace",
+          "year": 2019,
+          "gross_usd": 88098,
+          "film_id": 2914
+        },
+        {
+          "title": "Showing Up",
+          "year": 2023,
+          "gross_usd": 63418,
+          "film_id": 4951
+        }
+      ]
+    },
+    {
+      "iso_week": 15,
+      "label": "Week 15",
+      "n_years": 8,
+      "median_opener_gross_usd": 996801,
+      "mean_opener_gross_usd": 3182165,
+      "stdev_opener_gross_usd": 4422013,
+      "cv": 1.3896239338590308,
+      "opening_norm": 0.2820838608954053,
+      "rank_pct": 0.7307692307692307,
+      "holiday": "Easter (variable)",
+      "meaningful_openers_count": 13,
+      "top_films": [
+        {
+          "title": "Civil War",
+          "year": 2024,
+          "gross_usd": 25537368,
+          "film_id": 5448
+        },
+        {
+          "title": "Warfare",
+          "year": 2025,
+          "gross_usd": 8317989,
+          "film_id": 6026
+        },
+        {
+          "title": "Mafia Mamma",
+          "year": 2023,
+          "gross_usd": 2032202,
+          "film_id": 4957
+        },
+        {
+          "title": "Beirut",
+          "year": 2018,
+          "gross_usd": 1734497,
+          "film_id": 2394
+        },
+        {
+          "title": "Exit 8",
+          "year": 2026,
+          "gross_usd": 1435789,
+          "film_id": 6601
+        },
+        {
+          "title": "Demolition",
+          "year": 2016,
+          "gross_usd": 1100042,
+          "film_id": 953
+        },
+        {
+          "title": "Beau Is Afraid",
+          "year": 2023,
+          "gross_usd": 320396,
+          "film_id": 4960
+        },
+        {
+          "title": "Ex Machina",
+          "year": 2015,
+          "gross_usd": 237264,
+          "film_id": 260
+        },
+        {
+          "title": "Tommy's Honour",
+          "year": 2017,
+          "gross_usd": 209190,
+          "film_id": 1665
+        },
+        {
+          "title": "The Lost City of Z",
+          "year": 2017,
+          "gross_usd": 110175,
+          "film_id": 1667
+        }
+      ]
+    },
+    {
+      "iso_week": 16,
+      "label": "Week 16",
+      "n_years": 8,
+      "median_opener_gross_usd": 794939,
+      "mean_opener_gross_usd": 2148782,
+      "stdev_opener_gross_usd": 3877361,
+      "cv": 1.8044460897587717,
+      "opening_norm": 0.21590364416165003,
+      "rank_pct": 0.5961538461538461,
+      "holiday": null,
+      "meaningful_openers_count": 11,
+      "top_films": [
+        {
+          "title": "The Northman",
+          "year": 2022,
+          "gross_usd": 12290800,
+          "film_id": 4490
+        },
+        {
+          "title": "Pride & Prejudice20th Anniversary Re-Release",
+          "year": 2025,
+          "gross_usd": 2801275,
+          "film_id": 6036
+        },
+        {
+          "title": "True Story",
+          "year": 2015,
+          "gross_usd": 1950214,
+          "film_id": 277
+        },
+        {
+          "title": "Free Fire",
+          "year": 2017,
+          "gross_usd": 994431,
+          "film_id": 1683
+        },
+        {
+          "title": "The Wedding Banquet",
+          "year": 2025,
+          "gross_usd": 918598,
+          "film_id": 6037
+        },
+        {
+          "title": "Somewhere in Queens",
+          "year": 2023,
+          "gross_usd": 671280,
+          "film_id": 4972
+        },
+        {
+          "title": "Lorne",
+          "year": 2026,
+          "gross_usd": 270620,
+          "film_id": 6616
+        },
+        {
+          "title": "Mother Mary",
+          "year": 2026,
+          "gross_usd": 168063,
+          "film_id": 6618
+        },
+        {
+          "title": "Green Room",
+          "year": 2016,
+          "gross_usd": 87984,
+          "film_id": 969
+        },
+        {
+          "title": "Little Woods",
+          "year": 2019,
+          "gross_usd": 57610,
+          "film_id": 3167
+        }
+      ]
+    },
+    {
+      "iso_week": 17,
+      "label": "Week 17",
+      "n_years": 6,
+      "median_opener_gross_usd": 810126,
+      "mean_opener_gross_usd": 766980,
+      "stdev_opener_gross_usd": 529526,
+      "cv": 0.6904048006051251,
+      "opening_norm": 0.22088275368714252,
+      "rank_pct": 0.6153846153846154,
+      "holiday": null,
+      "meaningful_openers_count": 7,
+      "top_films": [
+        {
+          "title": "Boy Kills World",
+          "year": 2024,
+          "gross_usd": 1682525,
+          "film_id": 5473
+        },
+        {
+          "title": "A Hologram for the King",
+          "year": 2016,
+          "gross_usd": 1138578,
+          "film_id": 983
+        },
+        {
+          "title": "Fuze",
+          "year": 2026,
+          "gross_usd": 1004330,
+          "film_id": 6634
+        },
+        {
+          "title": "Polite Society",
+          "year": 2023,
+          "gross_usd": 817740,
+          "film_id": 4985
+        },
+        {
+          "title": "Elvis & Nixon",
+          "year": 2016,
+          "gross_usd": 466447,
+          "film_id": 984
+        },
+        {
+          "title": "Disobedience",
+          "year": 2018,
+          "gross_usd": 237393,
+          "film_id": 2428
+        },
+        {
+          "title": "Firebird",
+          "year": 2022,
+          "gross_usd": 57380,
+          "film_id": 4502
+        }
+      ]
+    },
+    {
+      "iso_week": 18,
+      "label": "Week 18",
+      "n_years": 7,
+      "median_opener_gross_usd": 698114,
+      "mean_opener_gross_usd": 2233373,
+      "stdev_opener_gross_usd": 2432712,
+      "cv": 1.0892548330001648,
+      "opening_norm": 0.18415976164139067,
+      "rank_pct": 0.5192307692307693,
+      "holiday": "Pre-Memorial Day",
+      "meaningful_openers_count": 8,
+      "top_films": [
+        {
+          "title": "Hokum",
+          "year": 2026,
+          "gross_usd": 6428305,
+          "film_id": 6648
+        },
+        {
+          "title": "Ratchet & Clank",
+          "year": 2016,
+          "gross_usd": 4869278,
+          "film_id": 997
+        },
+        {
+          "title": "Tully",
+          "year": 2018,
+          "gross_usd": 3282610,
+          "film_id": 2440
+        },
+        {
+          "title": "The Surfer",
+          "year": 2025,
+          "gross_usd": 698114,
+          "film_id": 6068
+        },
+        {
+          "title": "Far from the Madding Crowd",
+          "year": 2015,
+          "gross_usd": 164985,
+          "film_id": 308
+        },
+        {
+          "title": "I Saw the TV Glow",
+          "year": 2024,
+          "gross_usd": 119015,
+          "film_id": 5484
+        },
+        {
+          "title": "Risk",
+          "year": 2017,
+          "gross_usd": 76327,
+          "film_id": 1709
+        },
+        {
+          "title": "The Lovers",
+          "year": 2017,
+          "gross_usd": 66286,
+          "film_id": 1710
+        }
+      ]
+    },
+    {
+      "iso_week": 19,
+      "label": "Week 19",
+      "n_years": 8,
+      "median_opener_gross_usd": 671357,
+      "mean_opener_gross_usd": 970888,
+      "stdev_opener_gross_usd": 1092044,
+      "cv": 1.124788490889422,
+      "opening_norm": 0.17538753272742652,
+      "rank_pct": 0.4807692307692308,
+      "holiday": null,
+      "meaningful_openers_count": 10,
+      "top_films": [
+        {
+          "title": "Book Club: The Next Chapter",
+          "year": 2023,
+          "gross_usd": 6677580,
+          "film_id": 4998
+        },
+        {
+          "title": "Tolkien",
+          "year": 2019,
+          "gross_usd": 2200537,
+          "film_id": 3212
+        },
+        {
+          "title": "Family Camp",
+          "year": 2022,
+          "gross_usd": 1399117,
+          "film_id": 4520
+        },
+        {
+          "title": "The Wall",
+          "year": 2017,
+          "gross_usd": 897955,
+          "film_id": 1723
+        },
+        {
+          "title": "Fool's Paradise",
+          "year": 2023,
+          "gross_usd": 464259,
+          "film_id": 5002
+        },
+        {
+          "title": "Friendship",
+          "year": 2025,
+          "gross_usd": 444759,
+          "film_id": 6083
+        },
+        {
+          "title": "Maggie",
+          "year": 2015,
+          "gross_usd": 131175,
+          "film_id": 320
+        },
+        {
+          "title": "A Bigger Splash",
+          "year": 2016,
+          "gross_usd": 114419,
+          "film_id": 1011
+        },
+        {
+          "title": "The Biggest Little Farm",
+          "year": 2019,
+          "gross_usd": 110492,
+          "film_id": 3214
+        },
+        {
+          "title": "Beast",
+          "year": 2018,
+          "gross_usd": 53248,
+          "film_id": 2456
+        }
+      ]
+    },
+    {
+      "iso_week": 20,
+      "label": "Week 20",
+      "n_years": 8,
+      "median_opener_gross_usd": 278702,
+      "mean_opener_gross_usd": 3650738,
+      "stdev_opener_gross_usd": 5964583,
+      "cv": 1.6338019302198235,
+      "opening_norm": 0.04665654053479877,
+      "rank_pct": 0.25,
+      "holiday": null,
+      "meaningful_openers_count": 14,
+      "top_films": [
+        {
+          "title": "Obsession",
+          "year": 2026,
+          "gross_usd": 17196855,
+          "film_id": 6672
+        },
+        {
+          "title": "Downton Abbey: A New Era",
+          "year": 2022,
+          "gross_usd": 16000495,
+          "film_id": 4528
+        },
+        {
+          "title": "Men",
+          "year": 2022,
+          "gross_usd": 3293030,
+          "film_id": 4529
+        },
+        {
+          "title": "Back to Black",
+          "year": 2024,
+          "gross_usd": 2835720,
+          "film_id": 5503
+        },
+        {
+          "title": "Pope Francis: A Man of His Word",
+          "year": 2018,
+          "gross_usd": 507870,
+          "film_id": 2472
+        },
+        {
+          "title": "Where Hope Grows",
+          "year": 2015,
+          "gross_usd": 457287,
+          "film_id": 330
+        },
+        {
+          "title": "The Lobster2016 Re-release",
+          "year": 2016,
+          "gross_usd": 190252,
+          "film_id": 1021
+        },
+        {
+          "title": "Babes",
+          "year": 2024,
+          "gross_usd": 163130,
+          "film_id": 5505
+        },
+        {
+          "title": "Love & Friendship",
+          "year": 2016,
+          "gross_usd": 133513,
+          "film_id": 1022
+        },
+        {
+          "title": "First Reformed",
+          "year": 2018,
+          "gross_usd": 97562,
+          "film_id": 2475
+        }
+      ]
+    },
+    {
+      "iso_week": 21,
+      "label": "Week 21",
+      "n_years": 3,
+      "median_opener_gross_usd": 1396448,
+      "mean_opener_gross_usd": 1748879,
+      "stdev_opener_gross_usd": 1537457,
+      "cv": 0.8791099120483976,
+      "opening_norm": 0.4131071662982748,
+      "rank_pct": 0.7692307692307693,
+      "holiday": "Memorial Day",
+      "meaningful_openers_count": 3,
+      "top_films": [
+        {
+          "title": "I Love Boosters",
+          "year": 2026,
+          "gross_usd": 3783187,
+          "film_id": 6688
+        },
+        {
+          "title": "You Hurt My Feelings",
+          "year": 2023,
+          "gross_usd": 1396448,
+          "film_id": 5019
+        },
+        {
+          "title": "Slow West",
+          "year": 2015,
+          "gross_usd": 67003,
+          "film_id": 350
+        }
+      ]
+    },
+    {
+      "iso_week": 22,
+      "label": "Week 22",
+      "n_years": 4,
+      "median_opener_gross_usd": 874553,
+      "mean_opener_gross_usd": 1464738,
+      "stdev_opener_gross_usd": 1432283,
+      "cv": 0.9778423372190673,
+      "opening_norm": 0.2420049347680836,
+      "rank_pct": 0.6923076923076923,
+      "holiday": null,
+      "meaningful_openers_count": 7,
+      "top_films": [
+        {
+          "title": "Bring Her Back",
+          "year": 2025,
+          "gross_usd": 7194666,
+          "film_id": 6106
+        },
+        {
+          "title": "Ezra",
+          "year": 2024,
+          "gross_usd": 1242678,
+          "film_id": 5514
+        },
+        {
+          "title": "Crimes of the Future",
+          "year": 2022,
+          "gross_usd": 1117962,
+          "film_id": 4548
+        },
+        {
+          "title": "Summer Camp",
+          "year": 2024,
+          "gross_usd": 1086602,
+          "film_id": 5515
+        },
+        {
+          "title": "The Phoenician Scheme",
+          "year": 2025,
+          "gross_usd": 560499,
+          "film_id": 6109
+        },
+        {
+          "title": "Past Lives",
+          "year": 2023,
+          "gross_usd": 232266,
+          "film_id": 5026
+        },
+        {
+          "title": "Benediction",
+          "year": 2022,
+          "gross_usd": 50970,
+          "film_id": 4551
+        }
+      ]
+    },
+    {
+      "iso_week": 23,
+      "label": "Week 23",
+      "n_years": 5,
+      "median_opener_gross_usd": 2390404,
+      "mean_opener_gross_usd": 4456603,
+      "stdev_opener_gross_usd": 4686428,
+      "cv": 1.0515697411036968,
+      "opening_norm": 0.7389736521676982,
+      "rank_pct": 0.9230769230769231,
+      "holiday": null,
+      "meaningful_openers_count": 10,
+      "top_films": [
+        {
+          "title": "Insidious: Chapter 3",
+          "year": 2015,
+          "gross_usd": 22692741,
+          "film_id": 367
+        },
+        {
+          "title": "Hereditary",
+          "year": 2018,
+          "gross_usd": 13575172,
+          "film_id": 2507
+        },
+        {
+          "title": "It Comes at Night",
+          "year": 2017,
+          "gross_usd": 5988370,
+          "film_id": 1770
+        },
+        {
+          "title": "Megan Leavey",
+          "year": 2017,
+          "gross_usd": 3810867,
+          "film_id": 1771
+        },
+        {
+          "title": "Love & Mercy",
+          "year": 2015,
+          "gross_usd": 2122177,
+          "film_id": 369
+        },
+        {
+          "title": "My Cousin Rachel",
+          "year": 2017,
+          "gross_usd": 969941,
+          "film_id": 1772
+        },
+        {
+          "title": "Won't You Be My Neighbor?",
+          "year": 2018,
+          "gross_usd": 475419,
+          "film_id": 2509
+        },
+        {
+          "title": "The Last Black Man in San Francisco",
+          "year": 2019,
+          "gross_usd": 235272,
+          "film_id": 3272
+        },
+        {
+          "title": "The Life of Chuck",
+          "year": 2025,
+          "gross_usd": 224585,
+          "film_id": 6119
+        },
+        {
+          "title": "Beatriz at Dinner",
+          "year": 2017,
+          "gross_usd": 141959,
+          "film_id": 1773
+        }
+      ]
+    },
+    {
+      "iso_week": 24,
+      "label": "Week 24",
+      "n_years": 8,
+      "median_opener_gross_usd": 552049,
+      "mean_opener_gross_usd": 1290040,
+      "stdev_opener_gross_usd": 1831123,
+      "cv": 1.419430514956624,
+      "opening_norm": 0.1362728895276825,
+      "rank_pct": 0.4230769230769231,
+      "holiday": null,
+      "meaningful_openers_count": 11,
+      "top_films": [
+        {
+          "title": "Materialists",
+          "year": 2025,
+          "gross_usd": 11338642,
+          "film_id": 6126
+        },
+        {
+          "title": "The Dead Don't Die",
+          "year": 2019,
+          "gross_usd": 2540240,
+          "film_id": 3284
+        },
+        {
+          "title": "The Book of Henry",
+          "year": 2017,
+          "gross_usd": 1424540,
+          "film_id": 1783
+        },
+        {
+          "title": "Asteroid City",
+          "year": 2023,
+          "gross_usd": 853382,
+          "film_id": 5039
+        },
+        {
+          "title": "The Unholy Trinity",
+          "year": 2025,
+          "gross_usd": 571962,
+          "film_id": 6127
+        },
+        {
+          "title": "Treasure",
+          "year": 2024,
+          "gross_usd": 268062,
+          "film_id": 5536
+        },
+        {
+          "title": "Firebrand",
+          "year": 2024,
+          "gross_usd": 233373,
+          "film_id": 5537
+        },
+        {
+          "title": "Brian and Charles",
+          "year": 2022,
+          "gross_usd": 216220,
+          "film_id": 4568
+        },
+        {
+          "title": "Me and Earl and the Dying Girl",
+          "year": 2015,
+          "gross_usd": 196496,
+          "film_id": 381
+        },
+        {
+          "title": "American Woman",
+          "year": 2019,
+          "gross_usd": 110552,
+          "film_id": 3285
+        }
+      ]
+    },
+    {
+      "iso_week": 25,
+      "label": "Week 25",
+      "n_years": 6,
+      "median_opener_gross_usd": 159302,
+      "mean_opener_gross_usd": 1004268,
+      "stdev_opener_gross_usd": 1811864,
+      "cv": 1.804163437807753,
+      "opening_norm": 0.007511407471131344,
+      "rank_pct": 0.07692307692307693,
+      "holiday": null,
+      "meaningful_openers_count": 8,
+      "top_films": [
+        {
+          "title": "The Bikeriders",
+          "year": 2024,
+          "gross_usd": 9698275,
+          "film_id": 5545
+        },
+        {
+          "title": "Brokeback Mountain20th anniversary",
+          "year": 2025,
+          "gross_usd": 558870,
+          "film_id": 6134
+        },
+        {
+          "title": "Kinds of Kindness",
+          "year": 2024,
+          "gross_usd": 377289,
+          "film_id": 5549
+        },
+        {
+          "title": "The Beguiled",
+          "year": 2017,
+          "gross_usd": 229292,
+          "film_id": 1798
+        },
+        {
+          "title": "Marcel the Shell with Shoes On",
+          "year": 2022,
+          "gross_usd": 159403,
+          "film_id": 4578
+        },
+        {
+          "title": "The Bad Batch",
+          "year": 2017,
+          "gross_usd": 89111,
+          "film_id": 1799
+        },
+        {
+          "title": "The Last Rider",
+          "year": 2023,
+          "gross_usd": 57415,
+          "film_id": 5042
+        },
+        {
+          "title": "Wild Rose",
+          "year": 2019,
+          "gross_usd": 52938,
+          "film_id": 3301
+        }
+      ]
+    },
+    {
+      "iso_week": 26,
+      "label": "Week 26",
+      "n_years": 5,
+      "median_opener_gross_usd": 150030,
+      "mean_opener_gross_usd": 202081,
+      "stdev_opener_gross_usd": 140647,
+      "cv": 0.6959966057726148,
+      "opening_norm": 0.004471518860767545,
+      "rank_pct": 0.019230769230769232,
+      "holiday": "Pre-July 4th",
+      "meaningful_openers_count": 7,
+      "top_films": [
+        {
+          "title": "Mr. Malcolm's List",
+          "year": 2022,
+          "gross_usd": 810742,
+          "film_id": 4588
+        },
+        {
+          "title": "Leave No Trace",
+          "year": 2018,
+          "gross_usd": 219140,
+          "film_id": 2549
+        },
+        {
+          "title": "Three Identical Strangers",
+          "year": 2018,
+          "gross_usd": 171503,
+          "film_id": 2550
+        },
+        {
+          "title": "Every Body",
+          "year": 2023,
+          "gross_usd": 150030,
+          "film_id": 5053
+        },
+        {
+          "title": "The Forgiven",
+          "year": 2022,
+          "gross_usd": 135476,
+          "film_id": 4589
+        },
+        {
+          "title": "Swiss Army Man",
+          "year": 2016,
+          "gross_usd": 105453,
+          "film_id": 1106
+        },
+        {
+          "title": "Sorry, Baby",
+          "year": 2025,
+          "gross_usd": 86492,
+          "film_id": 6146
+        }
+      ]
+    },
+    {
+      "iso_week": 27,
+      "label": "Week 27",
+      "n_years": 6,
+      "median_opener_gross_usd": 1125135,
+      "mean_opener_gross_usd": 2116633,
+      "stdev_opener_gross_usd": 2290544,
+      "cv": 1.0821639691374916,
+      "opening_norm": 0.32415774209771575,
+      "rank_pct": 0.75,
+      "holiday": "July 4th",
+      "meaningful_openers_count": 7,
+      "top_films": [
+        {
+          "title": "MaXXXine",
+          "year": 2024,
+          "gross_usd": 6705038,
+          "film_id": 5573
+        },
+        {
+          "title": "Midsommar",
+          "year": 2019,
+          "gross_usd": 6560030,
+          "film_id": 3320
+        },
+        {
+          "title": "Whitney",
+          "year": 2018,
+          "gross_usd": 1265572,
+          "film_id": 2561
+        },
+        {
+          "title": "Our Kind of Traitor",
+          "year": 2016,
+          "gross_usd": 984698,
+          "film_id": 1119
+        },
+        {
+          "title": "Kill",
+          "year": 2024,
+          "gross_usd": 420902,
+          "film_id": 5575
+        },
+        {
+          "title": "Amy",
+          "year": 2015,
+          "gross_usd": 222500,
+          "film_id": 421
+        },
+        {
+          "title": "A Ghost Story",
+          "year": 2017,
+          "gross_usd": 104030,
+          "film_id": 1821
+        }
+      ]
+    },
+    {
+      "iso_week": 28,
+      "label": "Week 28",
+      "n_years": 8,
+      "median_opener_gross_usd": 282508,
+      "mean_opener_gross_usd": 1095189,
+      "stdev_opener_gross_usd": 1726423,
+      "cv": 1.5763697812034474,
+      "opening_norm": 0.04790433001966432,
+      "rank_pct": 0.28846153846153844,
+      "holiday": null,
+      "meaningful_openers_count": 11,
+      "top_films": [
+        {
+          "title": "Longlegs",
+          "year": 2024,
+          "gross_usd": 22400119,
+          "film_id": 5581
+        },
+        {
+          "title": "Self/less",
+          "year": 2015,
+          "gross_usd": 5403460,
+          "film_id": 428
+        },
+        {
+          "title": "Mrs. Harris Goes to Paris",
+          "year": 2022,
+          "gross_usd": 1953070,
+          "film_id": 4603
+        },
+        {
+          "title": "Touch",
+          "year": 2024,
+          "gross_usd": 446590,
+          "film_id": 5585
+        },
+        {
+          "title": "The Farewell",
+          "year": 2019,
+          "gross_usd": 355662,
+          "film_id": 3330
+        },
+        {
+          "title": "Theater Camp",
+          "year": 2023,
+          "gross_usd": 301220,
+          "film_id": 5069
+        },
+        {
+          "title": "Eighth Grade",
+          "year": 2018,
+          "gross_usd": 263797,
+          "film_id": 2568
+        },
+        {
+          "title": "Sing Sing",
+          "year": 2024,
+          "gross_usd": 137119,
+          "film_id": 5586
+        },
+        {
+          "title": "The Art of Self-Defense",
+          "year": 2019,
+          "gross_usd": 114374,
+          "film_id": 3334
+        },
+        {
+          "title": "Captain Fantastic",
+          "year": 2016,
+          "gross_usd": 93824,
+          "film_id": 1130
+        }
+      ]
+    },
+    {
+      "iso_week": 29,
+      "label": "Week 29",
+      "n_years": 3,
+      "median_opener_gross_usd": 2434908,
+      "mean_opener_gross_usd": 2312841,
+      "stdev_opener_gross_usd": 1759981,
+      "cv": 0.76096086243481,
+      "opening_norm": 0.7535641995230468,
+      "rank_pct": 0.9423076923076923,
+      "holiday": null,
+      "meaningful_openers_count": 3,
+      "top_films": [
+        {
+          "title": "Eddington",
+          "year": 2025,
+          "gross_usd": 4404742,
+          "film_id": 6166
+        },
+        {
+          "title": "Mr. Holmes",
+          "year": 2015,
+          "gross_usd": 2434908,
+          "film_id": 444
+        },
+        {
+          "title": "McQueen",
+          "year": 2018,
+          "gross_usd": 98873,
+          "film_id": 2585
+        }
+      ]
+    },
+    {
+      "iso_week": 30,
+      "label": "Week 30",
+      "n_years": 5,
+      "median_opener_gross_usd": 1861118,
+      "mean_opener_gross_usd": 4769415,
+      "stdev_opener_gross_usd": 4151774,
+      "cv": 0.8704996685602422,
+      "opening_norm": 0.5654482960755939,
+      "rank_pct": 0.8461538461538461,
+      "holiday": null,
+      "meaningful_openers_count": 7,
+      "top_films": [
+        {
+          "title": "Atomic Blonde",
+          "year": 2017,
+          "gross_usd": 18286420,
+          "film_id": 1857
+        },
+        {
+          "title": "Talk to Me",
+          "year": 2023,
+          "gross_usd": 10431720,
+          "film_id": 5084
+        },
+        {
+          "title": "Absolutely Fabulous: The Movie",
+          "year": 2016,
+          "gross_usd": 1861118,
+          "film_id": 1153
+        },
+        {
+          "title": "Vengeance",
+          "year": 2022,
+          "gross_usd": 1755325,
+          "film_id": 4616
+        },
+        {
+          "title": "The Fabulous Four",
+          "year": 2024,
+          "gross_usd": 1042021,
+          "film_id": 5607
+        },
+        {
+          "title": "D\u00ecdi",
+          "year": 2024,
+          "gross_usd": 207307,
+          "film_id": 5609
+        },
+        {
+          "title": "Menashe",
+          "year": 2017,
+          "gross_usd": 62078,
+          "film_id": 1862
+        }
+      ]
+    },
+    {
+      "iso_week": 31,
+      "label": "Week 31",
+      "n_years": 7,
+      "median_opener_gross_usd": 136391,
+      "mean_opener_gross_usd": 610331,
+      "stdev_opener_gross_usd": 1144988,
+      "cv": 1.8760122143666345,
+      "opening_norm": 0.0,
+      "rank_pct": 0.0,
+      "holiday": null,
+      "meaningful_openers_count": 8,
+      "top_films": [
+        {
+          "title": "Together",
+          "year": 2025,
+          "gross_usd": 6763357,
+          "film_id": 6189
+        },
+        {
+          "title": "Bodies Bodies Bodies",
+          "year": 2022,
+          "gross_usd": 226653,
+          "film_id": 4625
+        },
+        {
+          "title": "Step",
+          "year": 2017,
+          "gross_usd": 146488,
+          "film_id": 1876
+        },
+        {
+          "title": "Dreamin' Wild",
+          "year": 2023,
+          "gross_usd": 136391,
+          "film_id": 5096
+        },
+        {
+          "title": "Luce",
+          "year": 2019,
+          "gross_usd": 132987,
+          "film_id": 3369
+        },
+        {
+          "title": "The End of the Tour",
+          "year": 2015,
+          "gross_usd": 123238,
+          "film_id": 469
+        },
+        {
+          "title": "Indignation",
+          "year": 2016,
+          "gross_usd": 93125,
+          "film_id": 1165
+        },
+        {
+          "title": "Architecton",
+          "year": 2025,
+          "gross_usd": 63513,
+          "film_id": 6191
+        }
+      ]
+    },
+    {
+      "iso_week": 32,
+      "label": "Week 32",
+      "n_years": 7,
+      "median_opener_gross_usd": 839622,
+      "mean_opener_gross_usd": 2416198,
+      "stdev_opener_gross_usd": 3556693,
+      "cv": 1.4720202768055997,
+      "opening_norm": 0.23055287630885118,
+      "rank_pct": 0.6346153846153846,
+      "holiday": "Mid-Summer (peak)",
+      "meaningful_openers_count": 10,
+      "top_films": [
+        {
+          "title": "BlacKkKlansman",
+          "year": 2018,
+          "gross_usd": 10845330,
+          "film_id": 2624
+        },
+        {
+          "title": "Cuckoo",
+          "year": 2024,
+          "gross_usd": 3030437,
+          "film_id": 5629
+        },
+        {
+          "title": "Brian Banks",
+          "year": 2019,
+          "gross_usd": 2156272,
+          "film_id": 3386
+        },
+        {
+          "title": "Jules",
+          "year": 2023,
+          "gross_usd": 839622,
+          "film_id": 5106
+        },
+        {
+          "title": "Emily the Criminal",
+          "year": 2022,
+          "gross_usd": 669161,
+          "film_id": 4633
+        },
+        {
+          "title": "Strange Harvest",
+          "year": 2025,
+          "gross_usd": 223208,
+          "film_id": 6203
+        },
+        {
+          "title": "The Peanut Butter Falcon",
+          "year": 2019,
+          "gross_usd": 204793,
+          "film_id": 3388
+        },
+        {
+          "title": "Ingrid Goes West",
+          "year": 2017,
+          "gross_usd": 135301,
+          "film_id": 1890
+        },
+        {
+          "title": "Good Time",
+          "year": 2017,
+          "gross_usd": 125101,
+          "film_id": 1891
+        },
+        {
+          "title": "The Only Living Boy in New York",
+          "year": 2017,
+          "gross_usd": 54458,
+          "film_id": 1892
+        }
+      ]
+    },
+    {
+      "iso_week": 33,
+      "label": "Week 33",
+      "n_years": 6,
+      "median_opener_gross_usd": 763410,
+      "mean_opener_gross_usd": 1124708,
+      "stdev_opener_gross_usd": 1288004,
+      "cv": 1.145189438550058,
+      "opening_norm": 0.20556708851961547,
+      "rank_pct": 0.5769230769230769,
+      "holiday": null,
+      "meaningful_openers_count": 7,
+      "top_films": [
+        {
+          "title": "Logan Lucky",
+          "year": 2017,
+          "gross_usd": 7600036,
+          "film_id": 1905
+        },
+        {
+          "title": "Anthropoid",
+          "year": 2016,
+          "gross_usd": 1233519,
+          "film_id": 1187
+        },
+        {
+          "title": "My Penguin Friend",
+          "year": 2024,
+          "gross_usd": 1033435,
+          "film_id": 5639
+        },
+        {
+          "title": "Oldboy2023 Re-release",
+          "year": 2023,
+          "gross_usd": 493386,
+          "film_id": 5117
+        },
+        {
+          "title": "Mistress America",
+          "year": 2015,
+          "gross_usd": 93206,
+          "film_id": 495
+        },
+        {
+          "title": "Patti Cake$",
+          "year": 2017,
+          "gross_usd": 67599,
+          "film_id": 1908
+        },
+        {
+          "title": "Juliet, Naked",
+          "year": 2018,
+          "gross_usd": 60886,
+          "film_id": 2642
+        }
+      ]
+    },
+    {
+      "iso_week": 34,
+      "label": "Week 34",
+      "n_years": 7,
+      "median_opener_gross_usd": 2607394,
+      "mean_opener_gross_usd": 5395164,
+      "stdev_opener_gross_usd": 4523507,
+      "cv": 0.8384372303658522,
+      "opening_norm": 0.8101135534329947,
+      "rank_pct": 0.9615384615384616,
+      "holiday": null,
+      "meaningful_openers_count": 10,
+      "top_films": [
+        {
+          "title": "Kubo and the Two Strings",
+          "year": 2016,
+          "gross_usd": 12608372,
+          "film_id": 1202
+        },
+        {
+          "title": "Sinister 2",
+          "year": 2015,
+          "gross_usd": 10542116,
+          "film_id": 506
+        },
+        {
+          "title": "Ready or Not",
+          "year": 2019,
+          "gross_usd": 8015590,
+          "film_id": 3415
+        },
+        {
+          "title": "Retribution",
+          "year": 2023,
+          "gross_usd": 3518830,
+          "film_id": 5123
+        },
+        {
+          "title": "Honey Don't!",
+          "year": 2025,
+          "gross_usd": 3025525,
+          "film_id": 6221
+        },
+        {
+          "title": "Relay",
+          "year": 2025,
+          "gross_usd": 1916687,
+          "film_id": 6222
+        },
+        {
+          "title": "Golda",
+          "year": 2023,
+          "gross_usd": 1695959,
+          "film_id": 5126
+        },
+        {
+          "title": "Papillon",
+          "year": 2018,
+          "gross_usd": 1090073,
+          "film_id": 2649
+        },
+        {
+          "title": "Breaking",
+          "year": 2022,
+          "gross_usd": 985921,
+          "film_id": 4651
+        },
+        {
+          "title": "Splitsville",
+          "year": 2025,
+          "gross_usd": 108315,
+          "film_id": 6228
+        }
+      ]
+    },
+    {
+      "iso_week": 35,
+      "label": "Week 35",
+      "n_years": 6,
+      "median_opener_gross_usd": 886911,
+      "mean_opener_gross_usd": 1894325,
+      "stdev_opener_gross_usd": 2156090,
+      "cv": 1.1381839009761798,
+      "opening_norm": 0.2460564803419061,
+      "rank_pct": 0.7115384615384616,
+      "holiday": "Labor Day",
+      "meaningful_openers_count": 9,
+      "top_films": [
+        {
+          "title": "The Roses",
+          "year": 2025,
+          "gross_usd": 6265264,
+          "film_id": 6239
+        },
+        {
+          "title": "Southside with You",
+          "year": 2016,
+          "gross_usd": 2868403,
+          "film_id": 1221
+        },
+        {
+          "title": "Honk for Jesus. Save Your Soul.",
+          "year": 2022,
+          "gross_usd": 1422615,
+          "film_id": 4659
+        },
+        {
+          "title": "City of Dreams",
+          "year": 2024,
+          "gross_usd": 1245167,
+          "film_id": 5659
+        },
+        {
+          "title": "Gigi & Nate",
+          "year": 2022,
+          "gross_usd": 990279,
+          "film_id": 4660
+        },
+        {
+          "title": "Shaun of the Dead2024 Re-release",
+          "year": 2024,
+          "gross_usd": 567375,
+          "film_id": 5661
+        },
+        {
+          "title": "Slingshot",
+          "year": 2024,
+          "gross_usd": 491796,
+          "film_id": 5662
+        },
+        {
+          "title": "The Little Stranger",
+          "year": 2018,
+          "gross_usd": 401563,
+          "film_id": 2668
+        },
+        {
+          "title": "Z for Zachariah",
+          "year": 2015,
+          "gross_usd": 56902,
+          "film_id": 522
+        }
+      ]
+    },
+    {
+      "iso_week": 36,
+      "label": "Week 36",
+      "n_years": 3,
+      "median_opener_gross_usd": 1585440,
+      "mean_opener_gross_usd": 4040289,
+      "stdev_opener_gross_usd": 4257265,
+      "cv": 1.0537031118184803,
+      "opening_norm": 0.47506781535862963,
+      "rank_pct": 0.8076923076923077,
+      "holiday": null,
+      "meaningful_openers_count": 3,
+      "top_films": [
+        {
+          "title": "My Big Fat Greek Wedding 3",
+          "year": 2023,
+          "gross_usd": 10028675,
+          "film_id": 5141
+        },
+        {
+          "title": "The Front Room",
+          "year": 2024,
+          "gross_usd": 1585440,
+          "film_id": 5673
+        },
+        {
+          "title": "Twinless",
+          "year": 2025,
+          "gross_usd": 506753,
+          "film_id": 6251
+        }
+      ]
+    },
+    {
+      "iso_week": 37,
+      "label": "Week 37",
+      "n_years": 4,
+      "median_opener_gross_usd": 859792,
+      "mean_opener_gross_usd": 2913898,
+      "stdev_opener_gross_usd": 4031532,
+      "cv": 1.3835531074706542,
+      "opening_norm": 0.2371655704522401,
+      "rank_pct": 0.6538461538461539,
+      "holiday": null,
+      "meaningful_openers_count": 7,
+      "top_films": [
+        {
+          "title": "Downton Abbey: The Grand Finale",
+          "year": 2025,
+          "gross_usd": 18107405,
+          "film_id": 6264
+        },
+        {
+          "title": "Pearl",
+          "year": 2022,
+          "gross_usd": 3128427,
+          "film_id": 4678
+        },
+        {
+          "title": "Spinal Tap II: The End Continues",
+          "year": 2025,
+          "gross_usd": 1612395,
+          "film_id": 6267
+        },
+        {
+          "title": "Moonage Daydream",
+          "year": 2022,
+          "gross_usd": 1230145,
+          "film_id": 4680
+        },
+        {
+          "title": "Camp Hideout",
+          "year": 2023,
+          "gross_usd": 489439,
+          "film_id": 5147
+        },
+        {
+          "title": "The Silent Twins",
+          "year": 2022,
+          "gross_usd": 103860,
+          "film_id": 4685
+        },
+        {
+          "title": "The Children Act",
+          "year": 2018,
+          "gross_usd": 76108,
+          "film_id": 2701
+        }
+      ]
+    },
+    {
+      "iso_week": 38,
+      "label": "Week 38",
+      "n_years": 5,
+      "median_opener_gross_usd": 605600,
+      "mean_opener_gross_usd": 6993463,
+      "stdev_opener_gross_usd": 12050078,
+      "cv": 1.723048798356353,
+      "opening_norm": 0.15382923184558098,
+      "rank_pct": 0.46153846153846156,
+      "holiday": null,
+      "meaningful_openers_count": 8,
+      "top_films": [
+        {
+          "title": "Downton Abbey",
+          "year": 2019,
+          "gross_usd": 31033665,
+          "film_id": 3468
+        },
+        {
+          "title": "It Lives Inside",
+          "year": 2023,
+          "gross_usd": 2607665,
+          "film_id": 5157
+        },
+        {
+          "title": "Stronger",
+          "year": 2017,
+          "gross_usd": 1611040,
+          "film_id": 1987
+        },
+        {
+          "title": "Assassination Nation",
+          "year": 2018,
+          "gross_usd": 1050021,
+          "film_id": 2722
+        },
+        {
+          "title": "Battle of the Sexes",
+          "year": 2017,
+          "gross_usd": 518332,
+          "film_id": 1988
+        },
+        {
+          "title": "Pawn Sacrifice",
+          "year": 2015,
+          "gross_usd": 202053,
+          "film_id": 573
+        },
+        {
+          "title": "Colette",
+          "year": 2018,
+          "gross_usd": 161179,
+          "film_id": 2724
+        },
+        {
+          "title": "Victoria & Abdul",
+          "year": 2017,
+          "gross_usd": 158845,
+          "film_id": 1989
+        }
+      ]
+    },
+    {
+      "iso_week": 39,
+      "label": "Week 39",
+      "n_years": 5,
+      "median_opener_gross_usd": 713255,
+      "mean_opener_gross_usd": 934923,
+      "stdev_opener_gross_usd": 1031195,
+      "cv": 1.1029730008472247,
+      "opening_norm": 0.18912370819692126,
+      "rank_pct": 0.5384615384615384,
+      "holiday": null,
+      "meaningful_openers_count": 6,
+      "top_films": [
+        {
+          "title": "Judy",
+          "year": 2019,
+          "gross_usd": 2916548,
+          "film_id": 3484
+        },
+        {
+          "title": "The Good House",
+          "year": 2022,
+          "gross_usd": 801568,
+          "film_id": 4709
+        },
+        {
+          "title": "Lee",
+          "year": 2024,
+          "gross_usd": 713255,
+          "film_id": 5707
+        },
+        {
+          "title": "The Old Man & the Gun",
+          "year": 2018,
+          "gross_usd": 142131,
+          "film_id": 2747
+        },
+        {
+          "title": "Monsters and Men",
+          "year": 2018,
+          "gross_usd": 118697,
+          "film_id": 2750
+        },
+        {
+          "title": "Stonewall",
+          "year": 2015,
+          "gross_usd": 112834,
+          "film_id": 588
+        }
+      ]
+    },
+    {
+      "iso_week": 40,
+      "label": "Week 40",
+      "n_years": 7,
+      "median_opener_gross_usd": 157553,
+      "mean_opener_gross_usd": 234307,
+      "stdev_opener_gross_usd": 253759,
+      "cv": 1.0830179109912186,
+      "opening_norm": 0.006937919358571946,
+      "rank_pct": 0.057692307692307696,
+      "holiday": null,
+      "meaningful_openers_count": 12,
+      "top_films": [
+        {
+          "title": "The Smashing Machine",
+          "year": 2025,
+          "gross_usd": 5841662,
+          "film_id": 6304
+        },
+        {
+          "title": "Bone Lake",
+          "year": 2025,
+          "gross_usd": 831177,
+          "film_id": 6307
+        },
+        {
+          "title": "Anemone",
+          "year": 2025,
+          "gross_usd": 681655,
+          "film_id": 6310
+        },
+        {
+          "title": "The Royal Hotel",
+          "year": 2023,
+          "gross_usd": 331010,
+          "film_id": 5184
+        },
+        {
+          "title": "Triangle of Sadness",
+          "year": 2022,
+          "gross_usd": 214602,
+          "film_id": 4719
+        },
+        {
+          "title": "Dicks: The Musical",
+          "year": 2023,
+          "gross_usd": 201951,
+          "film_id": 5186
+        },
+        {
+          "title": "T\u00e1r",
+          "year": 2022,
+          "gross_usd": 158620,
+          "film_id": 4720
+        },
+        {
+          "title": "The Florida Project",
+          "year": 2017,
+          "gross_usd": 157553,
+          "film_id": 2020
+        },
+        {
+          "title": "Denial",
+          "year": 2016,
+          "gross_usd": 93728,
+          "film_id": 1308
+        },
+        {
+          "title": "American Honey",
+          "year": 2016,
+          "gross_usd": 71203,
+          "film_id": 1310
+        }
+      ]
+    },
+    {
+      "iso_week": 41,
+      "label": "Week 41",
+      "n_years": 6,
+      "median_opener_gross_usd": 255532,
+      "mean_opener_gross_usd": 1617581,
+      "stdev_opener_gross_usd": 2506986,
+      "cv": 1.5498363041349896,
+      "opening_norm": 0.039060138469880934,
+      "rank_pct": 0.23076923076923078,
+      "holiday": null,
+      "meaningful_openers_count": 7,
+      "top_films": [
+        {
+          "title": "The Birth of a Nation",
+          "year": 2016,
+          "gross_usd": 7004254,
+          "film_id": 1322
+        },
+        {
+          "title": "Piece by Piece",
+          "year": 2024,
+          "gross_usd": 3851355,
+          "film_id": 5728
+        },
+        {
+          "title": "Parasite",
+          "year": 2019,
+          "gross_usd": 393216,
+          "film_id": 3520
+        },
+        {
+          "title": "We Live in Time",
+          "year": 2024,
+          "gross_usd": 232615,
+          "film_id": 5733
+        },
+        {
+          "title": "Anatomy of a Fall",
+          "year": 2023,
+          "gross_usd": 117848,
+          "film_id": 5195
+        },
+        {
+          "title": "If I Had Legs I'd Kick You",
+          "year": 2025,
+          "gross_usd": 90267,
+          "film_id": 6322
+        },
+        {
+          "title": "Goodbye Christopher Robin",
+          "year": 2017,
+          "gross_usd": 57917,
+          "film_id": 2041
+        }
+      ]
+    },
+    {
+      "iso_week": 42,
+      "label": "Week 42",
+      "n_years": 8,
+      "median_opener_gross_usd": 166218,
+      "mean_opener_gross_usd": 247920,
+      "stdev_opener_gross_usd": 204793,
+      "cv": 0.8260458333347556,
+      "opening_norm": 0.009778804233435644,
+      "rank_pct": 0.09615384615384616,
+      "holiday": null,
+      "meaningful_openers_count": 15,
+      "top_films": [
+        {
+          "title": "Priceless",
+          "year": 2016,
+          "gross_usd": 707021,
+          "film_id": 1344
+        },
+        {
+          "title": "Anora",
+          "year": 2024,
+          "gross_usd": 550503,
+          "film_id": 5743
+        },
+        {
+          "title": "The Lighthouse",
+          "year": 2019,
+          "gross_usd": 427797,
+          "film_id": 3535
+        },
+        {
+          "title": "Jojo Rabbit",
+          "year": 2019,
+          "gross_usd": 349555,
+          "film_id": 3536
+        },
+        {
+          "title": "Rumours",
+          "year": 2024,
+          "gross_usd": 311781,
+          "film_id": 5744
+        },
+        {
+          "title": "Exhibiting Forgiveness",
+          "year": 2024,
+          "gross_usd": 276274,
+          "film_id": 5745
+        },
+        {
+          "title": "Mid90s",
+          "year": 2018,
+          "gross_usd": 258157,
+          "film_id": 2796
+        },
+        {
+          "title": "The Banshees of Inisherin",
+          "year": 2022,
+          "gross_usd": 184454,
+          "film_id": 4735
+        },
+        {
+          "title": "Can You Ever Forgive Me?",
+          "year": 2018,
+          "gross_usd": 161510,
+          "film_id": 2797
+        },
+        {
+          "title": "Room",
+          "year": 2015,
+          "gross_usd": 118298,
+          "film_id": 634
+        }
+      ]
+    },
+    {
+      "iso_week": 43,
+      "label": "Week 43",
+      "n_years": 7,
+      "median_opener_gross_usd": 171616,
+      "mean_opener_gross_usd": 825474,
+      "stdev_opener_gross_usd": 1142861,
+      "cv": 1.3844901689168563,
+      "opening_norm": 0.011548445770990304,
+      "rank_pct": 0.11538461538461539,
+      "holiday": "Pre-Halloween",
+      "meaningful_openers_count": 11,
+      "top_films": [
+        {
+          "title": "Conclave",
+          "year": 2024,
+          "gross_usd": 6601995,
+          "film_id": 5755
+        },
+        {
+          "title": "Shelby Oaks",
+          "year": 2025,
+          "gross_usd": 2346918,
+          "film_id": 6344
+        },
+        {
+          "title": "Bugonia",
+          "year": 2025,
+          "gross_usd": 709848,
+          "film_id": 6345
+        },
+        {
+          "title": "Moonlight",
+          "year": 2016,
+          "gross_usd": 402075,
+          "film_id": 1360
+        },
+        {
+          "title": "Call Jane",
+          "year": 2022,
+          "gross_usd": 244469,
+          "film_id": 4745
+        },
+        {
+          "title": "The Holdovers",
+          "year": 2023,
+          "gross_usd": 211093,
+          "film_id": 5213
+        },
+        {
+          "title": "Longlegs",
+          "year": 2024,
+          "gross_usd": 135868,
+          "film_id": 5581
+        },
+        {
+          "title": "Priscilla",
+          "year": 2023,
+          "gross_usd": 132139,
+          "film_id": 5214
+        },
+        {
+          "title": "Suffragette",
+          "year": 2015,
+          "gross_usd": 76244,
+          "film_id": 652
+        },
+        {
+          "title": "Border",
+          "year": 2018,
+          "gross_usd": 73700,
+          "film_id": 2821
+        }
+      ]
+    },
+    {
+      "iso_week": 44,
+      "label": "Week 44",
+      "n_years": 6,
+      "median_opener_gross_usd": 312564,
+      "mean_opener_gross_usd": 2363913,
+      "stdev_opener_gross_usd": 4191381,
+      "cv": 1.7730688057541046,
+      "opening_norm": 0.05775796555891199,
+      "rank_pct": 0.34615384615384615,
+      "holiday": "Halloween",
+      "meaningful_openers_count": 7,
+      "top_films": [
+        {
+          "title": "Harriet",
+          "year": 2019,
+          "gross_usd": 11676720,
+          "film_id": 3566
+        },
+        {
+          "title": "What Happens Later",
+          "year": 2023,
+          "gross_usd": 1522750,
+          "film_id": 5220
+        },
+        {
+          "title": "Lady Bird",
+          "year": 2017,
+          "gross_usd": 364437,
+          "film_id": 2093
+        },
+        {
+          "title": "Anniversary",
+          "year": 2025,
+          "gross_usd": 260691,
+          "film_id": 6359
+        },
+        {
+          "title": "A Real Pain",
+          "year": 2024,
+          "gross_usd": 228856,
+          "film_id": 5771
+        },
+        {
+          "title": "Boy Erased",
+          "year": 2018,
+          "gross_usd": 207057,
+          "film_id": 2840
+        },
+        {
+          "title": "Bodied",
+          "year": 2018,
+          "gross_usd": 53000,
+          "film_id": 2843
+        }
+      ]
+    },
+    {
+      "iso_week": 45,
+      "label": "Week 45",
+      "n_years": 6,
+      "median_opener_gross_usd": 210033,
+      "mean_opener_gross_usd": 1133710,
+      "stdev_opener_gross_usd": 2048610,
+      "cv": 1.806997167065164,
+      "opening_norm": 0.024143382355351822,
+      "rank_pct": 0.19230769230769232,
+      "holiday": null,
+      "meaningful_openers_count": 9,
+      "top_films": [
+        {
+          "title": "Heretic",
+          "year": 2024,
+          "gross_usd": 10829810,
+          "film_id": 5779
+        },
+        {
+          "title": "Small Things Like These",
+          "year": 2024,
+          "gross_usd": 596451,
+          "film_id": 5783
+        },
+        {
+          "title": "Miss You Already",
+          "year": 2015,
+          "gross_usd": 552506,
+          "film_id": 679
+        },
+        {
+          "title": "Three Billboards Outside Ebbing, Missouri",
+          "year": 2017,
+          "gross_usd": 322168,
+          "film_id": 2111
+        },
+        {
+          "title": "Dream Scenario",
+          "year": 2023,
+          "gross_usd": 220035,
+          "film_id": 5235
+        },
+        {
+          "title": "Sentimental Value",
+          "year": 2025,
+          "gross_usd": 200031,
+          "film_id": 6372
+        },
+        {
+          "title": "Brooklyn",
+          "year": 2015,
+          "gross_usd": 187281,
+          "film_id": 681
+        },
+        {
+          "title": "Loving",
+          "year": 2016,
+          "gross_usd": 159615,
+          "film_id": 1390
+        },
+        {
+          "title": "Trumbo",
+          "year": 2015,
+          "gross_usd": 74177,
+          "film_id": 683
+        }
+      ]
+    },
+    {
+      "iso_week": 46,
+      "label": "Week 46",
+      "n_years": 4,
+      "median_opener_gross_usd": 1906695,
+      "mean_opener_gross_usd": 2118027,
+      "stdev_opener_gross_usd": 1629189,
+      "cv": 0.7692009913101687,
+      "opening_norm": 0.5803907882580583,
+      "rank_pct": 0.8653846153846154,
+      "holiday": null,
+      "meaningful_openers_count": 7,
+      "top_films": [
+        {
+          "title": "The Menu",
+          "year": 2022,
+          "gross_usd": 9004957,
+          "film_id": 4765
+        },
+        {
+          "title": "Keeper",
+          "year": 2025,
+          "gross_usd": 2527627,
+          "film_id": 6381
+        },
+        {
+          "title": "Next Goal Wins",
+          "year": 2023,
+          "gross_usd": 2500295,
+          "film_id": 5242
+        },
+        {
+          "title": "Waves",
+          "year": 2019,
+          "gross_usd": 134333,
+          "film_id": 3596
+        },
+        {
+          "title": "The Warrior Queen of Jhansi",
+          "year": 2019,
+          "gross_usd": 112208,
+          "film_id": 3597
+        },
+        {
+          "title": "King Ivory",
+          "year": 2025,
+          "gross_usd": 98565,
+          "film_id": 6383
+        },
+        {
+          "title": "The Inspection",
+          "year": 2022,
+          "gross_usd": 65942,
+          "film_id": 4769
+        }
+      ]
+    },
+    {
+      "iso_week": 47,
+      "label": "Week 47",
+      "n_years": 5,
+      "median_opener_gross_usd": 422410,
+      "mean_opener_gross_usd": 1000360,
+      "stdev_opener_gross_usd": 1186793,
+      "cv": 1.186365379413396,
+      "opening_norm": 0.09377075687644786,
+      "rank_pct": 0.36538461538461536,
+      "holiday": "Thanksgiving",
+      "meaningful_openers_count": 7,
+      "top_films": [
+        {
+          "title": "Rental Family",
+          "year": 2025,
+          "gross_usd": 3336147,
+          "film_id": 6393
+        },
+        {
+          "title": "The Man Who Invented Christmas",
+          "year": 2017,
+          "gross_usd": 1357129,
+          "film_id": 2133
+        },
+        {
+          "title": "Nocturnal Animals",
+          "year": 2016,
+          "gross_usd": 492648,
+          "film_id": 1419
+        },
+        {
+          "title": "The Favourite",
+          "year": 2018,
+          "gross_usd": 422410,
+          "film_id": 2881
+        },
+        {
+          "title": "Manchester by the Sea",
+          "year": 2016,
+          "gross_usd": 256498,
+          "film_id": 1420
+        },
+        {
+          "title": "Darkest Hour",
+          "year": 2017,
+          "gross_usd": 175006,
+          "film_id": 2135
+        },
+        {
+          "title": "Dark Waters",
+          "year": 2019,
+          "gross_usd": 102606,
+          "film_id": 3616
+        }
+      ]
+    },
+    {
+      "iso_week": 48,
+      "label": "Week 48",
+      "n_years": 6,
+      "median_opener_gross_usd": 194134,
+      "mean_opener_gross_usd": 551256,
+      "stdev_opener_gross_usd": 702555,
+      "cv": 1.2744622620619177,
+      "opening_norm": 0.018931090940445098,
+      "rank_pct": 0.17307692307692307,
+      "holiday": "Post-Thanksgiving",
+      "meaningful_openers_count": 8,
+      "top_films": [
+        {
+          "title": "Eternity",
+          "year": 2025,
+          "gross_usd": 3175809,
+          "film_id": 6400
+        },
+        {
+          "title": "The Disaster Artist",
+          "year": 2017,
+          "gross_usd": 1211345,
+          "film_id": 2139
+        },
+        {
+          "title": "Hamnet",
+          "year": 2025,
+          "gross_usd": 932278,
+          "film_id": 6401
+        },
+        {
+          "title": "Queer",
+          "year": 2024,
+          "gross_usd": 200951,
+          "film_id": 5808
+        },
+        {
+          "title": "The Danish Girl",
+          "year": 2015,
+          "gross_usd": 187318,
+          "film_id": 724
+        },
+        {
+          "title": "The Shape of Water",
+          "year": 2017,
+          "gross_usd": 166564,
+          "film_id": 2141
+        },
+        {
+          "title": "Eileen",
+          "year": 2023,
+          "gross_usd": 93290,
+          "film_id": 5262
+        },
+        {
+          "title": "Spoiler Alert",
+          "year": 2022,
+          "gross_usd": 82983,
+          "film_id": 4785
+        }
+      ]
+    },
+    {
+      "iso_week": 49,
+      "label": "Week 49",
+      "n_years": 9,
+      "median_opener_gross_usd": 278715,
+      "mean_opener_gross_usd": 459860,
+      "stdev_opener_gross_usd": 348279,
+      "cv": 0.7573595917836167,
+      "opening_norm": 0.046660638634788476,
+      "rank_pct": 0.2692307692307692,
+      "holiday": null,
+      "meaningful_openers_count": 17,
+      "top_films": [
+        {
+          "title": "Waitress: The Musical",
+          "year": 2023,
+          "gross_usd": 2847421,
+          "film_id": 5270
+        },
+        {
+          "title": "Y2K",
+          "year": 2024,
+          "gross_usd": 2113923,
+          "film_id": 5816
+        },
+        {
+          "title": "Chi-Raq",
+          "year": 2015,
+          "gross_usd": 1198453,
+          "film_id": 729
+        },
+        {
+          "title": "Poor Things",
+          "year": 2023,
+          "gross_usd": 661230,
+          "film_id": 5272
+        },
+        {
+          "title": "Fackham Hall",
+          "year": 2025,
+          "gross_usd": 625311,
+          "film_id": 6414
+        },
+        {
+          "title": "The Return",
+          "year": 2024,
+          "gross_usd": 361505,
+          "film_id": 5821
+        },
+        {
+          "title": "The Whale",
+          "year": 2022,
+          "gross_usd": 332152,
+          "film_id": 4797
+        },
+        {
+          "title": "Jackie",
+          "year": 2016,
+          "gross_usd": 278715,
+          "film_id": 1447
+        },
+        {
+          "title": "I, Tonya",
+          "year": 2017,
+          "gross_usd": 264155,
+          "film_id": 2162
+        },
+        {
+          "title": "Mary Queen of Scots",
+          "year": 2018,
+          "gross_usd": 194777,
+          "film_id": 2910
+        }
+      ]
+    },
+    {
+      "iso_week": 50,
+      "label": "Week 50",
+      "n_years": 4,
+      "median_opener_gross_usd": 211873,
+      "mean_opener_gross_usd": 210733,
+      "stdev_opener_gross_usd": 109867,
+      "cv": 0.5213588491261094,
+      "opening_norm": 0.024746704635836277,
+      "rank_pct": 0.21153846153846154,
+      "holiday": "Pre-Christmas",
+      "meaningful_openers_count": 5,
+      "top_films": [
+        {
+          "title": "Uncut Gems",
+          "year": 2019,
+          "gross_usd": 537242,
+          "film_id": 3646
+        },
+        {
+          "title": "Dust Bunny",
+          "year": 2025,
+          "gross_usd": 341598,
+          "film_id": 6429
+        },
+        {
+          "title": "The Zone of Interest",
+          "year": 2023,
+          "gross_usd": 129934,
+          "film_id": 5285
+        },
+        {
+          "title": "The Last Showgirl",
+          "year": 2024,
+          "gross_usd": 77589,
+          "film_id": 5841
+        },
+        {
+          "title": "A Hidden Life",
+          "year": 2019,
+          "gross_usd": 50383,
+          "film_id": 3649
+        }
+      ]
+    },
+    {
+      "iso_week": 51,
+      "label": "Week 51",
+      "n_years": 3,
+      "median_opener_gross_usd": 863097,
+      "mean_opener_gross_usd": 1207685,
+      "stdev_opener_gross_usd": 941007,
+      "cv": 0.779183132463869,
+      "opening_norm": 0.23824910808951824,
+      "rank_pct": 0.6730769230769231,
+      "holiday": "Christmas",
+      "meaningful_openers_count": 4,
+      "top_films": [
+        {
+          "title": "The Iron Claw",
+          "year": 2023,
+          "gross_usd": 4868370,
+          "film_id": 5293
+        },
+        {
+          "title": "Marty Supreme",
+          "year": 2025,
+          "gross_usd": 863097,
+          "film_id": 6438
+        },
+        {
+          "title": "The Brutalist",
+          "year": 2024,
+          "gross_usd": 266791,
+          "film_id": 5849
+        },
+        {
+          "title": "All of Us Strangers",
+          "year": 2023,
+          "gross_usd": 117965,
+          "film_id": 5295
+        }
+      ]
+    },
+    {
+      "iso_week": 52,
+      "label": "Week 52",
+      "n_years": 5,
+      "median_opener_gross_usd": 686355,
+      "mean_opener_gross_usd": 1929484,
+      "stdev_opener_gross_usd": 1873807,
+      "cv": 0.971144194828182,
+      "opening_norm": 0.18030459701907486,
+      "rank_pct": 0.5,
+      "holiday": "New Year's Eve",
+      "meaningful_openers_count": 11,
+      "top_films": [
+        {
+          "title": "Nosferatu",
+          "year": 2024,
+          "gross_usd": 21652560,
+          "film_id": 5853
+        },
+        {
+          "title": "A Complete Unknown",
+          "year": 2024,
+          "gross_usd": 11655553,
+          "film_id": 5854
+        },
+        {
+          "title": "Song Sung Blue",
+          "year": 2025,
+          "gross_usd": 7073630,
+          "film_id": 6442
+        },
+        {
+          "title": "Babygirl",
+          "year": 2024,
+          "gross_usd": 4490145,
+          "film_id": 5855
+        },
+        {
+          "title": "Ferrari",
+          "year": 2023,
+          "gross_usd": 3921773,
+          "film_id": 5301
+        },
+        {
+          "title": "On the Basis of Sex",
+          "year": 2018,
+          "gross_usd": 686355,
+          "film_id": 2955
+        },
+        {
+          "title": "No Other Choice",
+          "year": 2025,
+          "gross_usd": 332653,
+          "film_id": 6443
+        },
+        {
+          "title": "Phantom Thread",
+          "year": 2017,
+          "gross_usd": 216495,
+          "film_id": 2184
+        },
+        {
+          "title": "Pride & Prejudice",
+          "year": 2024,
+          "gross_usd": 186515,
+          "film_id": 5867
+        },
+        {
+          "title": "The Testament of Ann Lee",
+          "year": 2025,
+          "gross_usd": 74796,
+          "film_id": 6444
+        }
+      ]
+    }
+  ]
+}

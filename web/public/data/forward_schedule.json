@@ -1,0 +1,5907 @@
+{
+  "items": [
+    {
+      "id": 12,
+      "film_id": 6701,
+      "title": "Time And Water",
+      "release_date": "2026-05-29",
+      "iso_week": 22,
+      "distributor": "1-2 Special",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Documentary",
+        "Family",
+        "Sci-Fi"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTkxNjFkOTMtMDZkMS00YWMxLWFkY2YtN2Y2ZWY0OTVlYjU3XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 90,
+      "is_franchise": null
+    },
+    {
+      "id": 8,
+      "film_id": 6698,
+      "title": "Pitfall",
+      "release_date": "2026-05-29",
+      "iso_week": 22,
+      "distributor": null,
+      "tier": "unknown",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Crime",
+        "Film-Noir",
+        "Thriller"
+      ],
+      "mpaa": "Approved",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZGJiYjRjNjUtZWFjOS00MDEzLWJiOGMtMzNhMWVmNGI2MzY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 86,
+      "is_franchise": null
+    },
+    {
+      "id": 10,
+      "film_id": 6699,
+      "title": "Renoir",
+      "release_date": "2026-05-29",
+      "iso_week": 22,
+      "distributor": "Film Movement",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "mpaa": "R",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzk3Nzg0NDA0Nl5BMl5BanBnXkFtZTcwMTg1MTUxOQ@@._V1_SX300.jpg",
+      "runtime_minutes": 111,
+      "is_franchise": null
+    },
+    {
+      "id": 11,
+      "film_id": 6700,
+      "title": "Rich Flu",
+      "release_date": "2026-05-29",
+      "iso_week": 22,
+      "distributor": "VRC",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQwYjMyMzItZWNkMC00OTBmLTliNzYtNTE1ZmRjMDQ1ZjU2XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 116,
+      "is_franchise": null
+    },
+    {
+      "id": 3,
+      "film_id": 6693,
+      "title": "Pressure",
+      "release_date": "2026-05-29",
+      "iso_week": 22,
+      "distributor": "Focus Features",
+      "tier": "indie",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "mpaa": "PG-13",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjkwMTkwYzItNTg4MC00OTc2LTk2Y2EtOGU3ZGE0NmQyYzdjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": 100,
+      "is_franchise": null
+    },
+    {
+      "id": 2,
+      "film_id": 6692,
+      "title": "The Breadwinner",
+      "release_date": "2026-05-29",
+      "iso_week": 22,
+      "distributor": "Sony Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "mpaa": "PG",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTQ3ZWQ4YTctMTI0OC00NmI5LWFlNjgtNjhhMDQxYjUxYTQyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "runtime_minutes": 95,
+      "is_franchise": null
+    },
+    {
+      "id": 7,
+      "film_id": 6697,
+      "title": "Lucid",
+      "release_date": "2026-05-29",
+      "iso_week": 22,
+      "distributor": "Dark Star Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjAzYzA2ODktYjVmOS00NjJhLThlMzYtMjQ4M2JiMWVjODg4XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 6,
+      "film_id": 6696,
+      "title": "The Last Viking",
+      "release_date": "2026-05-29",
+      "iso_week": 22,
+      "distributor": "Samuel Goldwyn Films",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "mpaa": "Not Rated",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDJiNWFmNDItZDhjOS00NDRmLTk4ZjgtYzM1YmMxNGZkN2EwXkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+      "runtime_minutes": 116,
+      "is_franchise": null
+    },
+    {
+      "id": 5,
+      "film_id": 6695,
+      "title": "Fucktoys",
+      "release_date": "2026-05-29",
+      "iso_week": 22,
+      "distributor": null,
+      "tier": "unknown",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": 107,
+      "is_franchise": null
+    },
+    {
+      "id": 1,
+      "film_id": 6691,
+      "title": "Backrooms",
+      "release_date": "2026-05-29",
+      "iso_week": 22,
+      "distributor": "A24",
+      "tier": "indie",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": 105,
+      "is_franchise": null
+    },
+    {
+      "id": 4,
+      "film_id": 6694,
+      "title": "The Currents",
+      "release_date": "2026-05-29",
+      "iso_week": 22,
+      "distributor": "Kino Lorber",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Short"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDQ5ZDYzNjMtNjk5MS00MDE3LWI4NmMtZjRkYThkZGJlMzc2XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 13,
+      "film_id": null,
+      "title": "Met Opera: El \u00daltimo Sue\u00f1o de Frida y Diego(Special Engagement)",
+      "release_date": "2026-05-30",
+      "iso_week": 22,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 15,
+      "film_id": 6703,
+      "title": "Peddi",
+      "release_date": "2026-06-04",
+      "iso_week": 23,
+      "distributor": "Prathyangira Cinemas",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNGMzNDE0MWQtYWJmMi00YzFiLWI0OGItODY4Mzg0OGVhNjUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 14,
+      "film_id": 6702,
+      "title": "The Amazing Digital Circus: The Last Act",
+      "release_date": "2026-06-04",
+      "iso_week": 23,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "mpaa": "Not Rated",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODQ0NzQ2YTYtZDc2NS00YTlmLThjNmYtMWRkN2VkNzI4NWNhXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+      "runtime_minutes": 93,
+      "is_franchise": null
+    },
+    {
+      "id": 28,
+      "film_id": null,
+      "title": "Trainspotting(Limited, re-release)",
+      "release_date": "2026-06-05",
+      "iso_week": 23,
+      "distributor": "Sony Pictures Classics",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 9,
+      "film_id": null,
+      "title": "Power Ballad(Expands Wide)",
+      "release_date": "2026-06-05",
+      "iso_week": 23,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 16,
+      "film_id": 6704,
+      "title": "The Last Whale Singer",
+      "release_date": "2026-06-05",
+      "iso_week": 23,
+      "distributor": "Viva Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjA3MDRmZjMtNzhlNy00NGIyLWI1ZjgtMjc3MGM5MTczYjIzXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 17,
+      "film_id": 6705,
+      "title": "Masters of the Universe",
+      "release_date": "2026-06-05",
+      "iso_week": 23,
+      "distributor": "Amazon MGM Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Family"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2MzMjMyNmQtYzkwMC00NTM2LThmN2ItMTczMGVmNGY5ODZlXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 18,
+      "film_id": 6706,
+      "title": "Scary Movie",
+      "release_date": "2026-06-05",
+      "iso_week": 23,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjdkYjUyNmEtNTgzMy00OGNhLThiYWUtZWQ3YmFjM2QwMWY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 20,
+      "film_id": 6707,
+      "title": "Another World",
+      "release_date": "2026-06-05",
+      "iso_week": 23,
+      "distributor": "GKIDS",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Animation",
+        "Fantasy"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDY2NDRiZWQtM2ZmZS00NjJlLWFlMDQtYjA5ODIzNDUwNzMzXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 21,
+      "film_id": 6708,
+      "title": "Carolina Caroline",
+      "release_date": "2026-06-05",
+      "iso_week": 23,
+      "distributor": "Magnolia Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Crime",
+        "Romance",
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDYxMWYwYzAtOWFkMi00MWZjLTg2ODYtZTVhZjQ0ZTg1ZmJiXkEyXkFqcGc@._V1_QL75_UY562_CR488,0,380,562_.jpg",
+      "runtime_minutes": 105,
+      "is_franchise": null
+    },
+    {
+      "id": 22,
+      "film_id": 6709,
+      "title": "Chum",
+      "release_date": "2026-06-05",
+      "iso_week": 23,
+      "distributor": "Independent Film Company",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNGZhZDhhYjItYzI0OC00NWQ5LTk4ZTktOGM1Y2U3Y2I3YmVlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": 87,
+      "is_franchise": null
+    },
+    {
+      "id": 24,
+      "film_id": 6710,
+      "title": "Jinsei",
+      "release_date": "2026-06-05",
+      "iso_week": 23,
+      "distributor": "Greenwich",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Crime"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNGIxZmQ5NTUtZTk4YS00Y2I3LTgyYWEtNTNhNzJlMGU3NWE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 95,
+      "is_franchise": null
+    },
+    {
+      "id": 25,
+      "film_id": 6711,
+      "title": "The Little Sister",
+      "release_date": "2026-06-05",
+      "iso_week": 23,
+      "distributor": "Strand Releasing",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNmU4ZTQxZDktOTM1MC00ODY1LWFlNDktMGU0ODk1NzllMDMzXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 106,
+      "is_franchise": null
+    },
+    {
+      "id": 26,
+      "film_id": 6712,
+      "title": "Savage House",
+      "release_date": "2026-06-05",
+      "iso_week": 23,
+      "distributor": "PRJKTD",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjdmOTgxY2UtMTliOS00OWZkLTk1ZGMtYzA3OGE3YWEzMzI2XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 114,
+      "is_franchise": null
+    },
+    {
+      "id": 27,
+      "film_id": 6713,
+      "title": "Signal One",
+      "release_date": "2026-06-05",
+      "iso_week": 23,
+      "distributor": "Radial Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDk1MjU4NWYtZGQ2Ni00MjcxLTliNTEtYzAzZGQzNDNkYjcwXkEyXkFqcGc@._V1_QL75_UY562_CR29,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 29,
+      "film_id": 6714,
+      "title": "Underland",
+      "release_date": "2026-06-05",
+      "iso_week": 23,
+      "distributor": "Oscilloscope Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Short",
+        "Horror"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzY1YWFhNTktNzI1YS00MTJiLWI5ZGItNjQ4NDhmYjIzZDAyXkEyXkFqcGdeQXVyNTkxOTk3MDg@._V1_SX300.jpg",
+      "runtime_minutes": 6,
+      "is_franchise": null
+    },
+    {
+      "id": 23,
+      "film_id": null,
+      "title": "Hai Jawani Toh Ishq Hona Hai",
+      "release_date": "2026-06-05",
+      "iso_week": 23,
+      "distributor": "Omjee Star Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 30,
+      "film_id": null,
+      "title": "The Birdcage(Special Engagement, re-release)",
+      "release_date": "2026-06-07",
+      "iso_week": 23,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 31,
+      "film_id": 6715,
+      "title": "Sacred Heart: His Reign Has No End",
+      "release_date": "2026-06-09",
+      "iso_week": 24,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Documentary",
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BY2QyNDdkMDYtZWI2Ny00M2Y2LThkNDctNmMxZDBmNmNiZmNkXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+      "runtime_minutes": 95,
+      "is_franchise": null
+    },
+    {
+      "id": 33,
+      "film_id": 6716,
+      "title": "The Furious",
+      "release_date": "2026-06-12",
+      "iso_week": 24,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODUyZjg2YzctNGE3Yi00YjhhLTkyZTItZTAwZTNhNDA1ODQzXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "runtime_minutes": 113,
+      "is_franchise": null
+    },
+    {
+      "id": 35,
+      "film_id": null,
+      "title": "The Devil Queen",
+      "release_date": "2026-06-12",
+      "iso_week": 24,
+      "distributor": "Kino Lorber",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 37,
+      "film_id": null,
+      "title": "Main Vaapas Aaunga",
+      "release_date": "2026-06-12",
+      "iso_week": 24,
+      "distributor": "Reliance Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 34,
+      "film_id": 6717,
+      "title": "Stop! That! Train!",
+      "release_date": "2026-06-12",
+      "iso_week": 24,
+      "distributor": "Bleecker Street",
+      "tier": "indie",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDBlYTcwZTUtODg4Ni00NDgwLThmODAtODMwYzA3NWRmOWUwXkEyXkFqcGc@._V1_QL75_UX380_CR0,16,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 36,
+      "film_id": 6718,
+      "title": "Flag Day",
+      "release_date": "2026-06-12",
+      "iso_week": 24,
+      "distributor": "Abramorama Films",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "mpaa": "R",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDBhZDZmNzUtYmE3NS00ZDJjLWE2MDAtNmNjOWMzM2JmMzc0XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 109,
+      "is_franchise": null
+    },
+    {
+      "id": 38,
+      "film_id": 6719,
+      "title": "O Horizon",
+      "release_date": "2026-06-12",
+      "iso_week": 24,
+      "distributor": "Variance Films",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZmEyODQ4OTMtOGNhNy00MWIyLTg0NDUtNDkzZGU4MGI3ZjE1XkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg",
+      "runtime_minutes": 107,
+      "is_franchise": null
+    },
+    {
+      "id": 40,
+      "film_id": 6720,
+      "title": "This Tempting Madness",
+      "release_date": "2026-06-12",
+      "iso_week": 24,
+      "distributor": "Vertical Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjBmZTMyYWMtODVjMi00YjBmLWFkNjEtNjU2NDQ4N2E0MjMyXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 32,
+      "film_id": 6721,
+      "title": "Disclosure Day",
+      "release_date": "2026-06-12",
+      "iso_week": 24,
+      "distributor": "Universal",
+      "tier": "industry",
+      "format_flags": [
+        "Imax"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTgwNDI1ZjctYWNmMS00MTJhLTg1ZWItMzI1Yjk5NjZkYWFkXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "runtime_minutes": 120,
+      "is_franchise": null
+    },
+    {
+      "id": 41,
+      "film_id": null,
+      "title": "Us in the End",
+      "release_date": "2026-06-12",
+      "iso_week": 24,
+      "distributor": "ABS-CBN",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 39,
+      "film_id": null,
+      "title": "Promised Sky",
+      "release_date": "2026-06-12",
+      "iso_week": 24,
+      "distributor": "Film Movement",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 43,
+      "film_id": null,
+      "title": "Ponyo(Special Engagement, re-release)",
+      "release_date": "2026-06-13",
+      "iso_week": 24,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 44,
+      "film_id": null,
+      "title": "UFC Freedom 250(Special Engagement)",
+      "release_date": "2026-06-14",
+      "iso_week": 24,
+      "distributor": "Iconic Releasing",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 45,
+      "film_id": 6722,
+      "title": "Gregg Allman: The Music of My Soul",
+      "release_date": "2026-06-17",
+      "iso_week": 25,
+      "distributor": "Variance Films",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Documentary",
+        "Biography",
+        "Music"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOWE5MjUzZGItYjczOC00NDIzLWJjMjAtZDRkZWZiNjRlMmE0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": 96,
+      "is_franchise": null
+    },
+    {
+      "id": 46,
+      "film_id": 6723,
+      "title": "In the Hand of Dante",
+      "release_date": "2026-06-17",
+      "iso_week": 25,
+      "distributor": "Netflix",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMGYyZDhhOWUtMTNmOC00OWEzLTgxODUtOWE1ZTIxYjBhMjMzXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 150,
+      "is_franchise": null
+    },
+    {
+      "id": 47,
+      "film_id": 6724,
+      "title": "Shoot the People",
+      "release_date": "2026-06-18",
+      "iso_week": 25,
+      "distributor": "MPI Media Group",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Documentary"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzZmMTgzNWUtOTJiZS00MjZmLTgxNTItMmRlNDMxYWMzMGNkXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 48,
+      "film_id": null,
+      "title": "B-Roll(Wide, re-release)",
+      "release_date": "2026-06-19",
+      "iso_week": 25,
+      "distributor": "Zurty Studios",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 49,
+      "film_id": 6725,
+      "title": "The Death of Robin Hood",
+      "release_date": "2026-06-19",
+      "iso_week": 25,
+      "distributor": "A24",
+      "tier": "indie",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "mpaa": "R",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTRmNzlmZjEtYjkzMC00MmNjLThiOGYtZjM5MjFiZDQyM2IwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 51,
+      "film_id": 6727,
+      "title": "Leviticus",
+      "release_date": "2026-06-19",
+      "iso_week": 25,
+      "distributor": "Neon",
+      "tier": "indie",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Horror",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "mpaa": "R",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTk3MzM1MWEtNjk0Yy00ZWEzLTlkOGQtNmU2MzhlYTE5MjcwXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+      "runtime_minutes": 88,
+      "is_franchise": null
+    },
+    {
+      "id": 53,
+      "film_id": 6729,
+      "title": "Maddie\u2019s Secret",
+      "release_date": "2026-06-19",
+      "iso_week": 25,
+      "distributor": "Magnolia Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": 98,
+      "is_franchise": null
+    },
+    {
+      "id": 55,
+      "film_id": 6730,
+      "title": "Rose of Nevada",
+      "release_date": "2026-06-19",
+      "iso_week": 25,
+      "distributor": "1-2 Special",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODlmNWFhN2MtNTA4Ni00M2M2LWI4NTAtZjk1ZGQ3MDIzNWI4XkEyXkFqcGc@._V1_QL75_UY562_CR61,0,380,562_.jpg",
+      "runtime_minutes": 114,
+      "is_franchise": null
+    },
+    {
+      "id": 56,
+      "film_id": 6731,
+      "title": "Unidentified",
+      "release_date": "2026-06-19",
+      "iso_week": 25,
+      "distributor": "Sony Pictures Classics",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjA4YTQxMTktYTdhOS00MjZkLWIzOGYtNDNhMTY5YWI4ZGNlXkEyXkFqcGdeQXVyNDc2NTQxMDA@._V1_SX300.jpg",
+      "runtime_minutes": 123,
+      "is_franchise": null
+    },
+    {
+      "id": 54,
+      "film_id": null,
+      "title": "Peter Asher: Everywhere Man",
+      "release_date": "2026-06-19",
+      "iso_week": 25,
+      "distributor": "Greenwich",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 50,
+      "film_id": 6726,
+      "title": "Girls Like Girls",
+      "release_date": "2026-06-19",
+      "iso_week": 25,
+      "distributor": "Focus Features",
+      "tier": "indie",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama"
+      ],
+      "mpaa": "R",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzAwYmRjMzMtNTdkNC00Yzk5LTllZDYtMWRiZGZkNWY2NzMwXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 52,
+      "film_id": 6728,
+      "title": "Toy Story 5",
+      "release_date": "2026-06-19",
+      "iso_week": 25,
+      "distributor": "Walt Disney",
+      "tier": "industry",
+      "format_flags": [
+        "Imax"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTI1YTBiNmEtYWUxZi00YzFkLWIzNjMtMmZjMmY2NzM0ZWMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": 90,
+      "is_franchise": null
+    },
+    {
+      "id": 58,
+      "film_id": null,
+      "title": "Ocean\u2019s Eleven(Special Engagement, re-release)",
+      "release_date": "2026-06-21",
+      "iso_week": 25,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 59,
+      "film_id": 6732,
+      "title": "Mare\u2019s Nest",
+      "release_date": "2026-06-24",
+      "iso_week": 26,
+      "distributor": "Grasshopper Film",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Short"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": 5,
+      "is_franchise": null
+    },
+    {
+      "id": 60,
+      "film_id": null,
+      "title": "BLEACH: Thousand-Year Blood War \u2014 The Calamity",
+      "release_date": "2026-06-25",
+      "iso_week": 26,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 61,
+      "film_id": null,
+      "title": "Jackass: Best and Last",
+      "release_date": "2026-06-26",
+      "iso_week": 26,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 63,
+      "film_id": 6733,
+      "title": "Bouchra",
+      "release_date": "2026-06-26",
+      "iso_week": 26,
+      "distributor": "Film Movement",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Animation"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTA4OWU1NDEtMWI1Ny00NzRhLTg0ZWUtN2QyOWY0NmFkODk1XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 83,
+      "is_franchise": null
+    },
+    {
+      "id": 64,
+      "film_id": 6734,
+      "title": "Camp",
+      "release_date": "2026-06-26",
+      "iso_week": 26,
+      "distributor": "MPI Media Group",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Horror"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTQzZjliYWYtYWEwZi00ODQwLWI0NTEtNWFkYzU3OTI0MjczXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 67,
+      "film_id": 6736,
+      "title": "The Invite",
+      "release_date": "2026-06-26",
+      "iso_week": 26,
+      "distributor": "A24",
+      "tier": "indie",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "mpaa": "R",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2ZjZWI0YTctOGJmNC00MWJlLTk4MTAtM2RlZjgxYmY4ZmE5XkEyXkFqcGc@._V1_QL75_UX380_CR0,16,380,562_.jpg",
+      "runtime_minutes": 107,
+      "is_franchise": null
+    },
+    {
+      "id": 68,
+      "film_id": 6737,
+      "title": "Jacked",
+      "release_date": "2026-06-26",
+      "iso_week": 26,
+      "distributor": "Indican Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTIwMjU1NDUxMV5BMl5BanBnXkFtZTcwNzk3MzIyMQ@@._V1_SX300.jpg",
+      "runtime_minutes": 96,
+      "is_franchise": null
+    },
+    {
+      "id": 69,
+      "film_id": 6738,
+      "title": "Lucky Strike",
+      "release_date": "2026-06-26",
+      "iso_week": 26,
+      "distributor": "Saban Films",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODBhMTU2MzEtNjgwZS00YzA5LWE3MjctNTljZmZjYjNjYzhhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 70,
+      "film_id": 6739,
+      "title": "Romer\u00eda",
+      "release_date": "2026-06-26",
+      "iso_week": 26,
+      "distributor": "Janus Films",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Romance"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjMyNWE4MTAtODhhMC00MTI4LWIwZTQtNjA5ZGNiNmZmZDI1XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 114,
+      "is_franchise": null
+    },
+    {
+      "id": 71,
+      "film_id": 6740,
+      "title": "Sugar Beach",
+      "release_date": "2026-06-26",
+      "iso_week": 26,
+      "distributor": "Seismic Releasing",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Short",
+        "Action"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzVhNmEyYzUtOTRhYi00M2RlLTkyMmUtZWIyZGI3M2YwZmYwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTI0MTMzOA@@._V1_SX300.jpg",
+      "runtime_minutes": 5,
+      "is_franchise": null
+    },
+    {
+      "id": 72,
+      "film_id": 6741,
+      "title": "Welcome to the Jungle",
+      "release_date": "2026-06-26",
+      "iso_week": 26,
+      "distributor": "Star Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "mpaa": "Not Rated",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTUyNDk5ODE0OV5BMl5BanBnXkFtZTgwMDMyNzE4MDE@._V1_SX300.jpg",
+      "runtime_minutes": 95,
+      "is_franchise": null
+    },
+    {
+      "id": 62,
+      "film_id": 6742,
+      "title": "Supergirl",
+      "release_date": "2026-06-26",
+      "iso_week": 26,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "format_flags": [
+        "Imax"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjlhMTdmODYtOGE0ZC00YzAwLWI1NDMtMTIzZDQzZGVkNDMwXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 66,
+      "film_id": 6735,
+      "title": "Couture",
+      "release_date": "2026-06-26",
+      "iso_week": 26,
+      "distributor": "Vertical Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTY4NGEyZDQtYmU1MC00NjA4LTgyM2QtZDJmOWI1YWFhYWIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 106,
+      "is_franchise": null
+    },
+    {
+      "id": 65,
+      "film_id": null,
+      "title": "Carry on Jatta 4",
+      "release_date": "2026-06-26",
+      "iso_week": 26,
+      "distributor": "Omjee Star Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 73,
+      "film_id": null,
+      "title": "Drunken Noodles(Special Engagement)",
+      "release_date": "2026-06-26",
+      "iso_week": 26,
+      "distributor": "Strand Releasing",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 75,
+      "film_id": null,
+      "title": "Talladega Nights: The Ballad of Ricky Bobby(Wide, re-release)",
+      "release_date": "2026-06-28",
+      "iso_week": 26,
+      "distributor": "Sony Pictures",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 76,
+      "film_id": 6743,
+      "title": "Minions & Monsters",
+      "release_date": "2026-07-01",
+      "iso_week": 27,
+      "distributor": "Universal",
+      "tier": "industry",
+      "format_flags": [
+        "Imax"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTQ4MzMwYWQtZmFiNy00NmJiLWExNmEtMzgzNGE2ZDQ4NWMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 80,
+      "film_id": 6745,
+      "title": "Swallowtail & Dragonfly",
+      "release_date": "2026-07-03",
+      "iso_week": 27,
+      "distributor": "Indican Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 79,
+      "film_id": null,
+      "title": "Mary Oliver: Saved by the Beauty of the World",
+      "release_date": "2026-07-03",
+      "iso_week": 27,
+      "distributor": "Kino Lorber",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 78,
+      "film_id": 6744,
+      "title": "Young Washington",
+      "release_date": "2026-07-03",
+      "iso_week": 27,
+      "distributor": "Angel Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTE3NDY5OWUtZmM5Ny00NDJiLTlkZDQtN2E5MWFjZWUyMDZkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 81,
+      "film_id": null,
+      "title": "Citizen Kane(Special Engagement, re-release)",
+      "release_date": "2026-07-05",
+      "iso_week": 27,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 87,
+      "film_id": null,
+      "title": "The Isolate Thief",
+      "release_date": "2026-07-10",
+      "iso_week": 28,
+      "distributor": "Radial Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 86,
+      "film_id": null,
+      "title": "The Hole(Limited, re-release)",
+      "release_date": "2026-07-10",
+      "iso_week": 28,
+      "distributor": "Big World Pictures",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 85,
+      "film_id": 6749,
+      "title": "Barrio Triste",
+      "release_date": "2026-07-10",
+      "iso_week": 28,
+      "distributor": "Film Movement",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "N/A"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": 84,
+      "is_franchise": null
+    },
+    {
+      "id": 84,
+      "film_id": 6748,
+      "title": "Moana",
+      "release_date": "2026-07-10",
+      "iso_week": 28,
+      "distributor": "Walt Disney",
+      "tier": "industry",
+      "format_flags": [
+        "Imax"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 82,
+      "film_id": 6746,
+      "title": "Evil Dead Burn",
+      "release_date": "2026-07-10",
+      "iso_week": 28,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Mystery"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzQxZWNhM2EtMGM1Ni00NGMxLWJlNjUtYmI5N2Q4NjMwZGVlXkEyXkFqcGc@._V1_QL75_UY562_CR44,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 83,
+      "film_id": 6747,
+      "title": "Gail Daughtry and the Celebrity Sex Pass",
+      "release_date": "2026-07-10",
+      "iso_week": 28,
+      "distributor": "Sony Pictures Classics",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTY5ZWE5YWEtOTQ0OS00NThhLTk1NTgtYjljOGMxZjg4Y2QwXkEyXkFqcGc@._V1_QL75_UY562_CR310,0,380,562_.jpg",
+      "runtime_minutes": 93,
+      "is_franchise": null
+    },
+    {
+      "id": 89,
+      "film_id": null,
+      "title": "My Neighbor Totoro(Special Engagement, re-release)",
+      "release_date": "2026-07-11",
+      "iso_week": 28,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 90,
+      "film_id": null,
+      "title": "UFC 329: McGregor vs Holloway 2(Special Engagement)",
+      "release_date": "2026-07-11",
+      "iso_week": 28,
+      "distributor": "Iconic Releasing",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 92,
+      "film_id": null,
+      "title": "The Kidnapping of Arabella",
+      "release_date": "2026-07-17",
+      "iso_week": 29,
+      "distributor": "Oscilloscope Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 91,
+      "film_id": 6750,
+      "title": "The Odyssey",
+      "release_date": "2026-07-17",
+      "iso_week": 29,
+      "distributor": "Universal",
+      "tier": "industry",
+      "format_flags": [
+        "Imax"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2MyYjk2MWMtODMyZS00MDUyLWE0OGQtOTQ3MGY0MDE0ZjVmXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 94,
+      "film_id": 6751,
+      "title": "Bad Counselors",
+      "release_date": "2026-07-22",
+      "iso_week": 30,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "mpaa": "PG-13",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzllZGZjMTAtNjJlZS00YmI5LTg0NjctOTA2MDA1MjI1YzU5XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "runtime_minutes": 100,
+      "is_franchise": null
+    },
+    {
+      "id": 97,
+      "film_id": null,
+      "title": "Pinoccho Unstrung",
+      "release_date": "2026-07-24",
+      "iso_week": 30,
+      "distributor": "Viva Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 98,
+      "film_id": null,
+      "title": "Hadestown: The Musical",
+      "release_date": "2026-07-24",
+      "iso_week": 30,
+      "distributor": "Bleecker Street",
+      "tier": "indie",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 95,
+      "film_id": 6752,
+      "title": "Her Private Hell",
+      "release_date": "2026-07-24",
+      "iso_week": 30,
+      "distributor": "Neon",
+      "tier": "indie",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODNiMmM3MjEtZGZhMS00MTlkLWFhOTYtMWViZTg2ZTRlMjdjXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "runtime_minutes": 109,
+      "is_franchise": null
+    },
+    {
+      "id": 96,
+      "film_id": 6753,
+      "title": "Motor City",
+      "release_date": "2026-07-24",
+      "iso_week": 30,
+      "distributor": "IFC Entertainment Group",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmE0OGVkZWUtNmJkMi00ZWZmLWIxYTktYWZkNzAyMmU5OGJmXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 103,
+      "is_franchise": null
+    },
+    {
+      "id": 99,
+      "film_id": 6754,
+      "title": "Rosebush Pruning",
+      "release_date": "2026-07-24",
+      "iso_week": 30,
+      "distributor": "MUBI",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTBmYzRhNzgtZWM4MS00ZDEwLTgzYzAtNGQ5NzRlNjRlMjBhXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 97,
+      "is_franchise": null
+    },
+    {
+      "id": 100,
+      "film_id": null,
+      "title": "The Fifth Element(Special Engagement, re-release)",
+      "release_date": "2026-07-26",
+      "iso_week": 30,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 102,
+      "film_id": 6756,
+      "title": "Spider-Man: Brand New Day",
+      "release_date": "2026-07-31",
+      "iso_week": 31,
+      "distributor": "Sony Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 101,
+      "film_id": 6755,
+      "title": "I Want Your Sex",
+      "release_date": "2026-07-31",
+      "iso_week": 31,
+      "distributor": "Magnolia Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTM3YzM0ZjEtMjZhMy00MjUxLTg3OGQtOGVhYjAxYjg3ZTFkXkEyXkFqcGc@._V1_QL75_UY562_CR310,0,380,562_.jpg",
+      "runtime_minutes": 90,
+      "is_franchise": null
+    },
+    {
+      "id": 103,
+      "film_id": 6757,
+      "title": "Terrestrial",
+      "release_date": "2026-07-31",
+      "iso_week": 31,
+      "distributor": "Indican Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZGZkNzViZTktZTI2NC00ZWExLWE0MGYtOGY2OGRjZDI4ZGFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 104,
+      "film_id": null,
+      "title": "Willy Wonka & the Chocolate Factory(Special Engagement, re-release)",
+      "release_date": "2026-08-02",
+      "iso_week": 31,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 106,
+      "film_id": 6759,
+      "title": "Ice Cream Man",
+      "release_date": "2026-08-07",
+      "iso_week": 32,
+      "distributor": "Iconic Releasing",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Horror"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTNkZjk4ZjctNzhjNS00NGZjLTgxY2UtMGFjYTc1ZGMxODE0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": 106,
+      "is_franchise": null
+    },
+    {
+      "id": 109,
+      "film_id": null,
+      "title": "CatVideoFest 2026",
+      "release_date": "2026-08-07",
+      "iso_week": 32,
+      "distributor": "Oscilloscope Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 105,
+      "film_id": 6758,
+      "title": "Fall 2",
+      "release_date": "2026-08-07",
+      "iso_week": 32,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTg4ZWQ4MTEtOWRkZS00NTg4LTg1OTAtMDBhMzI2YTJiZDRlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 113,
+      "film_id": 6765,
+      "title": "Tony",
+      "release_date": "2026-08-07",
+      "iso_week": 32,
+      "distributor": "A24",
+      "tier": "indie",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDc1NGEyMzAtZWNiNC00MDY0LTg2NmYtZWIxZmM0NTNhNjc0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 112,
+      "film_id": 6764,
+      "title": "Teenage Sex and Death at Camp Miasma",
+      "release_date": "2026-08-07",
+      "iso_week": 32,
+      "distributor": "MUBI",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 111,
+      "film_id": 6763,
+      "title": "Late Fame",
+      "release_date": "2026-08-07",
+      "iso_week": 32,
+      "distributor": "Magnolia Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "N/A"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": 90,
+      "is_franchise": null
+    },
+    {
+      "id": 110,
+      "film_id": 6762,
+      "title": "Cookie Queens",
+      "release_date": "2026-08-07",
+      "iso_week": 32,
+      "distributor": "Roadside Attractions",
+      "tier": "indie",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Documentary",
+        "Comedy",
+        "Family"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BY2NhYmViOTMtNmY5ZC00MzAyLTg0N2UtM2VlMmU5OTc4MzNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 91,
+      "is_franchise": null
+    },
+    {
+      "id": 108,
+      "film_id": 6761,
+      "title": "Super Troopers 3",
+      "release_date": "2026-08-07",
+      "iso_week": 32,
+      "distributor": "Searchlight Pictures",
+      "tier": "indie",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Mystery"
+      ],
+      "mpaa": "R",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzFiOGM1MDMtZjEyYy00YWNkLWJhMmYtZmFjYzlmOTcxZTJmXkEyXkFqcGc@._V1_QL75_UY562_CR232,0,380,562_.jpg",
+      "runtime_minutes": 100,
+      "is_franchise": null
+    },
+    {
+      "id": 107,
+      "film_id": 6760,
+      "title": "One Night Only",
+      "release_date": "2026-08-07",
+      "iso_week": 32,
+      "distributor": "Universal",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "N/A"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 114,
+      "film_id": null,
+      "title": "Tales from Earthsea(Special Engagement, re-release)",
+      "release_date": "2026-08-08",
+      "iso_week": 32,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 115,
+      "film_id": null,
+      "title": "Only Yesterday(Special Engagement, re-release)",
+      "release_date": "2026-08-09",
+      "iso_week": 32,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 116,
+      "film_id": null,
+      "title": "Fauzi",
+      "release_date": "2026-08-13",
+      "iso_week": 33,
+      "distributor": "Prathyangira Cinemas",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 120,
+      "film_id": 6769,
+      "title": "The Wrong Girls",
+      "release_date": "2026-08-14",
+      "iso_week": 33,
+      "distributor": "Neon",
+      "tier": "indie",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzczM2U3ZjctYjVjYS00OWJiLTlkMzEtNDc4ZGNjMjRjMjM1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 123,
+      "film_id": 6772,
+      "title": "Elijah Peel",
+      "release_date": "2026-08-14",
+      "iso_week": 33,
+      "distributor": "EKKL Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzhkYTIzNGQtZDE2ZC00ODAxLWIyM2YtNzU5Y2E0ZTFjMzIzXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 126,
+      "film_id": null,
+      "title": "Train to Busan(Limited, re-release)",
+      "release_date": "2026-08-14",
+      "iso_week": 33,
+      "distributor": "Well Go USA",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 122,
+      "film_id": 6771,
+      "title": "The Birthday Party",
+      "release_date": "2026-08-14",
+      "iso_week": 33,
+      "distributor": "Quiver",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYmNjNjhhMjMtNjQzMC00YzAyLTkyY2EtMjllODZiNTdhOThiXkEyXkFqcGc@._V1_QL75_UY562_CR330,0,380,562_.jpg",
+      "runtime_minutes": 114,
+      "is_franchise": null
+    },
+    {
+      "id": 121,
+      "film_id": 6770,
+      "title": "American Doctor",
+      "release_date": "2026-08-14",
+      "iso_week": 33,
+      "distributor": "MPI Media Group",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Documentary"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMGU5YTgwYmYtMzdhYy00ODkxLThhOTQtNDk5YmUzMjNlYjc2XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 91,
+      "is_franchise": null
+    },
+    {
+      "id": 125,
+      "film_id": 6773,
+      "title": "Six: The Musical Live!",
+      "release_date": "2026-08-14",
+      "iso_week": 33,
+      "distributor": "Focus Features",
+      "tier": "indie",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Musical"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDM2NmIwMjctYmNjNi00YjFhLTg0OGEtZWZkYjkzNWEyYzMwXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 95,
+      "is_franchise": null
+    },
+    {
+      "id": 119,
+      "film_id": 6768,
+      "title": "PAW Patrol: The Dino Movie",
+      "release_date": "2026-08-14",
+      "iso_week": 33,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BY2E2Y2Q0Y2ItZTUyZS00MzllLTkwYmQtYjdmNzM3NGRiYjFmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 118,
+      "film_id": 6767,
+      "title": "The End of Oak Street",
+      "release_date": "2026-08-14",
+      "iso_week": 33,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "format_flags": [
+        "Imax"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Mystery"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZGI0YmRjNWYtYTliYy00YzdjLTkzNzQtZWExNjA2ZDU5MzAwXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 117,
+      "film_id": 6766,
+      "title": "The Brink of War",
+      "release_date": "2026-08-14",
+      "iso_week": 33,
+      "distributor": "Angel Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTM2Yjg0NWMtODQxYS00YWE2LTg2MjItMzY0ZDg0NmQ0Mzc4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 128,
+      "film_id": null,
+      "title": "Battle Of Galwan",
+      "release_date": "2026-08-15",
+      "iso_week": 33,
+      "distributor": "Salman Khan Films",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 124,
+      "film_id": null,
+      "title": "The Rivals of Amziah King(Expands Wide)",
+      "release_date": "2026-08-21",
+      "iso_week": 34,
+      "distributor": "Black Bear Pictures",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 129,
+      "film_id": 6774,
+      "title": "Hot Spot",
+      "release_date": "2026-08-21",
+      "iso_week": 34,
+      "distributor": "Focus Features",
+      "tier": "indie",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Fantasy"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDNmODc5NTgtMjRkZC00YjU1LTkyYTItNzc0N2NlYzkxM2IyXkEyXkFqcGc@._V1_QL75_UY562_CR310,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 130,
+      "film_id": 6775,
+      "title": "Insidious: Out of the Further",
+      "release_date": "2026-08-21",
+      "iso_week": 34,
+      "distributor": "Sony Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY4YjM1OGItMDlmMi00OTU1LWEzM2MtZGMyZTQ1NzhiM2VhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 131,
+      "film_id": 6776,
+      "title": "Mutiny",
+      "release_date": "2026-08-21",
+      "iso_week": 34,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BY2FhN2NlNWMtZDM3OC00MjQzLWEwYzYtMmJhNTY1YmRjZTNmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 132,
+      "film_id": 6777,
+      "title": "Spa Weekend",
+      "release_date": "2026-08-21",
+      "iso_week": 34,
+      "distributor": "Black Bear Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 135,
+      "film_id": 6778,
+      "title": "The Magic Faraway Tree",
+      "release_date": "2026-08-21",
+      "iso_week": 34,
+      "distributor": "Vertical Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNGUzNzQzNWQtZTI2My00YmE2LTkyYzItNzFhMTM3OTVkYmNlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": 110,
+      "is_franchise": null
+    },
+    {
+      "id": 136,
+      "film_id": 6779,
+      "title": "Paper Flowers",
+      "release_date": "2026-08-21",
+      "iso_week": 34,
+      "distributor": "AV Entertainment Company, LLC",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "mpaa": "Unrated",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzhkZGI3MzUtYzRiMC00MGYzLWEyOTEtM2E5MTRjMDI1M2FkXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+      "runtime_minutes": 148,
+      "is_franchise": null
+    },
+    {
+      "id": 133,
+      "film_id": null,
+      "title": "Untitled Vertical Family Movie",
+      "release_date": "2026-08-21",
+      "iso_week": 34,
+      "distributor": "Vertical Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 137,
+      "film_id": null,
+      "title": "Castle in the Sky(Special Engagement, re-release)",
+      "release_date": "2026-08-22",
+      "iso_week": 34,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 140,
+      "film_id": 6782,
+      "title": "The Dog Stars",
+      "release_date": "2026-08-28",
+      "iso_week": 35,
+      "distributor": "20th Century Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDBkZTNhMmQtMjliNS00OTIyLWI1OTItYzEzZTU0NGU0NTI4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 139,
+      "film_id": 6781,
+      "title": "Coyote vs. Acme",
+      "release_date": "2026-08-28",
+      "iso_week": 35,
+      "distributor": "Ketchup Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "mpaa": "PG",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjJmZWY2YjItYzMxNC00MjdiLWFjM2MtYmEwNjY1MTgyNjY4XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "runtime_minutes": 98,
+      "is_franchise": null
+    },
+    {
+      "id": 138,
+      "film_id": 6780,
+      "title": "Cliffhanger",
+      "release_date": "2026-08-28",
+      "iso_week": 35,
+      "distributor": "Row K Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTNlOGUxYjAtMTZhNi00Yjg1LWI0ZGYtY2Q0ZmI4OGQ3ZjAxXkEyXkFqcGc@._V1_QL75_UX380_CR0,5,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 142,
+      "film_id": 6784,
+      "title": "Idiots",
+      "release_date": "2026-08-28",
+      "iso_week": 35,
+      "distributor": "IFC Entertainment Group",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTc4MTMwMzEtOGQ1Ni00OWJiLWE3YmEtMzIxZmNjNDBkZDQwXkEyXkFqcGc@._V1_QL75_UY562_CR310,0,380,562_.jpg",
+      "runtime_minutes": 98,
+      "is_franchise": null
+    },
+    {
+      "id": 144,
+      "film_id": 6786,
+      "title": "Legend of the White Dragon",
+      "release_date": "2026-08-28",
+      "iso_week": 35,
+      "distributor": "Well Go USA",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmRkNTdhMTQtZDVkYS00MTQzLWJiYjYtYmRlZjIzNzM2ZmY2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": 90,
+      "is_franchise": null
+    },
+    {
+      "id": 143,
+      "film_id": 6785,
+      "title": "Colony",
+      "release_date": "2026-08-28",
+      "iso_week": 35,
+      "distributor": "Well Go USA",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDgwNzhmMjItMDhlYi00ODdlLWI1NjUtZDgxZGMzMGU5MmM4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": 122,
+      "is_franchise": null
+    },
+    {
+      "id": 146,
+      "film_id": null,
+      "title": "Nika & Madison",
+      "release_date": "2026-08-28",
+      "iso_week": 35,
+      "distributor": "Indican Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 145,
+      "film_id": null,
+      "title": "Untitled IFC Comedy Film",
+      "release_date": "2026-08-28",
+      "iso_week": 35,
+      "distributor": "Independent Film Company",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 141,
+      "film_id": 6783,
+      "title": "Finding Emily",
+      "release_date": "2026-08-28",
+      "iso_week": 35,
+      "distributor": "Focus Features",
+      "tier": "indie",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2MzZDk2Y2ItYzNiZS00Y2Y3LTg2NzYtMmI3NmI4NGFhYzBmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": 111,
+      "is_franchise": null
+    },
+    {
+      "id": 147,
+      "film_id": 6787,
+      "title": "By Any Means",
+      "release_date": "2026-09-04",
+      "iso_week": 36,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU0MTQ4OTMyMV5BMl5BanBnXkFtZTcwMTQxOTY1NA@@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 149,
+      "film_id": 6789,
+      "title": "Barbara Forever",
+      "release_date": "2026-09-04",
+      "iso_week": 36,
+      "distributor": "Strand Releasing",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Documentary"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMGJmN2IzNDUtMzQ5Mi00OTgzLWE0ZTQtMzZjNmYyYjZiM2RiXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 101,
+      "is_franchise": null
+    },
+    {
+      "id": 148,
+      "film_id": 6788,
+      "title": "How to Rob a Bank",
+      "release_date": "2026-09-04",
+      "iso_week": 36,
+      "distributor": "Amazon MGM Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDE2YjY4ODUtZjVmMy00ZmE2LTgwZjgtMWJiZGI0NWY3ODAzXkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 150,
+      "film_id": 6790,
+      "title": "Buddy",
+      "release_date": "2026-09-04",
+      "iso_week": 36,
+      "distributor": "Roadside Attractions",
+      "tier": "indie",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzM2YWZlY2YtYzJhMS00MzFkLWI3NGUtMWJhMWNmNTU1YzBkXkEyXkFqcGc@._V1_QL75_UY562_CR309,0,380,562_.jpg",
+      "runtime_minutes": 95,
+      "is_franchise": null
+    },
+    {
+      "id": 151,
+      "film_id": 6791,
+      "title": "Tom and Jerry: Forbidden Compass",
+      "release_date": "2026-09-09",
+      "iso_week": 37,
+      "distributor": "Viva Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "mpaa": "PG",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMWQ3OTU0ZWYtYWE5OS00Zjc4LTg4ZTctMzcyZDQ2YjU1Yjk4XkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg",
+      "runtime_minutes": 104,
+      "is_franchise": null
+    },
+    {
+      "id": 156,
+      "film_id": 6794,
+      "title": "The Uprising",
+      "release_date": "2026-09-11",
+      "iso_week": 37,
+      "distributor": "Focus Features",
+      "tier": "indie",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Drama",
+        "History"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWQyNzhiZjYtNjJlOS00MTRlLWI0YTYtZjg1YzJmNTc2YjQwXkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 157,
+      "film_id": null,
+      "title": "Oasis Live \u201825",
+      "release_date": "2026-09-11",
+      "iso_week": 37,
+      "distributor": "Walt Disney",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 155,
+      "film_id": null,
+      "title": "Untitled Neon Film",
+      "release_date": "2026-09-11",
+      "iso_week": 37,
+      "distributor": "Neon",
+      "tier": "indie",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 152,
+      "film_id": null,
+      "title": "Daniel: The Fiery Furnace",
+      "release_date": "2026-09-11",
+      "iso_week": 37,
+      "distributor": "Unveil Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 153,
+      "film_id": 6792,
+      "title": "Practical Magic 2",
+      "release_date": "2026-09-11",
+      "iso_week": 37,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2U2NDgxYzItOWExYS00NzVlLTkwOTMtMzQ1ZWM0ZWMyMjg1XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 154,
+      "film_id": 6793,
+      "title": "Runner",
+      "release_date": "2026-09-11",
+      "iso_week": 37,
+      "distributor": "Angel Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZmZhZjFmNTMtODgxZC00MWE3LTkwMTYtOWEyN2I2ODc2YTM2XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "runtime_minutes": 97,
+      "is_franchise": null
+    },
+    {
+      "id": 158,
+      "film_id": null,
+      "title": "The Transformers: The Movie(Wide, re-release)",
+      "release_date": "2026-09-17",
+      "iso_week": 38,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 159,
+      "film_id": 6795,
+      "title": "Resident Evil",
+      "release_date": "2026-09-18",
+      "iso_week": 38,
+      "distributor": "Sony Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Imax"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BY2Q1YTM4MWMtZWExMS00N2QyLWJjMTgtNjg0ZGIzYmY5NTUyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 161,
+      "film_id": 6797,
+      "title": "The Weight",
+      "release_date": "2026-09-18",
+      "iso_week": 38,
+      "distributor": "Vertical Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjhjYzQyY2UtM2Y5Zi00ZWFiLTlhZjAtYWI0YTRhOGE5YjNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 107,
+      "is_franchise": null
+    },
+    {
+      "id": 160,
+      "film_id": 6796,
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "release_date": "2026-09-18",
+      "iso_week": 38,
+      "distributor": "GKIDS",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDViZGRhOWQtY2IxOS00NTYyLTk5YzAtOTRlZGQ4NTU1OWVjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": 91,
+      "is_franchise": null
+    },
+    {
+      "id": 165,
+      "film_id": 6799,
+      "title": "Forgotten Island",
+      "release_date": "2026-09-25",
+      "iso_week": 39,
+      "distributor": "Universal",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNGE1NWY2NmQtYTY2Yy00Y2Q2LTg3ZTQtOWUzOGYyNzcyMmQ1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": 98,
+      "is_franchise": null
+    },
+    {
+      "id": 164,
+      "film_id": 6798,
+      "title": "Charlie Harper",
+      "release_date": "2026-09-25",
+      "iso_week": 39,
+      "distributor": "Row K Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Romance"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BY2ZiMWRlYjUtNTJjMy00ZTRkLWJlZDEtZDYyMjQzM2U1M2M5XkEyXkFqcGc@._V1_QL75_UY562_CR310,0,380,562_.jpg",
+      "runtime_minutes": 102,
+      "is_franchise": null
+    },
+    {
+      "id": 169,
+      "film_id": 6802,
+      "title": "Never After Dark",
+      "release_date": "2026-09-25",
+      "iso_week": 39,
+      "distributor": "Magnolia Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Horror"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": 105,
+      "is_franchise": null
+    },
+    {
+      "id": 163,
+      "film_id": null,
+      "title": "Avengers: Endgame(Wide, re-release)",
+      "release_date": "2026-09-25",
+      "iso_week": 39,
+      "distributor": "Walt Disney",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 166,
+      "film_id": null,
+      "title": "Untitled Paramount Event Film",
+      "release_date": "2026-09-25",
+      "iso_week": 39,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 168,
+      "film_id": 6801,
+      "title": "April X",
+      "release_date": "2026-09-25",
+      "iso_week": 39,
+      "distributor": "Rialto Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZWRmMjEwOWYtZDRjYS00ZjNjLWI2MmItZTNlN2ZiNzJkOWRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 167,
+      "film_id": 6800,
+      "title": "Victorian Psycho",
+      "release_date": "2026-09-25",
+      "iso_week": 39,
+      "distributor": "Bleecker Street",
+      "tier": "indie",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZmIyMDdkMGYtMjQ2My00YzAwLWI0YWUtZjMyOTg3NTlmMWZhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": 90,
+      "is_franchise": null
+    },
+    {
+      "id": 172,
+      "film_id": null,
+      "title": "Sharknado Origins",
+      "release_date": "2026-09-26",
+      "iso_week": 39,
+      "distributor": "The Asylum",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 170,
+      "film_id": null,
+      "title": "Princess Mononoke(Special Engagement, re-release)",
+      "release_date": "2026-09-26",
+      "iso_week": 39,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 171,
+      "film_id": null,
+      "title": "The Last Temptation of Becky",
+      "release_date": "2026-09-26",
+      "iso_week": 39,
+      "distributor": "Quiver",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 177,
+      "film_id": 6806,
+      "title": "Crawlers",
+      "release_date": "2026-10-02",
+      "iso_week": 40,
+      "distributor": "Roadside Attractions",
+      "tier": "indie",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMGZmYTFjNzUtNTg1NC00MDZjLTg1MzYtYTE0NTk1YTE3OGJiXkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "runtime_minutes": 86,
+      "is_franchise": null
+    },
+    {
+      "id": 173,
+      "film_id": 6803,
+      "title": "Digger",
+      "release_date": "2026-10-02",
+      "iso_week": 40,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "format_flags": [
+        "Imax"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOWNiMjI1MzItMDkwNy00YzNjLWIwYjUtZTM5ZGIyYTVkZDhiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": 106,
+      "is_franchise": null
+    },
+    {
+      "id": 174,
+      "film_id": 6804,
+      "title": "Rolling Loud",
+      "release_date": "2026-10-02",
+      "iso_week": 40,
+      "distributor": "Ketchup Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNWJlZDBmMGQtNjFiYy00ZGUwLTk5ZjMtNzYzNDU5MWIyY2I1XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 175,
+      "film_id": 6805,
+      "title": "Verity",
+      "release_date": "2026-10-02",
+      "iso_week": 40,
+      "distributor": "Amazon MGM Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYmI4NmViZDMtYTcwMi00MTdjLWFiNjUtNDcxMmJmYjgyMjU0XkEyXkFqcGc@._V1_QL75_UX250_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 179,
+      "film_id": null,
+      "title": "Ninja Scroll(Limited, re-release)",
+      "release_date": "2026-10-04",
+      "iso_week": 40,
+      "distributor": "Iconic Releasing",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 184,
+      "film_id": null,
+      "title": "Pan\u2019s Labyrinth(Special Engagement, re-release)",
+      "release_date": "2026-10-09",
+      "iso_week": 41,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 180,
+      "film_id": 6807,
+      "title": "Angel and the Badman",
+      "release_date": "2026-10-09",
+      "iso_week": 41,
+      "distributor": "Angel Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Western"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWNlMGE1YTEtZjRjYy00ZDdmLWI5MDAtNGY2YTliYTg1N2JlXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 181,
+      "film_id": 6808,
+      "title": "Other Mommy",
+      "release_date": "2026-10-09",
+      "iso_week": 41,
+      "distributor": "Universal",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Horror"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 182,
+      "film_id": 6809,
+      "title": "The Social Reckoning",
+      "release_date": "2026-10-09",
+      "iso_week": 41,
+      "distributor": "Sony Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZmRhNmRmNzYtMDNhZC00NDQyLWI3NjUtYWY3MjRjNWM3MmVhXkEyXkFqcGc@._V1_QL75_UY280_CR5,0,280,280_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 176,
+      "film_id": null,
+      "title": "California Schemin\u2019(Expands Wide)",
+      "release_date": "2026-10-09",
+      "iso_week": 41,
+      "distributor": "Magenta Light Studios",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 185,
+      "film_id": null,
+      "title": "Gone with the Wind(Special Engagement, re-release)",
+      "release_date": "2026-10-10",
+      "iso_week": 41,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 186,
+      "film_id": 6810,
+      "title": "Time",
+      "release_date": "2026-10-15",
+      "iso_week": 42,
+      "distributor": "ShutterSTOCK Liner Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjM1MjExYmYtNTcwZS00Y2QyLTlhMmQtMzAxMDJmNmFkMDdkXkEyXkFqcGdeQXVyMTY3NTE5NzA3._V1_SX300.jpg",
+      "runtime_minutes": 95,
+      "is_franchise": null
+    },
+    {
+      "id": 190,
+      "film_id": 6813,
+      "title": "Street Fighter",
+      "release_date": "2026-10-16",
+      "iso_week": 42,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Imax"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 191,
+      "film_id": 6814,
+      "title": "Whalefall",
+      "release_date": "2026-10-16",
+      "iso_week": 42,
+      "distributor": "20th Century Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 188,
+      "film_id": 6811,
+      "title": "Poetic License",
+      "release_date": "2026-10-16",
+      "iso_week": 42,
+      "distributor": "Row K Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDNlZDJmOWEtMmU5Yi00MDM1LTg3MmItZWYzYTQzNmQzMjBlXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+      "runtime_minutes": 117,
+      "is_franchise": null
+    },
+    {
+      "id": 189,
+      "film_id": 6812,
+      "title": "Sense and Sensibility",
+      "release_date": "2026-10-16",
+      "iso_week": 42,
+      "distributor": "Focus Features",
+      "tier": "indie",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjFjNzAxZjgtOTlkZC00NTgzLWE5NzctMjVhYTJmYjBlNTAzXkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 187,
+      "film_id": null,
+      "title": "Flywheel: Ignition of the Soul",
+      "release_date": "2026-10-16",
+      "iso_week": 42,
+      "distributor": "Sony Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 193,
+      "film_id": 6815,
+      "title": "A Body in the Woods",
+      "release_date": "2026-10-17",
+      "iso_week": 42,
+      "distributor": null,
+      "tier": "unknown",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BY2M3NjM1YmEtOTc5MS00OTVkLWIwNzYtMWQwN2EzOGE4ODRiXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg",
+      "runtime_minutes": 92,
+      "is_franchise": null
+    },
+    {
+      "id": 194,
+      "film_id": null,
+      "title": "Spirited Away(Special Engagement, re-release)",
+      "release_date": "2026-10-17",
+      "iso_week": 42,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 196,
+      "film_id": 6817,
+      "title": "Klara and the Sun",
+      "release_date": "2026-10-23",
+      "iso_week": 43,
+      "distributor": "Sony Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 200,
+      "film_id": 6818,
+      "title": "Wildwood",
+      "release_date": "2026-10-23",
+      "iso_week": 43,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BM2YyMTYwMzAtMjczYy00OWI4LTk0NjUtYzU5NDJmZjRkNDkzXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 198,
+      "film_id": null,
+      "title": "Untitled Amazon MGM Studio Film",
+      "release_date": "2026-10-23",
+      "iso_week": 43,
+      "distributor": "Amazon MGM Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 195,
+      "film_id": 6816,
+      "title": "Clayface",
+      "release_date": "2026-10-23",
+      "iso_week": 43,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTAyMjgxZjctMjRjNC00Zjg1LWJiNzctMDkxYzk0NWVmODMwXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 197,
+      "film_id": null,
+      "title": "Untitled A24 Horror Film",
+      "release_date": "2026-10-23",
+      "iso_week": 43,
+      "distributor": "A24",
+      "tier": "indie",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 199,
+      "film_id": null,
+      "title": "Wife & Dog",
+      "release_date": "2026-10-23",
+      "iso_week": 43,
+      "distributor": "Black Bear Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 201,
+      "film_id": null,
+      "title": "V for Vendetta(Special Engagement, re-release)",
+      "release_date": "2026-11-01",
+      "iso_week": 44,
+      "distributor": "Fathom Events",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 202,
+      "film_id": 6819,
+      "title": "Archangel",
+      "release_date": "2026-11-06",
+      "iso_week": 45,
+      "distributor": "Sony Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWQxMmNkZWQtNjQyNi00YTgyLTkzMjktMzY1MWJlOTAyN2MyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 207,
+      "film_id": null,
+      "title": "Ramayana Part 1",
+      "release_date": "2026-11-06",
+      "iso_week": 45,
+      "distributor": null,
+      "tier": "unknown",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 208,
+      "film_id": 6824,
+      "title": "Wild Horse Nine",
+      "release_date": "2026-11-06",
+      "iso_week": 45,
+      "distributor": "Searchlight Pictures",
+      "tier": "indie",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDc5ZDAzNmEtNTI2OS00YWI0LWE5MTYtZTJiN2RkNzRmMjA0XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 206,
+      "film_id": 6823,
+      "title": "Jimmy",
+      "release_date": "2026-11-06",
+      "iso_week": 45,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYmJmZTZjZDktYzJlYi00OGNkLWJhMmQtNWUwODkzMTA5YmQzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 205,
+      "film_id": 6822,
+      "title": "Godzilla Minus Zero",
+      "release_date": "2026-11-06",
+      "iso_week": 45,
+      "distributor": "GKIDS",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNWUyMDY0NWQtMjI2Zi00YjMwLTkwYmItZDk1MGI5MjEzODQxXkEyXkFqcGc@._V1_QL75_UY562_CR10,0,380,562_.jpg",
+      "runtime_minutes": 119,
+      "is_franchise": null
+    },
+    {
+      "id": 204,
+      "film_id": 6821,
+      "title": "Drummer Boy",
+      "release_date": "2026-11-06",
+      "iso_week": 45,
+      "distributor": "Angel Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 203,
+      "film_id": 6820,
+      "title": "Dr. Seuss\u2019 The Cat in the Hat",
+      "release_date": "2026-11-06",
+      "iso_week": 45,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "format_flags": [
+        "Imax"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Animation",
+        "Short"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": 30,
+      "is_franchise": null
+    },
+    {
+      "id": 210,
+      "film_id": null,
+      "title": "Rocky(Special Engagement, re-release)",
+      "release_date": "2026-11-07",
+      "iso_week": 45,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 213,
+      "film_id": null,
+      "title": "The Angry Birds Movie(Limited, re-release)",
+      "release_date": "2026-11-13",
+      "iso_week": 46,
+      "distributor": "Iconic Releasing",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 211,
+      "film_id": 6825,
+      "title": "Ebenezer: A Christmas Carol",
+      "release_date": "2026-11-13",
+      "iso_week": 46,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Fantasy"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 212,
+      "film_id": 6826,
+      "title": "The Great Beyond",
+      "release_date": "2026-11-13",
+      "iso_week": 46,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 215,
+      "film_id": 6827,
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "release_date": "2026-11-20",
+      "iso_week": 47,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNGRkYmM2MjUtZTY4Yi00YTNhLTk1MDEtYTQ3YjFiOTljM2Y1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": 150,
+      "is_franchise": null
+    },
+    {
+      "id": 214,
+      "film_id": null,
+      "title": "I Play Rocky(Expands Wide)",
+      "release_date": "2026-11-20",
+      "iso_week": 47,
+      "distributor": "Amazon MGM Studios",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 217,
+      "film_id": null,
+      "title": "A Beautiful Mind(Special Engagement, re-release)",
+      "release_date": "2026-11-22",
+      "iso_week": 47,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 218,
+      "film_id": 6828,
+      "title": "Focker-in-Law",
+      "release_date": "2026-11-25",
+      "iso_week": 48,
+      "distributor": "Universal",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOGI0NjhmMmEtNDAxZC00MDFjLThlNzUtYTUwMDkzMjMxNGIzXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 219,
+      "film_id": 6829,
+      "title": "Hexed",
+      "release_date": "2026-11-25",
+      "iso_week": 48,
+      "distributor": "Walt Disney",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2JkZDhjNjMtZDE3MS00ZTExLWI2MjQtMDdmZTIyZGIyNzZiXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 220,
+      "film_id": 6830,
+      "title": "Hershey",
+      "release_date": "2026-11-26",
+      "iso_week": 48,
+      "distributor": "Angel Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Family"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjE5OTkyMjAtYzgxNC00YjQxLWIxOWEtOTNhZGQ0NzUwOWMxXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 222,
+      "film_id": 6832,
+      "title": "Above the Below",
+      "release_date": "2026-12-04",
+      "iso_week": 49,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Documentary"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNGJkY2EwY2QtM2MzNC00MzU0LWJiMmMtNDQ4NTU4YTk3ZDM2XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 61,
+      "is_franchise": null
+    },
+    {
+      "id": 221,
+      "film_id": 6831,
+      "title": "Violent Night 2",
+      "release_date": "2026-12-04",
+      "iso_week": 49,
+      "distributor": "Universal",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTQ0ZjI1Y2MtMDZmNC00Y2JlLTg3ZjAtYWQ0MTVmMGQ5MjRkXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 223,
+      "film_id": null,
+      "title": "The Maltese Falcon(Special Engagement, re-release)",
+      "release_date": "2026-12-06",
+      "iso_week": 49,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 225,
+      "film_id": 6834,
+      "title": "Dune: Part Three",
+      "release_date": "2026-12-18",
+      "iso_week": 51,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDA2MDVmNWItODA3My00Mzc2LThmODMtMThhYTVlMGJkYjA4XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 226,
+      "film_id": null,
+      "title": "It\u2019s a Wonderful Life(Limited, re-release)",
+      "release_date": "2026-12-18",
+      "iso_week": 51,
+      "distributor": "Fathom Entertainment",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 224,
+      "film_id": 6833,
+      "title": "Avengers: Doomsday",
+      "release_date": "2026-12-18",
+      "iso_week": 51,
+      "distributor": "Walt Disney",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BM2E1ZTJiZTgtZGI2Zi00MzAxLThhZjktMmU3M2E3Yzk3NjUxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 227,
+      "film_id": 6835,
+      "title": "The Angry Birds Movie 3",
+      "release_date": "2026-12-23",
+      "iso_week": 52,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BM2JlNjA5ZDItNjI4OC00YTQ3LWJiOGQtZGJiN2FkZDc2MDE0XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 228,
+      "film_id": 6836,
+      "title": "King",
+      "release_date": "2026-12-24",
+      "iso_week": 52,
+      "distributor": "Red Chillies Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjBiN2Q0ZjEtY2ZkYS00ZjdjLWEwYWEtNWQ4MzcyMzUwYTk2XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 229,
+      "film_id": 6837,
+      "title": "Jumanji: Open World",
+      "release_date": "2026-12-25",
+      "iso_week": 52,
+      "distributor": "Sony Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Imax"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjgxZmExZDYtNDhkZS00YWI0LTlmOWQtZWRhYzY0ZWY4ODljXkEyXkFqcGc@._V1_QL75_UY562_CR179,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 230,
+      "film_id": 6838,
+      "title": "Mr. Irrelevant",
+      "release_date": "2026-12-25",
+      "iso_week": 52,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjllOWE3OWQtNmVhYS00MzM0LTk2NTEtZjQzNTEzNTc2MTc3XkEyXkFqcGc@._V1_QL75_UY562_CR232,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 231,
+      "film_id": 6839,
+      "title": "A Place in Hell",
+      "release_date": "2026-12-25",
+      "iso_week": 52,
+      "distributor": "Neon",
+      "tier": "indie",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNGExZDE3NWItZmY0Ni00ZjE1LThlZWUtNTJjN2VjYmMzM2NjXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 232,
+      "film_id": 6840,
+      "title": "Werwulf",
+      "release_date": "2026-12-25",
+      "iso_week": 52,
+      "distributor": "Focus Features",
+      "tier": "indie",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Horror"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 233,
+      "film_id": 6841,
+      "title": "Zero A.D.",
+      "release_date": "2026-12-25",
+      "iso_week": 52,
+      "distributor": "Angel Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjU2ZGE2MjktZjZhNC00ZWZiLWI2MTYtMThhZDJkZDQ3YTE2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 235,
+      "film_id": null,
+      "title": "My Brother's Wedding(Limited, re-release)",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Kino Lorber",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 265,
+      "film_id": null,
+      "title": "Toxic: A Fairy Tale for Grown-Ups",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "KVN Productions",
+      "tier": "industry",
+      "format_flags": [
+        "Imax"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 263,
+      "film_id": null,
+      "title": "Sorelle di clausura",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Big World Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 254,
+      "film_id": 6855,
+      "title": "The Forest Hills",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Self Distributed",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzRlODU0YTgtMzUwNi00MzVkLWEzODctNjNlZWM2NWJkMjYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 79,
+      "is_franchise": null
+    },
+    {
+      "id": 255,
+      "film_id": 6856,
+      "title": "Ha-Chan, Shake Your Booty!",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Sony Pictures Classics",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOGU3ZGViYTgtYjExMC00NzI0LWE5ODMtZTdkN2I4NmE3NDUzXkEyXkFqcGc@._V1_QL75_UY562_CR310,0,380,562_.jpg",
+      "runtime_minutes": 122,
+      "is_franchise": null
+    },
+    {
+      "id": 256,
+      "film_id": 6857,
+      "title": "Hope",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Neon",
+      "tier": "indie",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Short",
+        "Drama",
+        "Mystery"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTUzNDQxMDAtOTY1Mi00YzU5LWE4ZTMtOTVlNTBmY2I3MDc3XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 20,
+      "is_franchise": null
+    },
+    {
+      "id": 257,
+      "film_id": 6858,
+      "title": "The Incomer",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Sumerian",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMGExNTk0NjgtOGMxNS00MGE3LTk3NjAtNzE5MGEwZDA0Nzk0XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 258,
+      "film_id": 6859,
+      "title": "Indian 3",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Film Distribution Network",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "N/A"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDk5NWEzNjMtMTM5MS00ZmM1LWI3NTEtZmZjZTE4NTNhMmFmXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 259,
+      "film_id": 6860,
+      "title": "The Promise",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Watermelon Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "mpaa": "PG-13",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzJhYjRiYjYtZGZmZS00MGZmLWI5NWQtZjdlNmEzOGY4YTU2XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 133,
+      "is_franchise": null
+    },
+    {
+      "id": 260,
+      "film_id": 6861,
+      "title": "Saurus City",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": null,
+      "tier": "unknown",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2M2NmZiYjMtOWUwOS00ODY1LWI5YWMtNTQyZmJiZjQzNWQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 77,
+      "is_franchise": null
+    },
+    {
+      "id": 261,
+      "film_id": 6862,
+      "title": "The Scout",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Greenwich",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sport"
+      ],
+      "mpaa": "PG-13",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzFhZWE5NjgtNDNkNy00MGVhLWI2NjQtZThjZTk4ODg0Y2JiXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 101,
+      "is_franchise": null
+    },
+    {
+      "id": 264,
+      "film_id": 6863,
+      "title": "Union County",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Oscilloscope Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTM0ZWVmNGMtNjYwMC00NjY0LTgzYWQtMTY1MzJlMjBkYjNkXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 97,
+      "is_franchise": null
+    },
+    {
+      "id": 262,
+      "film_id": null,
+      "title": "She Saw Us",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": null,
+      "tier": "unknown",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 251,
+      "film_id": null,
+      "title": "Big Girls Don\u2019t Cry",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Blue Fox Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 248,
+      "film_id": null,
+      "title": "Whitney Springs",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 245,
+      "film_id": null,
+      "title": "Star Trek 4",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 244,
+      "film_id": null,
+      "title": "Old Man in the Dunes",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Angel Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 239,
+      "film_id": null,
+      "title": "The Haunting in Wicker Park",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Sony Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 266,
+      "film_id": null,
+      "title": "Soulm8te(Canceled)",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Universal",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 236,
+      "film_id": 6842,
+      "title": "Soul Patrol",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Kino Lorber",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Documentary"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjJjMDBkOTctNGM3Yy00ZjhhLWJmYzItNTZhNzFhMDZiZjJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 100,
+      "is_franchise": null
+    },
+    {
+      "id": 237,
+      "film_id": 6843,
+      "title": "Fablehaven",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Angel Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Fantasy"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 238,
+      "film_id": 6844,
+      "title": "Fleak",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Attend",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Animation"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 240,
+      "film_id": 6845,
+      "title": "Horizon: An American Saga Chapter 2",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDg1OWI3NTYtY2IwMy00NmQ4LTk5YWUtZmViNmU5YTFkNGU5XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 190,
+      "is_franchise": null
+    },
+    {
+      "id": 241,
+      "film_id": 6846,
+      "title": "Hotel Tehran",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Inaugural Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 242,
+      "film_id": 6847,
+      "title": "Maserati: The Brothers",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Magenta Light Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 243,
+      "film_id": 6848,
+      "title": "November 1963",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Ketchup Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Biography",
+        "Crime",
+        "History"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOGViNWY4MzktNDQzMi00MDZiLTk0MjctNmVjYjRlYzkxYjMwXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 246,
+      "film_id": 6849,
+      "title": "The Sun Never Sets",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Independent Film Company",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTExNjY1ZTMtNzdlMS00ODNjLWFlNDUtYmE4YTEzODdjYjFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 102,
+      "is_franchise": null
+    },
+    {
+      "id": 247,
+      "film_id": 6850,
+      "title": "Thanksgiving 2",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Sony Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Short",
+        "Horror"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMWVkMjZkZjMtZmUyYy00Y2UwLWI5ODMtNTU4MjJmMDM2ZTcwXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 5,
+      "is_franchise": null
+    },
+    {
+      "id": 249,
+      "film_id": 6851,
+      "title": "Wicker",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Black Bear Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTk2MzQ3MGYtMTU1Zi00OGE3LWFmZmUtZmM1MmY3NmRhOTRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 105,
+      "is_franchise": null
+    },
+    {
+      "id": 250,
+      "film_id": 6852,
+      "title": "The Ark and the Aardvark",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "ARC Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Animation"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjc3NzI2MDQtYTNiYi00Mjk3LThkMTYtMWI1YTkxNGI4ZGJmXkEyXkFqcGdeQXVyNDI2MTA0OA@@._V1_SX300.jpg",
+      "runtime_minutes": 118,
+      "is_franchise": null
+    },
+    {
+      "id": 252,
+      "film_id": 6853,
+      "title": "Desert Road",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Firebrand Media",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDFiYTFlMjMtNTFmYS00MTZmLWFlYTctYWQ1NjdhODQ5NTNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 90,
+      "is_franchise": null
+    },
+    {
+      "id": 253,
+      "film_id": 6854,
+      "title": "Filipi\u00f1ana",
+      "release_date": "2026-12-31",
+      "iso_week": 53,
+      "distributor": "Kino Lorber",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjk2YmJiM2YtMzZhNS00Y2E4LTg2ODgtYzk1NzQ1YTU5MGVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 100,
+      "is_franchise": null
+    },
+    {
+      "id": 267,
+      "film_id": 6864,
+      "title": "Pendulum",
+      "release_date": "2027-01-01",
+      "iso_week": 53,
+      "distributor": "Vertical Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzcxMzkyOWEtNzMxNC00NDhlLTg3NmYtNGRiODIwZmRjOTdiXkEyXkFqcGc@._V1_QL75_UY562_CR91,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 268,
+      "film_id": 6865,
+      "title": "Untitled Shudder Horror Film",
+      "release_date": "2027-01-08",
+      "iso_week": 1,
+      "distributor": "Independent Film Company",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Horror"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTg1OGM1NDUtMDU5NC00ZDdkLTgwZjYtZTk2NWZhZWNmNmE2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 271,
+      "film_id": 6868,
+      "title": "Untitled Blumhouse Event Film",
+      "release_date": "2027-01-15",
+      "iso_week": 2,
+      "distributor": "Universal",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "N/A"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 270,
+      "film_id": 6867,
+      "title": "Children of Blood and Bone",
+      "release_date": "2027-01-15",
+      "iso_week": 2,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Imax"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzg1Njg1NDItYzNhZS00MjAyLWE2MDktNjBlODRhYzdkNTFjXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 269,
+      "film_id": 6866,
+      "title": "The Beekeeper 2",
+      "release_date": "2027-01-15",
+      "iso_week": 2,
+      "distributor": "Amazon MGM Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 274,
+      "film_id": 6870,
+      "title": "Animal Friends",
+      "release_date": "2027-01-22",
+      "iso_week": 3,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Animation"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 273,
+      "film_id": 6869,
+      "title": "Air Bud Returns",
+      "release_date": "2027-01-22",
+      "iso_week": 3,
+      "distributor": "Cineverse",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy",
+        "Family",
+        "Sport"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTJiNzJkZmItNjJmZC00NzZmLWE1ZjktM2VhYTI1ZDY0ZjUzXkEyXkFqcGc@._V1_QL75_UY562_CR22,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 275,
+      "film_id": 6871,
+      "title": "The Third Parent",
+      "release_date": "2027-01-22",
+      "iso_week": 3,
+      "distributor": "Bleecker Street",
+      "tier": "indie",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Documentary",
+        "Short"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": 6,
+      "is_franchise": null
+    },
+    {
+      "id": 276,
+      "film_id": 6872,
+      "title": "The Rescue",
+      "release_date": "2027-01-29",
+      "iso_week": 4,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Western"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 278,
+      "film_id": null,
+      "title": "Ice Age: Boiling Point",
+      "release_date": "2027-02-05",
+      "iso_week": 5,
+      "distributor": "20th Century Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 280,
+      "film_id": 6875,
+      "title": "Remain",
+      "release_date": "2027-02-05",
+      "iso_week": 5,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Short",
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 279,
+      "film_id": 6874,
+      "title": "Lords of War",
+      "release_date": "2027-02-05",
+      "iso_week": 5,
+      "distributor": "Vertical Entertainment",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Reality-TV"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDY0NDk3MTQ1M15BMl5BanBnXkFtZTgwNzQ2NDAxMzE@._V1_SX300.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 277,
+      "film_id": 6873,
+      "title": "The Comeback King",
+      "release_date": "2027-02-05",
+      "iso_week": 5,
+      "distributor": "Universal",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Documentary"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNmIyZDg1NTAtYzQzYi00YzAxLTk5ZWQtZWFhYWRmNzFlMGU4XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 282,
+      "film_id": 6876,
+      "title": "The Nightingale",
+      "release_date": "2027-02-12",
+      "iso_week": 6,
+      "distributor": "Sony Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller"
+      ],
+      "mpaa": "R",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWJlNjVhY2EtODY5NC00MTEyLWE1ODEtMzllZjNlN2JhNzVmXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 136,
+      "is_franchise": null
+    },
+    {
+      "id": 283,
+      "film_id": 6877,
+      "title": "Wishful Thinking",
+      "release_date": "2027-02-12",
+      "iso_week": 6,
+      "distributor": "Sony Pictures Classics",
+      "tier": "industry",
+      "format_flags": [
+        "Limited"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "mpaa": "R",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWJjYTZiNDUtNGJmYi00YzkxLThlZTktZDFjMGQ2YzU3Nzg2XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 93,
+      "is_franchise": null
+    },
+    {
+      "id": 284,
+      "film_id": 6878,
+      "title": "Narnia",
+      "release_date": "2027-02-12",
+      "iso_week": 6,
+      "distributor": "Netflix",
+      "tier": "industry",
+      "format_flags": [
+        "Imax"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "mpaa": "PG",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTc0NTUwMTU5OV5BMl5BanBnXkFtZTcwNjAwNzQzMw@@._V1_SX300.jpg",
+      "runtime_minutes": 143,
+      "is_franchise": null
+    },
+    {
+      "id": 281,
+      "film_id": null,
+      "title": "K-Pop Superstar: The Movie",
+      "release_date": "2027-02-12",
+      "iso_week": 6,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 286,
+      "film_id": null,
+      "title": "Star Wars Ep. IV: A New Hope(Wide, re-release)",
+      "release_date": "2027-02-19",
+      "iso_week": 7,
+      "distributor": "Walt Disney",
+      "tier": "industry",
+      "format_flags": null,
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 287,
+      "film_id": null,
+      "title": "Untitled Neon Horror Film",
+      "release_date": "2027-02-19",
+      "iso_week": 7,
+      "distributor": "Neon",
+      "tier": "indie",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 285,
+      "film_id": 6879,
+      "title": "CoComelon: The Movie",
+      "release_date": "2027-02-19",
+      "iso_week": 7,
+      "distributor": "Universal",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 288,
+      "film_id": 6880,
+      "title": "Live Like That",
+      "release_date": "2027-02-26",
+      "iso_week": 8,
+      "distributor": "Sony Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "N/A"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTdhODRiYTYtYTMzZi00ZGFiLWJmY2EtYzA0MTU4ZGExY2I4XkEyXkFqcGdeQXVyODY0NTMxNTE@._V1_SX300.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 289,
+      "film_id": 6881,
+      "title": "Panic Carefully",
+      "release_date": "2027-02-26",
+      "iso_week": 8,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 291,
+      "film_id": 6883,
+      "title": "The Thomas Crown Affair",
+      "release_date": "2027-03-05",
+      "iso_week": 9,
+      "distributor": "Amazon MGM Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Imax"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Romance"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 292,
+      "film_id": null,
+      "title": "Untitled DC Event Film",
+      "release_date": "2027-03-05",
+      "iso_week": 9,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 290,
+      "film_id": 6882,
+      "title": "Gatto",
+      "release_date": "2027-03-05",
+      "iso_week": 9,
+      "distributor": "Walt Disney",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjMxYmQyNWUtNTllMC00OGJjLWI2OGEtOWQ3MjgxOThhMzQ5XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": 109,
+      "is_franchise": null
+    },
+    {
+      "id": 296,
+      "film_id": null,
+      "title": "Untitled Warner Bros. Event Film",
+      "release_date": "2027-03-12",
+      "iso_week": 10,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 294,
+      "film_id": null,
+      "title": "Untitled Mike Flanagan Exorcist Film",
+      "release_date": "2027-03-12",
+      "iso_week": 10,
+      "distributor": "Universal",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 295,
+      "film_id": null,
+      "title": "Untitled The Chosen Season 6 Finale Film",
+      "release_date": "2027-03-12",
+      "iso_week": 10,
+      "distributor": "Amazon MGM Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 297,
+      "film_id": 6884,
+      "title": "Sonic the Hedgehog 4",
+      "release_date": "2027-03-19",
+      "iso_week": 11,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmIxMTdiNDctMDcyYi00N2RmLTk5Y2EtMWE5N2YzOTEyYjdlXkEyXkFqcGc@._V1_QL75_UY562_CR227,0,380,562_.jpg",
+      "runtime_minutes": 167,
+      "is_franchise": null
+    },
+    {
+      "id": 298,
+      "film_id": null,
+      "title": "Wolf Creek: Legacy",
+      "release_date": "2027-03-19",
+      "iso_week": 11,
+      "distributor": "Cineverse",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 299,
+      "film_id": 6885,
+      "title": "Day Drinker",
+      "release_date": "2027-03-26",
+      "iso_week": 12,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMGJkYWM5ZDgtNmUyNS00ZDdiLTliODMtNDhmNzYyMTEzMzM0XkEyXkFqcGc@._V1_QL75_UY562_CR316,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 300,
+      "film_id": 6886,
+      "title": "Godzilla x Kong: Supernova",
+      "release_date": "2027-03-26",
+      "iso_week": 12,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "format_flags": [
+        "Imax"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjFiMmEwNjktYjMzYi00MTAxLTkzMjQtYmM0YWQxZGIzODM0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 302,
+      "film_id": null,
+      "title": "Untitled Disney Film",
+      "release_date": "2027-04-02",
+      "iso_week": 13,
+      "distributor": "Walt Disney",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 303,
+      "film_id": 6887,
+      "title": "Untitled Universal Event Film",
+      "release_date": "2027-04-02",
+      "iso_week": 13,
+      "distributor": "Universal",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "N/A"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 304,
+      "film_id": 6888,
+      "title": "Varanasi",
+      "release_date": "2027-04-07",
+      "iso_week": 14,
+      "distributor": null,
+      "tier": "unknown",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOWIxZWYxNTItOTQ1MS00NGEzLWE0NzktZTRiMDFkMTU3YTlhXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 306,
+      "film_id": 6890,
+      "title": "The Revenge of La Llorona",
+      "release_date": "2027-04-09",
+      "iso_week": 14,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Horror"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjZlZThhY2EtNGRkMC00YWJlLTgwN2YtODExZWVlYjYwOGFiXkEyXkFqcGc@._V1_QL75_UY562_CR310,0,380,562_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 305,
+      "film_id": 6889,
+      "title": "Get Lite",
+      "release_date": "2027-04-09",
+      "iso_week": 14,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Drama"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 307,
+      "film_id": null,
+      "title": "Untitled Illumination Event Film",
+      "release_date": "2027-04-16",
+      "iso_week": 15,
+      "distributor": "Universal",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 309,
+      "film_id": null,
+      "title": "Spaceballs 2",
+      "release_date": "2027-04-23",
+      "iso_week": 16,
+      "distributor": "Amazon MGM Studios",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 308,
+      "film_id": 6891,
+      "title": "F.A.S.T.",
+      "release_date": "2027-04-23",
+      "iso_week": 16,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDQxZmM0MDYtYTM1Zi00YmRhLWJkMGEtNjk1MWY3MDUzZDlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 310,
+      "film_id": null,
+      "title": "The Resurrection of the Christ: Part One",
+      "release_date": "2027-05-06",
+      "iso_week": 18,
+      "distributor": "Lionsgate",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 311,
+      "film_id": 6892,
+      "title": "The Legend of Zelda",
+      "release_date": "2027-05-07",
+      "iso_week": 18,
+      "distributor": "Sony Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Imax"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 315,
+      "film_id": null,
+      "title": "Untitled Paranormal Activity Film",
+      "release_date": "2027-05-21",
+      "iso_week": 20,
+      "distributor": "Paramount Pictures",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": null,
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 314,
+      "film_id": 6894,
+      "title": "The Catch",
+      "release_date": "2027-05-21",
+      "iso_week": 20,
+      "distributor": "Universal",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjI4NjM1NDkyN15BMl5BanBnXkFtZTgwODgyNTY1MjE@._V1_QL75_UX280_CR0,25,280,280_.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 313,
+      "film_id": 6893,
+      "title": "Bad Fairies",
+      "release_date": "2027-05-21",
+      "iso_week": 20,
+      "distributor": "Warner Bros.",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Musical"
+      ],
+      "mpaa": null,
+      "poster_url": null,
+      "runtime_minutes": null,
+      "is_franchise": null
+    },
+    {
+      "id": 316,
+      "film_id": 6895,
+      "title": "Star Wars: Starfighter",
+      "release_date": "2027-05-28",
+      "iso_week": 21,
+      "distributor": "Walt Disney",
+      "tier": "industry",
+      "format_flags": [
+        "Wide"
+      ],
+      "synopsis": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "mpaa": null,
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZWFkM2JmMDktNWEyNS00NGRkLTk3NDMtMzA5YjQyMTM0NWI5XkEyXkFqcGc@._V1_SX300.jpg",
+      "runtime_minutes": null,
+      "is_franchise": null
+    }
+  ],
+  "months_ahead": 12
+}

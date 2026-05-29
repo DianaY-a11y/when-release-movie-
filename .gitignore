@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+
+# Env files — never commit (contain ANTHROPIC_API_KEY etc.). The web subtree has
+# its own .gitignore handling .env* too; this catches the root .env.
+.env
+.env.local
+.env.*
+
+# Editors / IDEs
+.vscode/
+.idea/
+
+# Vercel
+.vercel/
+
+# ── scraper/ (Python) ─────────────────────────────────────────────────────────
+# Raw-HTML cache is ~400 MB and rebuildable from the scrapers — don't ship it.
+scraper/cache/
+scraper/.venv/
+scraper/venv/
+scraper/__pycache__/
+scraper/**/__pycache__/
+scraper/*.egg-info/
+scraper/**/*.pyc
+scraper/.pytest_cache/
+
+# ── web/ (Next.js) ────────────────────────────────────────────────────────────
+# Most exclusions live in web/.gitignore; these are belt-and-suspenders.
+web/node_modules/
+web/.next/
+web/out/
+web/*.tsbuildinfo
